@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="fi-FI">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  </head>
+  <body>
+
+      <header>
+        <h1>o-charts</h1>
+        <p>Vectori kartat OpenCPN:lle</p>
+      </header>
+
+      <div id="banner">
+        <span id="logo"></span>
+        <div class="leftmenu">
+           <ul>
+              <li><a href="https://o-charts.org/index_fi_FI.html" class="button">Etusivu</a></li>
+              <li><a href="https://o-charts.org/shop" class="button">Kauppa</a></li>
+           </ul>
+        </div>
+        {% if site.show_downloads %}
+          <div class="downloads">
+            <ul>
+              <li><a href="./index_fi_FI.html" class="button">auta</a></li>
+              <li><a href="./oesenc_fi_FI.html" class="button">oeSENC kartat</a></li>
+              <li><a href="./s63_fi_FI.html" class="button">S-63 KäyttöLupa</a></li>
+            </ul>
+          </div>
+        {% endif %}
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <section>
+        <p><a href="./index.html"><strong>English</strong></a> - <a href="./index_es_ES.html"><strong>Español</strong></a> - <a href="./index_fr_FR.html"><strong>Français</strong></a> - <a href="./index_de_DE.html"><strong>Deutsch</strong></a> - <a href="./index_nl_NL.html"><strong>Nederlands</strong></a> - <a href="./index_nb_NO.html"><strong>Norsk</strong></a> - <a href="./index_sv_SE.html"><strong>Svenska</strong></a> - <a href="./index_et_EE.html"><strong>Eesti</strong></a> - <a href="./index_fi_FI.html"><strong>Suomi</strong></a></p>
+        <hr>
+        {{ content }}
+      </section>
+      <footer>
+       <p><small>Isännöi GitHub sivua <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
+       <p><small>o charts.org käsittelee OpenCPN oeSENC ja S-63 plugineja. <br><a href="http://opencpn.org/">OpenCPN</a> on avoimen lähdekoodin ohjelmisto</small></p>
+       <p><small>o-charts.org on<br>Renate Rosner Consult S.L.<br>Av. Carl Friedrich Gauss, 11<br>08860 Castelldefels. Espanja <br>Sähköposti: tietoa o-charts.org:ssa</small></p>
+      </footer>
+    </div>
+  </body>
+</html>

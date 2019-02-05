@@ -1,1 +1,1 @@
-# manuals
+https://o-charts.github.io/manuals/
