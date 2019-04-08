@@ -1,5 +1,5 @@
 ---
-layout: default_et_EE
+layout: default_et_EE_home
 ---
 <div class="questions">
   
