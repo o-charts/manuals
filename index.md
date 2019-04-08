@@ -1,5 +1,5 @@
 ---
-layout: default_en_US
+layout: default_en_US_home
 ---
 <div class="questions">
 <div class="questionok question">
