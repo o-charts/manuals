@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="nl-NL">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  </head>
+  <body>
+
+      <header>
+        <h1>o-charts</h1>
+        <p>Vector kaarten voor OpenCPN</p>
+      </header>
+
+      <div id="banner">
+        <span id="logo"></span>
+        <div class="leftmenu">
+           <ul>
+              <li><a href="https://o-charts.org/index_nl_NL.html" class="button">Home</a></li>
+              <li><a href="https://o-charts.org/shop" class="button">Shop</a></li>
+           </ul>
+        </div>
+        {% if site.show_downloads %}
+          <div class="downloads">
+            <ul>
+              <li><a href="./oesenc_nl_NL.html" class="button">oeSENC Kaarten</a></li>
+              <li><a href="./s63_nl_NL.html" class="button">S-63 UserPermits</a></li>
+            </ul>
+          </div>
+        {% endif %}
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <section>
+        <p><a href="./index.html"><strong>English</strong></a> - <a href="./index_es_ES.html"><strong>Español</strong></a> - <a href="./index_fr_FR.html"><strong>Français</strong></a> - <a href="./index_de_DE.html"><strong>Deutsch</strong></a> - <a href="./index_nl_NL.html"><strong>Nederlands</strong></a> - <a href="./index_nb_NO.html"><strong>Norsk</strong></a> - <a href="./index_sv_SE.html"><strong>Svenska</strong></a> - <a href="./index_et_EE.html"><strong>Eesti</strong></a> - <a href="./index_fi_FI.html"><strong>Suomi</strong></a></p>
+        <hr>
+        {{ content }}
+      </section>
+      <footer>
+       <p><small>Gehost op GitHub pagina's <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
+       <p><small>o-charts biedt oeSENC en S-63 plug-ins voor OpenCPN. <br><a href="http://opencpn.org/">OpenCPN</a> is open-source software</small></p>
+       <p><small>o-charts.org is <br>Renate Rosner Consults S.L. <br>Av. Carl Friedrich Gauss, 11 <br>08860 Castelldefels. Spanje <br>e-mail: info@o-charts.org</small></p>
+      </footer>
+    </div>
+  </body>
+</html>
