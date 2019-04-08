@@ -71,7 +71,7 @@ Si
 </div>
 <div class="answer col4 inline">
 <div class="questionok ok">
-<a href="./oesenc_en_US.html"><strong>Compra e instala tus cartas oeSENC</strong></a> y no olvides actualizarlas.
+<a href="./oesenc_es_ES.html"><strong>Compra e instala tus cartas oeSENC</strong></a> y no olvides actualizarlas.
 </div>
 </div>
 </div>
@@ -111,7 +111,7 @@ Si
 </div>
 <div class="answer col4 inline">
 <div class="questionok ok">
-<a href="https://o-charts.org/shop/index.php?id_category=6&controller=category"><strong>Compra un UserPermit</strong></a>. Después compra <a href="https://www.chartworld.com/shop/off_enc"><strong>cartas S-63</strong></a> y finalmente <a href="./s63_en_US.html"><strong>instálalas</strong></a>.
+<a href="https://o-charts.org/shop/index.php?id_category=6&controller=category"><strong>Compra un UserPermit</strong></a>. Después compra <a href="https://www.chartworld.com/shop/off_enc"><strong>cartas S-63</strong></a> y finalmente <a href="./s63_es_ES.html"><strong>instálalas</strong></a>.
 </div>
 </div>
 </div>
