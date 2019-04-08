@@ -95,7 +95,7 @@ Ja
   <div class="answer col4 inline">
     
 <div class="questionok ok">
-<a href="./oesenc_en_US.html"><strong>Koop en installeer uw oeSENC-kaarten</strong></a> en vergeet ze niet te updaten.
+<a href="./oesenc_nl_NL.html"><strong>Koop en installeer uw oeSENC-kaarten</strong></a> en vergeet ze niet te updaten.
 </div>
   </div>
 </div>
@@ -149,7 +149,7 @@ Ja
   <div class="answer col4 inline">
     
 <div class="questionok ok">
-<a href="https://o-charts.org/shop/index.php?id_category=6&controller=category"><strong>Koop een UserPermit</strong></a>. Koop daarna <a href="https://www.chartworld.com/shop/off_enc"><strong>S-63-kaarten</strong></a> en <a href="./s63_en_US.html"><strong>installeer ze</strong></a>.
+<a href="https://o-charts.org/shop/index.php?id_category=6&controller=category"><strong>Koop een UserPermit</strong></a>. Koop daarna <a href="https://www.chartworld.com/shop/off_enc"><strong>S-63-kaarten</strong></a> en <a href="./s63_nl_NL.html"><strong>installeer ze</strong></a>.
 </div>
   </div>
 </div>
