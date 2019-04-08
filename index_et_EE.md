@@ -95,7 +95,7 @@ Ja
   <div class="answer col4 inline">
     
 <div class="questionok ok">
-<a href="./oesenc_en_US.html"><strong>Osta ja paigalda oma oeSENC-kaardid</strong></a> ja ära unusta neid uuendada.
+<a href="./oesenc_et_EE.html"><strong>Osta ja paigalda oma oeSENC-kaardid</strong></a> ja ära unusta neid uuendada.
 </div>
   </div>
 </div>
@@ -149,7 +149,7 @@ Ja
   <div class="answer col4 inline">
     
 <div class="questionok ok">
-<a href="https://o-charts.org/shop/index.php?id_category=6&controller=category"><strong>Osta kasutajaluba</strong></a>. Seejärel <a href="https://www.chartworld.com/shop/off_enc"><strong>osta S-63 kaardid</strong></a> ja lõpuks <a href="./s63_en_US.html"><strong>paigaldada nad</strong></a>.
+<a href="https://o-charts.org/shop/index.php?id_category=6&controller=category"><strong>Osta kasutajaluba</strong></a>. Seejärel <a href="https://www.chartworld.com/shop/off_enc"><strong>osta S-63 kaardid</strong></a> ja lõpuks <a href="./s63_et_EE.html"><strong>paigaldada nad</strong></a>.
 </div>
   </div>
 </div>
