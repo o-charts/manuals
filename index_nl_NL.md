@@ -1,5 +1,5 @@
 ---
-layout: default_nl_NL
+layout: default_nl_NL_home
 ---
 <div class="questions">
   
