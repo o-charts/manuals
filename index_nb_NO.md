@@ -1,5 +1,5 @@
 ---
-layout: default_nb_NO
+layout: default_nb_NO_home
 ---
 <div class="questions">
   
