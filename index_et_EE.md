@@ -2,11 +2,14 @@
 layout: default_et_EE
 ---
 <div class="questions">
+  
 <div class="questionok question">
-Are there any <a href="https://opencpn.org/OpenCPN/info/chartsource.html"><strong>free vector charts</strong></a> for your sailing area?
+Kas on mingeid <a href="https://opencpn.org/OpenCPN/info/chartsource.html"><strong>tasuta vektorkaarte</strong></a> su sõidupiirkonna kohta?
 </div>
 </div>
+
 <div class="arrows">
+  
 <div class="answer col1 inline">
 <i class="down"></i>
 </div>
@@ -14,39 +17,53 @@ Are there any <a href="https://opencpn.org/OpenCPN/info/chartsource.html"><stron
 <i class="down"></i>
 </div>
 </div>
+
 <div class="separator"></div>
+
 <div class="answers">
-<div class="answer col1 inline">
+  <div class="answer col1 inline">
+    
 <div class="yesno no">
-No
+Ei
 </div>
-</div>
-<div class="answer col2 inline">
+  </div>
+  
+  <div class="answer col2 inline">
+    
 <div class="yesno yes">
-Yes
+Ja
 </div>
-</div>
+  </div>
 <div class="answer col3 inline">
 <i class="right"></i>
 </div>
-<div class="answer col4 inline">
+  
+  <div class="answer col4 inline">
+    
 <div class="questionok ok">
-Congratulations! you are lucky. Download and <a href="https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:getting_started:chart_installation"><strong>install</strong></a> your charts.
+Õnnitleme! Sul on vedanud. Lae alla ja <a href="https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:getting_started:chart_installation"><strong>paigaldada</strong></a> oma kaardid.
 </div>
+  </div>
 </div>
-</div>
+
 <div class="separator"></div>
+
 <div class="arrows">
+  
 <div class="answer col1 inline">
 <i class="down"></i>
 </div>
 </div>
+
 <div class="questions">
+  
 <div class="questionok question">
-Are there any <a href="https://o-charts.org/shop/index.php?id_category=8&controller=category"><strong>oeSENC charts</strong></a> for your sailing area?
+Kas on mingeid <a href="https://o-charts.org/shop/index.php?id_category=8&controller=category"><strong>oeSENC-kaarte</strong></a> su sõidupiirkonna kohta?
 </div>
 </div>
+
 <div class="arrows">
+  
 <div class="answer col1 inline">
 <i class="down"></i>
 </div>
@@ -54,39 +71,53 @@ Are there any <a href="https://o-charts.org/shop/index.php?id_category=8&control
 <i class="down"></i>
 </div>
 </div>
+
 <div class="separator"></div>
+
 <div class="answers">
-<div class="answer col1 inline">
+  <div class="answer col1 inline">
+    
 <div class="yesno no">
-No
+Ei
 </div>
-</div>
-<div class="answer col2 inline">
+  </div>
+  
+  <div class="answer col2 inline">
+    
 <div class="yesno yes">
-Yes
+Ja
 </div>
-</div>
+  </div>
 <div class="answer col3 inline">
 <i class="right"></i>
 </div>
-<div class="answer col4 inline">
+  
+  <div class="answer col4 inline">
+    
 <div class="questionok ok">
-<a href="./oesenc_en_US.html"><strong>Buy and install your oeSENC charts</strong></a> and do not forget to update them.
+<a href="./oesenc_en_US.html"><strong>Osta ja paigalda oma oeSENC-kaardid</strong></a> ja ära unusta neid uuendada.
 </div>
+  </div>
 </div>
-</div>
+
 <div class="separator"></div>
+
 <div class="arrows">
+  
 <div class="answer col1 inline">
 <i class="down"></i>
 </div>
 </div>
+
 <div class="questions">
+  
 <div class="questionok question">
-Are there any <a href="https://www.chartworld.com/shop/off_enc"><strong>S-63 charts</strong></a> for your sailing area?
+Kas on mingeid <a href="https://www.chartworld.com/shop/off_enc"><strong>S-63 kaarte</strong></a> su sõidupiirkonna kohta?
 </div>
 </div>
+
 <div class="arrows">
+  
 <div class="answer col1 inline">
 <i class="down"></i>
 </div>
@@ -94,37 +125,50 @@ Are there any <a href="https://www.chartworld.com/shop/off_enc"><strong>S-63 cha
 <i class="down"></i>
 </div>
 </div>
+
 <div class="separator"></div>
+
 <div class="answers">
-<div class="answer col1 inline">
+  <div class="answer col1 inline">
+    
 <div class="yesno no">
-No
+Ei
 </div>
-</div>
-<div class="answer col2 inline">
+  </div>
+  
+  <div class="answer col2 inline">
+    
 <div class="yesno yes">
-Yes
+Ja
 </div>
-</div>
+  </div>
 <div class="answer col3 inline">
 <i class="right"></i>
 </div>
-<div class="answer col4 inline">
+  
+  <div class="answer col4 inline">
+    
 <div class="questionok ok">
-<a href="https://o-charts.org/shop/index.php?id_category=6&controller=category"><strong>Buy an UserPermit</strong></a>. Then <a href="https://www.chartworld.com/shop/off_enc"><strong>buy S-63 charts</strong></a> and finally <a href="./s63_en_US.html"><strong>install them</strong></a>.
+<a href="https://o-charts.org/shop/index.php?id_category=6&controller=category"><strong>Osta kasutajaluba</strong></a>. Seejärel <a href="https://www.chartworld.com/shop/off_enc"><strong>osta S-63 kaardid</strong></a> ja lõpuks <a href="./s63_en_US.html"><strong>paigaldada nad</strong></a>.
 </div>
+  </div>
 </div>
-</div>
+
 <div class="separator"></div>
+
 <div class="arrows">
+  
 <div class="answer col1 inline">
 <i class="down"></i>
 </div>
 </div>
+
 <div class="questions">
+  
 <div class="questionok question">
-You may want to try with <a href="https://opencpn.org/OpenCPN/info/chartsource.html"><strong>raster or other charts</strong></a>.
+Või soovid proovida <a href="https://opencpn.org/OpenCPN/info/chartsource.html"><strong>raster või teiste kaartidega</strong></a>.
 </div>
 </div>
-<br><br>
+
+<br />  
 ![oesenc chart](./assets/images/oesenc_chart.png)
