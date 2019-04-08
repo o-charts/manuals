@@ -1,5 +1,5 @@
 ---
-layout: default_fr_FR
+layout: default_fr_FR_home
 ---
 <div class="questions">
   
