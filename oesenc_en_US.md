@@ -12,6 +12,8 @@ layout: default_en_US
 
 - If you have consumed your 2 shots and you want to use your charts in 2 extra systems, you will have to buy the charts again.
 
+- A USB Key Dongle is considered as a system. The USB Key Dongle allows to install the oeSENC charts in as many devices as you want. However, only in the device where the USB Key Dongle is plugged in, the license is active and will display the charts.
+
 - Your license should survive to any OS, OpenCPN or plugin update but if you reinstall your OS you will lose your license.
 
 - Once you have requested your charts for one system we can not refund you. If you have created and assigned a system to your chart but you have not requested your charts yet, we can still refund you.
@@ -57,7 +59,6 @@ To install charts on **Android** follow the steps in **Get charts online**.
 
 8. Once the chart has been built for your USB Key Dongle you will get an email with a link to download your chart. You can ignore this email.
 
-9. The USB Key Dongle allows to install the oeSENC charts in as many systems as you want. However, only in the system where the USB Key Dongle is plugged in, the license is active and will display the charts.
 
 ### Online Windows/Mac/Linux
 
