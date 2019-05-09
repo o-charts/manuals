@@ -62,7 +62,7 @@ To install charts on **Android** follow the steps in **Get charts online**.
 
 ### Online Windows/Mac/Linux
 
-1. Download and install the [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (only for OpenCPN 4.6 version and above). If you have already the oeSENC plugin installed, update to the latest version.
+1. Download and install the [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (only for OpenCPN 5.0 version and above). If you have already the oeSENC plugin installed, update to the latest version.
 
 2. Go to OpenCPN, *Options → Plugins → oeSENC* and enable it.
 
@@ -129,7 +129,7 @@ In the target system download and install the [oeSENC plugin](https://opencpn.or
 
 For target systems without connection to Internet you will create a system identifier file for it, take it to a site with Internet access and request and download the chart set. Copy the received file onto some portable device and copy it onto the target system.
 
-1. In the target system download and install the [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (only for OpenCPN 4.6 version and above). If you have already the oeSENC plugin installed, update to the latest version.
+1. In the target system download and install the [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (only for OpenCPN 5.0 version and above). If you have already the oeSENC plugin installed, update to the latest version.
 
 2. Go to OpenCPN, *Options → Plugins → oeSENC* and enable it. Create your system identifier file (*Fingerprint*) from *Preferences*. The plugin will report the path to the file. For Windows and macOS systems a copy is created directly on the desktop. For Linux systems the file is created on *~/.opencpn* folder.
 
