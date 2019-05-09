@@ -116,13 +116,15 @@ In the target system download and install the [oeSENC plugin](https://opencpn.or
 
 4. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) shop and license the chart sets you are interested in. Ignore this step if you have already bought your charts.
     
- 5. Go to My [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) page and create a System identifier there uploading the Fingerprint. Leave System name blank, it will be assigned automatically.
+5. Go to My [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) page and create a System identifier there uploading the Fingerprint. Leave System name blank, it will be assigned automatically.
 
-6. Make a Request clicking the button that will appear on the column Last requested and the chart set will be processed. Processing time depends on the chart set size, the queue on the server and the network charge at that moment but will be never more than 2 hours. Actually we are talking about minutes.
+6. Select the new *System identifier* for each chart set you want to assign to your dongle. Once assigned, it can not be changed.
 
-7. You will get an email with a link to download your chart set. You can download it from [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) page too. If you have not downloaded your chart set in a week, you will have to make a new Request. Download your chart, copy it onto some portable device and go back to the boat.
+7. Make a Request clicking the button that will appear on the column *Last requested* and the chart set will be processed. Processing time depends on the chart set size, the queue on the server and the network charge at that moment but will be never more than 2 hours. Actually we are talking about minutes.
 
-8. On your target system, plug the dongle into a USB port and unzip the charts into a directory of your choice and install your charts as always, plug in the USB Key Dongle to see the charts and you are done!
+8. You will get an email with a link to download your chart set. You can download it from [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) page too. If you have not downloaded your chart set in a week, you will have to make a new Request. Download your chart, copy it onto some portable device and go back to the boat.
+
+9. On your target system unzip the file into a directory of your choice and install your charts as always and you are done.  Plug in the USB Key Dongle to see the charts.
 
 
 ### Offline Windows/Mac/Linux
