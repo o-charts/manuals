@@ -72,7 +72,7 @@ To install charts on **Android** follow the steps in **Get charts online**.
 
 5. Login with your o-charts shop access data.
 
-6. You will be asked for a *System Name* to identify your system. If this is the first time you install oeSENC charts on this system, select *New System* and provide a name 3 characters minimum and 15 maximum, only lowercase letters and numbers, no symbols or spaces. If you have already installed other oeSENC charts on this system, you have to select the *System Name* that corresponds to this system. If you select the wrong *System Name*, you will be able to download your charts but they will not work. If you are installing your chart in a secondary system or you have reinstalled your OS you have to choose *New System*. Once you have installed your chart on 2 different systems, the chart will not be available. 
+6. You will be asked for a *System Name* to identify your system. If this is the first time you install oeSENC charts on this system, select *New System* and provide a name 3 characters minimum and 15 maximum, no symbols or spaces. If you have already installed other oeSENC charts on this system, you have to select the *System Name* that corresponds to this system. If you select the wrong *System Name*, you will be able to download your charts but they will not work. If you are installing your chart in a secondary system or you have reinstalled your OS you have to choose *New System*. Once you have installed your chart on 2 different systems, the chart will not be available. 
 
 7. Follow on screen instructions to assign, download and install to your system the charts sets you licensed on the o-charts shop.
 
