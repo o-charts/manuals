@@ -114,7 +114,7 @@ In the target system download and install the [oeSENC plugin](https://opencpn.or
 
 3. Copy the Fingerprint onto some portable device and look for a computer with an internet connection.
 
-4. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) shop and license the chart sets you are interested in. Ignore this step if you have already bought your charts.
+4. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) and license the chart sets you are interested in. Ignore this step if you have already bought your charts.
     
 5. Go to My [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) page and create a System identifier there uploading the Fingerprint. Leave System name blank, it will be assigned automatically.
 
