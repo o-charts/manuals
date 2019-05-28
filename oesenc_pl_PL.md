@@ -1,7 +1,6 @@
 ---
 layout: default_pl_PL
 ---
-
 # Warunki używania map oeSenc
 
 - Mapy oeSENC mogą być używane tylko w OpenCPN.
@@ -12,18 +11,20 @@ layout: default_pl_PL
 
 - Jeśli już zainstalowałeś mapy w dwóch systemach i chcesz je użyć w kolejnych dwóch, to musisz kupić nową licencję.
 
-- Twoja licencja powinna przetrwać aktualizację systemu operacyjnego, programu OpenCPN lub wtyczki oeSENC. Stracisz ją jednak przy ponownej instalacji systemu operacyjnego.
+- Klucz sprzętowy USB traktowany jest jak jeden "system". Klucz sprzętowy USB umożliwia zainstalowanie map oeSENC w dowolnej liczbie urządzeń. Jednak tylko w urządzeniu, do którego podłączony jest klucz sprzętowy USB, licencja staje się aktywna i mapy działają.
 
-- Po pobraniu map do pierwszego systemu, opłata nie może być zwrócona. Jeśli masz utworzony system i przypisane do niego mapy, ale ich jeszcze nie pobierałeś, nadal możesz otrzymać zwrot opłaty.
+- Twoja licencja powinna przetrwać aktualizację: systemu operacyjnego, programu OpenCPN oraz wtyczki do OpenCPN, jednak stracisz ją przy ponownej instalacji systemu operacyjnego.
 
-- Po pobraniu map dla jednego systemu nie ma możliwości anulowania tej operacji ani przeniesienia map do innego zestawu urządzenie — system operacyjny.
+- Po pobraniu map do pierwszego systemu, opłata nie może być zwrócona. Jeśli masz utworzony *system* i przypisane do niego mapy, ale ich jeszcze nie pobierałeś, nadal możesz otrzymać zwrot opłaty.
+
+- Po pobraniu map dla jednego *systemu* nie ma możliwości anulowania tej operacji ani przeniesienia map do innego zestawu urządzenie — system operacyjny.
 
 - Będziesz miał możliwość aktualizowania swoich map przez rok od daty zakupu. Mapy różnych biur hydrograficznych aktualizowane są z różną częstotliwością:
     
-    - co tydzień: DE, FR, SE, NO, FI, PL, Karaiby.
-    - co dwa tygodnie: AU.
-    - co kwartał: UK, ES, BE, NL, HR, IS.
-    - raz w roku: DK, GL, FO.
+    - Co tydzień: DE, FR, SE, NO, FI, PL, Karaiby.
+    - Co dwa tygodnie: AU.
+    - Co kwartał: UK, ES, BE, NL, HR, IS.
+    - Raz w roku: DK, GL, FO.
 
 - Licencja wygasa po roku od daty zakupu. Po wygaśnięciu licencji pobrane wcześniej mapy będą nadal działały w systemie, ale ich aktualizacja nie będzie już możliwa.
 
@@ -33,21 +34,39 @@ layout: default_pl_PL
 
 Jeśli system, w którym chcesz zainstalować mapy **jest podłączony do Internetu**, wykonaj kroki opisane w punkcie **pozyskiwanie map online**.
 
-Jeśli system, w którym chcesz zainstalować mapy **NIE jest podłączony do Internetu** postępuj zgodnie z instrukcjami podanymi w punkcie **pozyskiwanie map offline**.
+Jeśli system, w którym chcesz zainstalować mapy **NIE jest podłączony do Internetu** postępuj zgodnie z instrukcjami podanymi w punkcie **Pozyskiwanie map offline**.
 
 W celu zainstalowania map na **Androidzie** postępuj jak przy **pozyskiwaniu map online**.
 
 ## Pozyskiwanie map online
 
-### Online Windows/Mac/Linux
+### Online - klucz sprzętowy USB
 
-1. Pobierz i zainstaluj [wtyczkę oeSENC](https://opencpn.org/OpenCPN/plugins/oesenc.html) (dla odpowiedniej wersji OpenCPN). Jeśli wtyczka oeSENC jest już zainstalowana, zaktualizuj ją do najnowszej wersji.
+1. Pobierz i zainstaluj [wtyczkę oeSENC](https://opencpn.org/OpenCPN/plugins/oesenc.html) (tylko dla OpenCPN w wersji 5.0 lub wyższej). Jeśli wtyczka oeSENC jest już zainstalowana, zaktualizuj ją do najnowszej wersji.
+
+2. Przejdź do OpenCPN, Opcje → Wtyczki → oeSENC i włącz wtyczkę.
+
+3. Przejdź do [sklepu o-charts](https://o-charts.org/shop/index.php?id_category=8&controller=category) i kup zestawy map, którymi jesteś zainteresowany. Zapamiętaj dane dostępu do sklepu o-charts (e-mail i hasło), będziesz ich potrzebować później. Pomiń ten krok, jeśli już kupiłeś mapy.
+
+4. Wetknij klucz sprzętowy USB do portu USB w twoim urządzeniu.
+
+5. Przejdź do OpenCPN, *Opcje → Mapy→ Mapy oeSENC* i naciśnij *Odśwież listę map*. Użyj strzałek, aby wyświetlić ukryte zakładki.
+
+6. Zaloguj się danymi dostępu do sklepu o-charts.
+
+7. Postępuj zgodnie z instrukcjami na ekranie aby pobrać i zainstalować w systemie zestawy map, które kupiłeś w sklepie o-charts.
+
+8. Po przygotowaniu zestawu map dla twojego klucza sprzętowego USB otrzymasz wiadomość e-mail z linkiem do ich pobrania. Możesz ją zignorować.
+
+### Online - Windows/Mac/Linux
+
+1. Pobierz i zainstaluj [wtyczkę oeSENC](https://opencpn.org/OpenCPN/plugins/oesenc.html) (tylko dla OpenCPN w wersji 5.0 lub wyższej). Jeśli wtyczka oeSENC jest już zainstalowana, zaktualizuj ją do najnowszej wersji.
 
 2. Przejdź do OpenCPN, *Opcje → Wtyczki → oeSENC* i włącz wtyczkę.
 
-3. Przejdź do [sklepu o-charts](https://o-charts.org/shop/index.php?id_category=8&controller=category) i uzyskaj licencję na zestawy map, którym jesteś zainteresowany. Zapamiętaj dane dostępu do sklepu o-charts (e-mail i hasło), będziesz ich potrzebować później. Pomiń ten krok, jeśli już kupiłeś mapy.
+3. Przejdź do [sklepu o-charts](https://o-charts.org/shop/index.php?id_category=8&controller=category) i kup licencje na zestawy map, którymi jesteś zainteresowany. Zapamiętaj dane dostępu do sklepu o-charts (e-mail i hasło), będziesz ich potrzebować później. Pomiń ten krok, jeśli już kupiłeś mapy.
 
-4. Przejdź do OpenCPN, *Opcje → Mapy→ Mapy oeSENC*. Na karcie "Moje mapy" naciśnij *Odśwież listę map*. Użyj strzałek, aby wyświetlić ukryte zakładki.
+4. Przejdź do OpenCPN, *Opcje → Mapy→ Mapy oeSENC* i naciśnij *Odśwież listę map*. Użyj strzałek, aby wyświetlić ukryte zakładki.
 
 5. Zaloguj się danymi dostępu do sklepu o-charts.
 
@@ -63,15 +82,15 @@ W celu zainstalowania map na **Androidzie** postępuj jak przy **pozyskiwaniu ma
 
 [Instalacja map oeSENC dla OpenCPN (Ubuntu)](https://www.youtube.com/watch?v=Mvx-q-dA8n0)
 
-### Online Android
+### Online - Android
 
 1. Zainstaluj [OpenCPN 1.0.13](https://play.google.com/store/apps/details?id=org.opencpn.opencpn) (lub wersję wyższą) dla Androida 4.4 (lub nowszy) ze Sklepu Play. Upewnij się, że używasz oficjalnej aplikacji OpenCPN.
 
 2. Zainstaluj wtyczkę [oeSENC](https://play.google.com/store/apps/details?id=org.opencpn.oesencplugin) dla OpenCPN ze Sklepu Play, aby upewnić się, że urządzenie jest zgodne.
 
-3. Przejdź do [sklepu o-charts](https://o-charts.org/shop/index.php?id_category=8&controller=category) i kup licencje na zestawy map, którymi jesteś zainteresowany. Zapamiętaj dane dostępu do sklepu o-charts (e-mail i hasło), będziesz ich potrzebować później. Pomiń ten krok, jeśli już kupiłeś mapy.
+3. Przejdź do [sklepu o-charts](https://o-charts.org/shop/index.php?id_category=8&controller=category) i uzyskaj licencję na zestawy map, którym jesteś zainteresowany. Zapamiętaj dane dostępu do sklepu o-charts (e-mail i hasło), będziesz ich potrzebować później. Pomiń ten krok, jeśli już kupiłeś mapy.
 
-4. Wróć do OpenCPN, *Opcje → Mapy → Mapy oeSENC*. Naciśnij *dodaj/zaktualizuj zestaw map oeSENC* aby zalogować się przy użyciu danych dostępu do o-charts. Użyj niebieskich strzałek aby zobaczyć ukryte karty.
+4. Wróć do OpenCPN, *Opcje → Mapy → Mapy oeSENC*. Naciśnij *dodaj/zaktualizuj zestaw map oeSENC* aby zalogować się przy użyciu danych dostępu do o-charts. Użyj niebieskich strzałek, aby wyświetlić ukryte zakładki.
 
 5. Postępuj zgodnie z instrukcjami na ekranie aby przypisać, pobrać i zainstalować w systemie zestawy map, których licencje kupiłeś w sklepie o-charts. Jeśli mapa nie jest dostępna, oznacza to, że zainstalowano już mapy w 2 systemach.
 
@@ -83,17 +102,39 @@ Powinieneś odwiedzić *Opcje → Mapy → Mapy oeSENC * od czasu do czasu, aby 
 
 ## Pozyskiwanie map offline
 
-### Offline Windows/Mac/Linux
+### Offline klucz sprzętowy USB
+
+W systemie docelowym nie mającym połączenia z internetem zainstaluj [wtyczkę oeSENC](https://opencpn.org/OpenCPN/plugins/oesenc.html) (dla OpenCPN w wersji 5.0 lub wyższej). Jeśli wtyczka oeSENC jest już zainstalowana, zaktualizuj ją do najnowszej wersji.
+
+1. Podłącz klucz sprzętowy USB do gniazda USB.
+
+2. Przejdź do OpenCPN, Opcje → Wtyczki → oeSENC i włącz wtyczkę. Utwórz plik **USB key System ID** (Fingerprint) w ustawieniach. Wtyczka poda ścieżkę dostępu do pliku Fingerprint. W przypadku Windows i macOS kopia jest tworzona bezpośrednio na pulpicie. W przypadku Linuxa plik jest tworzony w katalogu ~/.opencpn.
+
+3. Skopiuj plik Fingerprint na przenośny nośnik i znajdź jakiś komputer z dostępem do Internetu.
+
+4. Przejdź do [sklepu o-charts](https://o-charts.org/shop/index.php?id_category=8&controller=category) i kup zestawy map, którymi jesteś zainteresowany. Pomiń ten krok, jeśli już kupiłeś mapy.
+
+5. Przejdź do strony [Moje mapy oeSENC](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) i utwórz tam identyfikator systemu, przesyłając plik Fingerprint. Pozostaw *nazwę systemu* pustą, przypisanie nastąpi automatycznie.
+
+6. Wybierz ów nowy *identyfikator systemu* dla każdego zestawu map, który chcesz przypisać do klucza sprzętowego. Raz dokonane przypisanie, nie może być zmienione.
+
+7. Zażądaj przygotowania map, klikając przycisk, który pojawi się w kolumnie *Ostatnie żądanie*. Zestaw map zostanie przygotowany. Czas przetwarzania zależy od rozmiaru zestawu map, obciążenia serwera i sieci w danym momencie, ale nie przekracza 2 godzin. Najczęściej to kwestia kilku minut.
+
+8. Otrzymasz e-mail z linkiem do pobrania zestawu map. Mapy można pobrać także ze strony [Moje mapy oeSENC](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts). Jeśli nie pobierzesz map w ciągu tygodnia, trzeba będzie utworzyć zażądać przygotowania map ponownie. Pobierz mapy i przenieś je na system docelowy za pomocą jakiegoś nośnika danych.
+
+9. Na systemie docelowym, rozpakuj (unzip) mapy do dowolnego katalogu i zainstaluj je w OpenCPN, tak jak zawsze. Gotowe. Podłącz klucz sprzętowy do gniazda USB aby móc korzystać z map.
+
+### Offline - Windows/Mac/Linux
 
 W przypadku systemów bez połączenia z Internetem należy utworzyć plik Fingerprint identyfikujący system, i na jego podstawie pobrać zestawy map, korzystając z innego urządzenia posiadającego dostęp do Internetu. Następnie pobrany plik trzeba skopiować na system docelowy.
 
-1. Pobierz i zainstaluj [plugin oeSENC](https://opencpn.org/OpenCPN/plugins/oesenc.html) (dla odpowiedniej wersji OpenCPN). Jeśli wtyczkę oeSENC masz już zainstalowaną, zaktualizuj ją do najnowszej wersji.
+1. W systemie docelowym nie mającym połączenia z internetem zainstaluj [wtyczkę oeSENC](https://opencpn.org/OpenCPN/plugins/oesenc.html) (dla OpenCPN w wersji 5.0 lub wyższej). Jeśli wtyczkę oeSENC masz już zainstalowaną, zaktualizuj ją do najnowszej wersji.
 
-2. Przejdź do OpenCPN, *Opcje → Wtyczki → oeSENC* i włącz wtyczkę. Wciśnij *Ustawienia*, by utwórz plik identyfikatora systemu (*Fingerprint*). Wtyczka poda ścieżkę dostępu do pliku Fingerprint. W przypadku Windows i macOS kopia jest tworzona bezpośrednio na pulpicie. W przypadku Linuxa plik jest tworzony w katalogu *~/.opencpn*.
+2. Przejdź do OpenCPN, *Opcje → Wtyczki → oeSENC* i włącz wtyczkę. Utwórz plik identyfikatora systemu (*Fingerprint*) w *Ustawieniach*. Wtyczka poda ścieżkę dostępu do pliku Fingerprint. W przypadku Windows i macOS kopia jest tworzona bezpośrednio na pulpicie. W przypadku Linuxa plik jest tworzony w katalogu *~/.opencpn*.
 
 3. Skopiuj plik *Fingerprint* na przenośny nośnik i znajdź jakiś komputer z dostępem do Internetu.
 
-4. Przejdź do [sklepu o-charts](https://o-charts.org/shop/index.php?id_category=8&controller=category) i kup licencje na zestawy map, którymi jesteś zainteresowany. Pomiń ten krok, jeśli już kupiłeś mapy.
+4. Przejdź do [sklepu o-charts](https://o-charts.org/shop/index.php?id_category=8&controller=category) i kup zestawy map, którymi jesteś zainteresowany. Pomiń ten krok, jeśli już kupiłeś mapy.
 
 5. Przejdź do strony [Moje mapy oeSENC](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) i utwórz tam*identyfikator systemu*, przesyłając plik *Fingerprint* oraz podając *nazwę systemu*.
 
@@ -101,13 +142,13 @@ W przypadku systemów bez połączenia z Internetem należy utworzyć plik Finge
 
 7. Zażądaj przygotowania map, klikając przycisk, który pojawi się w kolumnie *Ostatnie żądanie*. Zestaw map zostanie przygotowany. Czas przetwarzania zależy od rozmiaru zestawu map, obciążenia serwera i sieci w danym momencie, ale nie przekracza 2 godzin. Najczęściej to kwestia kilku minut.
 
-8. Otrzymasz e-mail z linkiem do pobrania zestawu map. Mapy można pobrać także ze strony [Moje mapy oeSENC](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts). Jeśli nie pobierzesz map w ciągu tygodnia, trzeba będzie utworzyć nowe *żądanie* map. Pobierz mapy i przenieś je na system docelowy za pomocą jakiegoś nośnika danych.
+8. Otrzymasz e-mail z linkiem do pobrania zestawu map. Mapy można pobrać także ze strony [Moje mapy oeSENC](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts). Jeśli nie pobierzesz map w ciągu tygodnia, trzeba będzie zażądać przygotowania map ponownie. Pobierz mapy i przenieś je na system docelowy za pomocą jakiegoś nośnika danych.
 
 9. Na systemie docelowym, rozpakuj (unzip) mapy do dowolnego katalogu i zainstaluj je w OpenCPN, tak jak zawsze. Gotowe!
 
 ### Uaktualnienia offline
 
-Aby zaktualizować zestaw map, przejdź do strony [Moje mapy oeSENC](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts). W kolumnie *ostatnio żądane* pokazana będzie ostatnia edycja, którą pobrałeś. W kolumnie *Ostatnia aktualizacja* znaleźć można informację o aktualnym wydaniu dostępnym dla danego zestawu map. Jeśli *Ostatnie żądanie* jest starsze niż *Ostatnia aktualizacja* należy rozważyć aktualizację posiadanego zestawu map. Każdy zestaw aktualizacyjny map jest niezależny i kompletny — można pominąć wcześniejsze aktualizacje. Usuń stary zestaw map z OpenCPN, lub zachowaj go w innym katalogu. Pobierz i zainstaluj nowy zestaw.
+Aby zaktualizować zestaw map, przejdź do strony [Moje mapy oeSENC](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts). W kolumnie *ostatnio żądane* pokazana będzie ostatnia edycja, którą pobrałeś. W kolumnie *Ostatnia aktualizacja* znaleźć można informację o aktualnym wydaniu dostępnym dla danego zestawu map. Jeśli *Ostatnie żądanie* jest starsze niż *Ostatnia aktualizacja* należy rozważyć aktualizację posiadanego zestawu map. Każdy zestaw aktualizacyjny map jest niezależny i kompletny — można pominąć wcześniejsze, niepobrane aktualizacje. Usuń stary zestaw map z OpenCPN, lub zachowaj go w innym katalogu. Pobierz i zainstaluj nowy zestaw.
 
 # *Odnawianie* licencji
 
@@ -135,6 +176,6 @@ Niektóre mapy mają możliwość "odnowienia" - zakupu na nowy okres zestawu ze
 > 
 > Musimy dostosować się do wymogów instytucji posiadających prawa do map. Instytucje te określają opłaty i warunki licencyjne. Administracja i koszty są ograniczone do minimum. W przypadku, gdy odniesiemy wielki sukces ekonomiczny, fundusze zostaną przeznaczone na rozwój OpenCPN.
 > 
-> **OpenCPN jest oprogramowaniem open source. Gdzie jest kod wtyczki?**
+> **OpenCPN jest oprogramowaniem open source. Gdzie znajdę kod wtyczki?**
 > 
 > Aby wykorzystywać mapy oeSENC, musimy mieć pewność, że nie będą dostępne żadne kopie niezaszyfrowanych komórek map. Dlatego wtyczka ma część open-source i część binarną. Podobnie, jak wtyczki komercyjnych map BSB4 albo NV-charts.
