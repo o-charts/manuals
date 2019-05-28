@@ -11,13 +11,15 @@ layout: default_et_EE
 
 - Kui sa oled oma 2 võimalust kasutanud ja soovid kasutada oma kaarte 2-s lisasüsteemis, tuleb sul kaardid taas osta.
 
-- Su litsents peaks iga op.süs., OpenCPN või plugina uuenduse üle elama, kuid kui taaspaigaldad oma op.süs., kaotad oma litsentsi.
+- USB-donglit käsitletakse ühe süsteemina. USB-dongel võimaldab oeSENC-kaarte paigaldada nii mitmesse süsteemi kui sa soovid. Siiski, ainult seadmes, kuhu USB-dongel on ühendatud, on litsents aktiivne ning suudab kaarte kuvada.
+
+- Su litsents peaks iga op. süs., OpenCPN või plugina uuenduse üle elama, kuid kui taaspaigaldad oma op. süs. kaotad oma litsentsi.
 
 - Kui kord oled juba tellinud oma kaardid ühele süsteenile ei saa me seda sulle hüvitada. Kui sa oled loonud ja sidunud süsteemi oma kaartidega, kuid ei ole veel kaarte tellinud saame me ikkagi sulle hüvitada.
 
-- Kui sa kord juba oled taotlenud kaardid ühele süsteemile ei saa me seda tühistada või su kaarte teisaldada erineva seadme/op.süs. kombinatsiooni juurde.
+- Kui sa kord oled tellinud kaardid ühele süsteemile ei saa me seda tühistada või suunata su süsteemi erineva seadme/op. süs. kombinatsiooni juurde.
 
-- Sa saad oma kaarte ühe aasta jooksul alates kaartide ostukuupäevast uuendada. Kaartidel on erinev uuenduste perioodsus:
+- Sa saad oma kaarte aasta jooksul alates kaartide ostukuupäevast uuendada. Kaartidel on erinev uuenduste perioodsus:
     
     - iga nädal: DE, FR, SE, NO, FI, PL, Kariibid.
     - iga 2 nädala tagant: AU.
@@ -38,19 +40,37 @@ Kaartide paigaldamiseks **Androidile** järgi **Soeta kaardid võrgus** samme.
 
 ## Soeta kaardid võrgus
 
+### USB-dongel võrgus
+
+1. Lae alla ja paigalda [oeSENC-plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (ainult OpenCPN versioonile 5.0 ja uuem). Kui oeSENC-plugin oli ennem juba paigaldatud, uuenda see viimase versiooni peale.
+
+2. Mine OpenCPN, Valikud → Pluginad → oeSENC ja aktiveeri ta.
+
+3. Mine [o-charts poodi](https://o-charts.org/shop/index.php?id_category=8&controller=category) ja litsenseeri sind huvitav kaardikomplekt. Jäta meelde enda o-charts poe ligipääsuandmed (e-post ja salasõna), sul läheb neid hiljem vaja. Jäta see samm vahele kui oled juba oma kaardid ostnud.
+
+4. Ühenda USB-dongel oma seadme USB-porti.
+
+5. Mine OpenCPN, kaartide vahelehele Valikud → Kaardid → oeSENC ja klõpsa Uuenda kaartide nimekirja. Kasuta nooli peidetud vahelehtede näitamiseks.
+
+6. Logi oma o-charts poe ligipääsuandmetega sisse.
+
+7. Järgi juhiseid ekraanil oma, o-charts poes, litsenseeritud kaardikomplektide allalaadimiseks ja süsteemile paigaldamiseks.
+
+8. Kui kord kaart on su USB-dongli jaoks valmis tehtud, saad sa e-kirja koos lingiga oma kaardi allalaadimiseks. Sa võid seda e-kirja eirata.
+
 ### Windows/Mac/Linux võrgus
 
-1. Lae alla ja paigalda [oeSENC-plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (ainult OpenCPN versioonile 4.6 ja uuem). Kui oeSENC-plugin oli ennem juba paigaldatud, uuenda see viimase versiooni peale.
+1. Lae alla ja paigalda [oeSENC-plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (ainult OpenCPN versioonile 5.0 ja uuem). Kui oeSENC-plugin oli ennem juba paigaldatud, uuenda see viimase versiooni peale.
 
 2. Mine OpenCPN, *Valikud → Pluginad → oeSENC* ja aktiveeri ta.
 
 3. Mine [o-charts poodi](https://o-charts.org/shop/index.php?id_category=8&controller=category) ja litsenseeri sind huvitav kaardikomplekt. Jäta meelde enda o-charts poe ligipääsuandmed (e-post ja salasõna), sul läheb neid hiljem vaja. Jäta see samm vahele kui oled juba oma kaardid ostnud.
 
-4. Mineo OpenCPN, kaartide vahelehele *Valikud → Kaardid → oeSENC* ja klõpsa *Uuenda kaartide nimekirja*. Kasuta nooli peidetud vahelehtede näitamiseks.
+4. Mine OpenCPN, kaartide vahelehele *Valikud → Kaardid → oeSENC* ja klõpsa *Uuenda kaartide nimekirja*. Kasuta nooli peidetud vahelehtede näitamiseks.
 
 5. Logi oma o-charts poe ligipääsuandmetega sisse.
 
-6. Sult küsitakse *Süsteemi nime* su süsteemi tuvastamiseks. Kui see on esimest korda kui sa paigaldad oeSENC-kaarte sellesse süsteemi, vali *Uus süsteem* ja paku nimi, vähemalt 3 märki ning maksimum 15 pikk, ainult väiketähed ja numbrid, mitte sümboleid või tühikuid. Kui sa oled ennem juba paigaldanud teisi oeSENC-kaarte sellesse süsteemi, tuleb valida *Süsteemi nimi*, mis vastab sellele süsteemile. Kui sa valid vale *Süsteemi nime*, saad sa küll oma kaardid alla laadida, kuid need ei hakka tööle. Kui sa paigaldad oma kaarte teise süsteemi või oled oma op.süs. taaspaigaldanud tuleb sul valida *Uus süsteem*. Kui sa kord juba oled oma kaardi paigaldanud 2-e eri süsteemi, ei ole kaart enam saadaval.
+6. Sult küsitakse *Süsteemi nime* su süsteemi tuvastamiseks. Kui see on esimest korda kui sa paigaldad oeSENC-kaarte sellesse süsteemi, vali *Uus süsteem* ja paku nimi, vähemalt 3 märki ning maksimum 15 pikk, mitte sümboleid või tühikuid. Kui sa oled ennem juba paigaldanud teisi oeSENC-kaarte sellesse süsteemi, tuleb valida *Süsteemi nimi*, mis vastab sellele süsteemile. Kui sa valid vale *Süsteemi nime*, saad sa küll oma kaardid alla laadida, kuid need ei hakka tööle. Kui sa paigaldad oma kaarte teise süsteemi või oled oma op. süs. taaspaigaldanud tuleb sul valida *Uus süsteem*. Kui sa kord juba oled oma kaardi paigaldanud 2-e eri süsteemi, ei ole kaart enam saadaval.
 
 7. Järgi juhiseid ekraanil oma, o-charts poes, litsenseeritud kaardikomplektide seadmele kinnistamiseks, allalaadimiseks ja paigalduseks.
 
@@ -82,11 +102,33 @@ Sa peaksid aeg-ajalt *Valikud → Kaardid → oeSENC-kaardid* külastama, et nä
 
 ## Soeta kaardid võrguta
 
+### Võrguta USB-dongel
+
+Sihtsüsteemis lae alla ja paigalda [oeSENC-plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (ainult OpenCPN versioonile 5.0 ja uuem). Kui oeSENC-plugin oli ennem juba paigaldatud, uuenda see viimase versiooni peale.
+
+1. Ühenda USB-dongel USB-porti.
+
+2. Mine OpenCPN, Valikud → Pluginad → oeSENC ja aktiveeri ta. Loo **USB-võtme süsteemi ID-fail** (näpujälg) Eelistustes. Plugin näitab tee failini. Windows ja macOS süsteemides luuakse koopia otse töölauale. Linuxi süsteemides luuakse fail ~/.opencpn kausta.
+
+3. Kopeeri sõrmejälg mõnele kaasaskantavale seadmele ja leia netiühenusega arvuti.
+
+4. Mine [o-charts poodi](https://o-charts.org/shop/index.php?id_category=8&controller=category) ja litsenseeri sind huvitav kaardikomplekt. Jäta see samm vahele kui oled juba oma kaardid ostnud.
+
+5. Mine [Mu oeSENC-kaardid](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) lehele ja loo seal Süsteemi tuvastaja laadides sõrmejälje faili üles. Jäta süsteemi nimi tühjaks, see määratakse automaatselt.
+
+6. Vali uus *Süsteemi tuvastaja* iga kaardikomplekti jaoks, mida soovid oma dongliga siduda. Kord kinnistatud ei ole seda võimalik muuta.
+
+7. Tee taotlus klõpsates nupul, mis ilmub tulbal *Viimased taotlused* ja kaardikomplekti koostamisega jätkatakse. Koostamise aeg sõltub kaardikomplekti suurusest, järjekorrast serveris ja võrgu koormatusest sellel momendil, kuid ei võta iialgi rohkem aega kui 2 tundi. Tegelikult me räägime minutitest.
+
+8. Sulle saadetakse e-post su kaardikomlpekti allalaadimislingiga. Sa võid selle ka lehelt [Mu oeSENC-kaardid](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) alla laadida. Kui sa pole oma kaardikomplekti nädala jooksul alla laadinud, tuleb sul teha uus Taotlus. Lae oma kaardid alla, kopeeri mõnele kaasaskantavale seadmele ja mine tagasi laeva.
+
+9. Sihtsüsteemis paki fail enda poolt valitud kausta lahti ja paigalda oma kaardid nagu harilikult ning ongi kõik. Ühenda USB-dongel kaartide vaatamiseks.
+
 ### Võrguta Windows/Mac/Linux
 
 Sa pead netiühenduseta sihtsüsteemile looma tuvastusfaili, minema netiühendust omavasse kohta ja kaardikomplekti taotlema ning alla laadima. Kopeeri saadud failid mõnele kaasakantavale seadmele ja kopeeri need sihtsüsteemi.
 
-1. Sihtsüsteemis lae alla ja paigalda [oeSENC-plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (ainult OpenCPN versioonile 4.6 ja uuem). Kui oeSENC-plugin oli ennem juba paigaldatud, uuenda see viimase versiooni peale.
+1. Sihtsüsteemis lae alla ja paigalda [oeSENC-plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (ainult OpenCPN versioonile 5.0 ja uuem). Kui oeSENC-plugin oli ennem juba paigaldatud, uuenda see viimase versiooni peale.
 
 2. Mine OpenCPN, *Valikud → Pluginad → oeSENC* ja aktiveeri ta. Loo oma süsteemi tuvastusfail (*sõrmejälg*) *Eelistustes*. Plugin näitab tee failini. Windows ja macOS süsteemides luuakse koopia otse töölauale. Linuxi süsteemides luuakse fail *~/.opencpn* kausta.
 
@@ -116,7 +158,7 @@ On olemas mõned kaardikomplektid allahinnatud uuendamise võimalusega, mis liht
 
 > **Mille jaoks on oeSENC-plugin tehtud?**
 > 
-> oeSENC-kaardid töötavad koos Windows, Mac, Android ja Linuc süsteemides (sealhulags ARM-plaadid).
+> oeSENC-kaardid töötavad koos Windows, Mac, Android ja Linux süsteemides (sealhulags ARM-plaadid).
 > 
 > **Ja kui ma installin tarkvara virtuaalmasinasse?**
 > 
