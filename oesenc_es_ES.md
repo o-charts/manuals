@@ -11,13 +11,15 @@ layout: default_es_ES
 
 - Si ha consumido sus 2 oportunidades de instalacións y desea utilizar su scartas en 2 sistemas adicionales, deberá comprar las cartas otra vez.
 
-- Su licencia debría sobrevivir a cualquier actualización del Sistema Operativo, OpenCPN o Plugin pero si reinstala su sistema operativo, perderá su licencia.
+- Un Dongle de Clave USB se considera un sistema. El USB Key Dongle permite instalar las cartas oeSENC en tantos dispositivos como quiera. Sin embargo, sólo en el dispositivo donde se conecta el USB Key Dongle, la licencia está activa y mostrará las cartas.
+
+- Su licencia debería sobrevivir a cualquier actualización del Sistema Operativo, OpenCPN o Plugin pero si reinstala su sistema operativo, perderá su licencia.
 
 - Una vez que ha solicitado sus cartas para un sistema determinado no podemos reembolsarlas. Sin embargo, si ha creado y asignado un sistema a su cartas pero no las ha solicitado todavía podemos reembolsarlas.
 
 - Una vez que ha solicitado sus cartas para un sistema no podemos cancelar o mover las cartas a una combinación dispositivo/OS diferente.
 
-- Podrá actualizar sus gráficos durante un año a partir de la fecha de compra. Los gráficos tienen periodicidad de actualización diferentes:
+- Podrá actualizar sus cartas durante un año a partir de la fecha de compra. Las cartas tienen una periodicidad de actualización diferente:
     
     - Semanal: DE, FR, SE, NO, FI, PL, Caribe.
     - Quincenal: AU.
@@ -38,9 +40,27 @@ Para instalar cartas en **Android** siga los pasos **Obtener cartas online**.
 
 ## Obtener cartas online
 
+### Online USB Dongle
+
+1. Descargue e instale el [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (sólo para la versión 5.0 de OpenCPN y superior). Si ya tiene el oeSENC plugin instalado, actualicelo a la última versión.
+
+2. Abre OpenCPN Opciones → Plugins → oeSENC y activalo.
+
+3. Vaya a [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) y obtenga la licencia para los conjuntos de cartas que le interesen. Recuerde sus datos de acceso a la tienda o-charts (correo electrónico y contraseña), los necesitará más adelante. Ignore este paso si ya ha comprado sus cartas.
+
+4. Enchufa el USB Key Dongle en un puerto USB de tu dispositivo.
+
+5. Vaya a OpenCPN, Opciones → Cartas → Cartas oeSENC y presione Actualizar la lista de cartas. Use las flechas para mostrar las pestañas ocultas.
+
+6. Inicie la sesión con sus datos de acceso de o-charts shop.
+
+7. Siga las instrucciones en pantalla para asignar, descargar e instalar los conjuntos de cartas que ha licenciado en su sistema.
+
+8. Una vez que la carta haya sido construida para su Dongle de Clave USB, recibirá un correo electrónico con un enlace para descargar su carta. Puede ignorar este mensaje.
+
 ### Online Windows/Mac/Linux
 
-1. Descargue e instale el [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (sólo para la versión 4.6 de OpenCPN y superior). Si ya tiene el oeSENC plugin instalado, actualicelo a la última versión.
+1. Descargue e instale el [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (sólo para la versión 5.0 de OpenCPN y superior). Si ya tiene el oeSENC plugin instalado, actualicelo a la última versión.
 
 2. Abre OpenCPN *Opciones → Plugins → oeSENC* y activalo.
 
@@ -50,7 +70,7 @@ Para instalar cartas en **Android** siga los pasos **Obtener cartas online**.
 
 5. Inicie la sesión con tus datos de acceso de o-charts shop.
 
-6. Se le pedirá para un *Nombre de Sistema* para identificar su sistema. Si es la primera vez que instala las cartas de oeSENC en este sistema, seleccione * Nuevo sistema * y proporcione un nombre de 3 caracteres como mínimo y 15 como máximo, solo letras en minúscula y números, sin símbolos ni espacios. Si ya ha instalado otras cartas oeSENC en este sistema, tiene que seleccionar el *Nombre del Sistema* que corresponde a este sistema. Si selecciona un *Nombre de Sistema* incorrecto, podrá descargar las cartas pero no funcionarán. Si está instalando sus cartas en un sistema secundario o ha reinstalado el OS tiene que elegir *nuevo sistema*. Una vez que ha instalado sus cartas en 2 sistemas diferentes, las cartas ya no estarán disponibles.
+6. Se le pedirá para un *Nombre de Sistema* para identificar su sistema. Si es la primera vez que instala las cartas de oeSENC en este sistema, seleccione * Nuevo sistema * y proporcione un nombre de 3 caracteres como mínimo y 15 como máximo, sin símbolos ni espacios. Si ya ha instalado otras cartas oeSENC en este sistema, tiene que seleccionar el *Nombre del Sistema* que corresponde a este sistema. Si selecciona un *Nombre de Sistema* incorrecto, podrá descargar las cartas pero no funcionarán. Si está instalando sus cartas en un sistema secundario o ha reinstalado el OS tiene que elegir *nuevo sistema*. Una vez que ha instalado sus cartas en 2 sistemas diferentes, las cartas ya no estarán disponibles.
 
 7. Siga las instrucciones en pantalla para asignar, descargar e instalar los conjuntos de cartas que ha licenciado en su sistema.
 
@@ -58,9 +78,9 @@ Para instalar cartas en **Android** siga los pasos **Obtener cartas online**.
 
 **También puede seguir estos tutoriales en vídeo. Compruebe si hay subtítulos para su idioma en *configuración*:**
 
-[Cómo instalar oeSENC cartas para OpenCPN (Windows)](https://www.youtube.com/watch?v=fGIBCEWEC3s&t=4s)
+[[Cómo instalar oeSENC cartas para OpenCPN (Windows)](https://www. youtube. com/watch? v=fGIBCEWEC3s&t=4s)](https://www.youtube.com/watch?v=fGIBCEWEC3s)
 
-[Cómo instalar oeSENC cartas para OpenCPN (Ubuntu)](https://www.youtube.com/watch?v=Mvx-q-dA8n0&t=31s)
+[[Cómo instalar oeSENC cartas para OpenCPN (Ubuntu)](https://www. youtube. com/watch? v=Mvx-q-dA8n0&t=31s)](https://www.youtube.com/watch?v=Mvx-q-dA8n0)
 
 ### Android online
 
@@ -68,7 +88,7 @@ Para instalar cartas en **Android** siga los pasos **Obtener cartas online**.
 
 2. Instale [oeSENC plugin](https://play.google.com/store/apps/details?id=org.opencpn.oesencplugin) para OpenCPN desde el Play Store para asegurarse de que su dispositivo es compatible.
 
-3. Vaya a [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) y obtenga la licencia para los conjuntos de cartas que le interesen. Recuerde tus datos de acceso a la tienda o-charts (correo electrónico y contraseña), los necesitará más adelante. Ignore este paso si ya ha comprado sus cartas.
+3. Vaya a [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) y obtenga la licencia para los conjuntos de cartas que le interesen. Recuerde sus datos de acceso a la tienda o-charts (correo electrónico y contraseña), los necesitará más adelante. Ignore este paso si ya ha comprado sus cartas.
 
 4. Regrese a OpenCPN, * Opciones → Cartas → Cartas oeSENC * y presione * Añadir/actualizar cartas oeSENC * para iniciar la sesión con sus datos de acceso a o-charts. Use las flechas azules para mostrar las pestañas ocultas.
 
@@ -82,35 +102,57 @@ Visite * Opciones → Cartas → Cartas oeSENC * de vez en cuando para ver si ha
 
 ## Obtener cartas offline
 
+### Offline USB Key Dongle
+
+En el sistema de destino, descargue e instale el [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (sólo para la versión 5.0 de OpenCPN y superior). Si ya tiene el oeSENC plugin instalado, actualicelo a la última versión.
+
+1. Conecta el USB Key Dongle en un puerto USB de tu dispositivo.
+
+2. Abre OpenCPN Opciones → Plugins → oeSENC y activalo. Crea un archivo de ID del **USB key System** (Fingerprint) desde Preferencias. El plugin te informará sobre la ruta de acceso al archivo. Para sistemas Windows y macOS se crea una copia directamente en el escritorio. Para los sistemas Linux se crea el archivo en la carpeta ~/.opencpn.
+
+3. Copie el Fingerprint en un dispositivo portátil y busque una computadora con conexión a Internet.
+
+4. Vaya a [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) y obtenga la licencia para los conjuntos de cartas que le interesen. Ignore este paso si ya ha comprado sus cartas.
+
+5. Vaya a la página [ My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) y cree un Identificador de sistema, suba el archivo Fingerprint. Dejar el nombre del sistema en blanco, se asignará automáticamente.
+
+6. Seleccione el nuevo * identificador del sistema * para cada conjunto de cartas que desea asignar a su dongle. Una vez asignado, no se puede cambiar.
+
+7. Solicite las cartas presionando el botón que aparece en la columna * Última solicitud * y se procesará el conjunto de cartas. El tiempo de procesamiento depende del tamaño del conjunto de cartas, la cola en el servidor y la carga de red en ese momento pero nunca será más de 2 horas. Más bien estamos hablando de minutos.
+
+8. Recibirá un email con un enlace para descargar su conjunto de cartas. También puede descargarla desde la página [Mis Cartas oeSENC ](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts). Si no descarga su carta en una semana tendrás que hacer una nueva solicitud. Descarga tu carta, cópiala en algún dispositivo de almacenamiento portatil y vuelve al barco.
+
+9. En el ordenador de destino, descomprime las cartas en una carpeta a tu elección, instálalas como siempre y listo. Conecte el USB key Dongle para ver las cartas.
+
 ### Offline Windows/Mac/Linux
 
 Para sistemas de destino sin conexión a Internet puede crear un archivo de identificador de sistema, para depués llevarlo a un sitio con acceso a Internet y solicitar y descargar el conjunto de cartas. Copie el archivo recibido en algún dispositivo portátil y cópielo en el sistema de destino.
 
-1. En el sistema de destino, descargue e instale el [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (sólo para la versión 4.6 de OpenCPN y superior). Si ya tiene el oeSENC plugin instalado, actualicelo a la última versión.
+1. En el sistema de destino, descargue e instale el [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (sólo para la versión 5.0 de OpenCPN y superior). Si ya tiene el oeSENC plugin instalado, actualicelo a la última versión.
 
-2. Abre OpenCPN *Opciones → Plugins → oeSENC* y activalo. Crea tu archivo de identificación del sistema (*Fingerprint*) desde * Preferencias *. El plugin te informará sobre la ruta de acceso al archivo. Para sistemas Windows y macOS se crea una copia directamente en el escritorio. Para los sistemas Linux se crea el archivo en la carpeta *~/.opencpn*.
+2. Abre OpenCPN *Opciones → Plugins → oeSENC* y activalo. Crea su archivo de identificación del sistema (*Fingerprint*) desde * Preferencias *. El plugin te informará sobre la ruta de acceso al archivo. Para sistemas Windows y macOS se crea una copia directamente en el escritorio. Para los sistemas Linux se crea el archivo en la carpeta *~/.opencpn*.
 
 3. Copie el * Fingerprint * en un dispositivo portátil y busque una computadora con conexión a Internet.
 
-4. Vaya a [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) y obtenga la licencia para los conjuntos de cartas que te interesan. Ignore este paso si ya hsa comprado tus cartas.
+4. Vaya a [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) y obtenga la licencia para los conjuntos de cartas que le interesen. Ignore este paso si ya ha comprado sus cartas.
 
 5. Vaya a la página [ My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) y cree un * Identificador de sistema *, suba el archivo * Fingerprint * y elija un* Nombre de Sistema *.
 
-6. Seleccione un * Nombre de Sistema * para cada conjunto de cartas licenciadas. Una vez asignado, no se puede cambiar. Si tu computadora se daña, puede seleccionar un segundo *nombre* para cada conjunto de cartas como copia de seguridad. En ese caso, crea un nuevo *Identificador de Sistema * para el nuevo equipo.
+6. Seleccione un * Nombre de Sistema * para cada conjunto de cartas licenciadas. Una vez asignado, no se puede cambiar. Si su computadora se daña, puede seleccionar un segundo *nombre* para cada conjunto de cartas como copia de seguridad. En ese caso, crea un nuevo *Identificador de Sistema * para el nuevo equipo.
 
 7. Solicite las cartas presionando el botón que aparece en la columna * Última solicitud * y se procesará el conjunto de cartas. El tiempo de procesamiento depende del tamaño del conjunto de cartas, la cola en el servidor y la carga de red en ese momento pero nunca será más de 2 horas. Más bien estamos hablando de minutos.
 
-8. Recibirá un email con un enlace para descargar su conjunto de cartas. También puedes descargarla desde la página [Mis Cartas oeSENC ](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts). Si no descargas tu carta en una semana tendrás que hacer una nueva solicitud. Descarga tu carta, cópiala en algún dispositivo de almacenamiento portatil y vuelve al barco.
+8. Recibirá un email con un enlace para descargar su conjunto de cartas. También puedes descargarla desde la página [Mis Cartas oeSENC ](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts). Si no descarga su carta en una semana tendrás que hacer una nueva solicitud. Descarga su carta, cópiala en algún dispositivo de almacenamiento portatil y vuelve al barco.
 
-9. En el ordenador objetivo, descomprime las cartas en una carpeta a tu elección, instálalas como siempre y listo!
+9. En el ordenador de destino, descomprime las cartas en una carpeta a tu elección, instálalas como siempre y listo!
 
 ### Actualización offline
 
-Para actualizar los conjuntos decartas, vaya a la página [ Mis Cartas oeSENC](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts). La columna *Última actualización * mostrará la última edición solicitada. La columna *Última actualización* mostrará la actual edición disponible para ese juego de cartas. Si *Última solicitada* es más antigua que *Última actualización* deberias considerar solicitar la edición actualizada. Las actualizaciones para las cartas son autónomos, no te preocupes por las actualizaciones intermedias que no hayas podido instalar. Elimine el conjunto decartas antiguo de OpenCPN o manténgalo en un directorio diferente y descargue e instale el nuevo como de costumbre.
+Para actualizar los conjuntos decartas, vaya a la página [ Mis Cartas oeSENC](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts). La columna *Última actualización * mostrará la última edición solicitada. La columna *Última actualización* mostrará la actual edición disponible para ese juego de cartas. Si *Última solicitada* es más antigua que *Última actualización* deberia considerar solicitar la edición actualizada. Las actualizaciones para las cartas son autónomos, no se preocupe por las actualizaciones intermedias que no haya podido instalar. Elimine el conjunto de cartas antiguo de OpenCPN o manténgalo en un directorio diferente y descargue e instale el nuevo como de costumbre.
 
 # Productos de *Refresco*
 
-Existe un descuento en algunos juegos de cartas que tienen la opción de refrescar el periodo de licencia por un año más. Entra en [Mis Cartas oeSENC](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) en la tienda de o-charts para comprobar si tu carta caducada permite extender la licencia y sigue las instrucciones. Puedes asignar el producto de refresco a tu carta caducada durante el año posterior a la fecha de vencimiento.
+Existe un descuento en algunos juegos de cartas que tienen la opción de refrescar el periodo de licencia por un año más. Entra en [Mis Cartas oeSENC](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) en la tienda de o-charts para comprobar si su carta caducada permite extender la licencia y sigue las instrucciones. Puede asignar el producto de refresco a tu carta caducada durante el año posterior a la fecha de vencimiento.
 
 # Preguntas frecuentes
 
