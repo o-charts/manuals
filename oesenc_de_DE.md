@@ -78,11 +78,9 @@ Installationen unter**Android** fallen immer unter **Karten Online installieren*
 
 **Desweiteren stehen Ihnen auch Video-Tutorials zur Verfügung. Überprüfen Sie, ob Untertitel in Ihrer Sprache in *Einstellungen* zur Verfügung stehen:**
 
-[<a href "Wie installiere ich OeSENC Karten in OpenCPN (Windows)](https://www.youtube.com/watch?v=fGIBCEWEC3s)
-
-[[Wie installiere ich OeSENC Karten in OpenCPN (Windows)](https://www. youtube. com/watch? v=fGIBCEWEC3s&t=4s)  
+[Wie installiere ich OeSENC Karten in OpenCPN (Windows)](https://www.youtube.com/watch?v=fGIBCEWEC3s)
   
-[Wie installiere ich OeSENC Karten in OpenCPN (Ubuntu)](https://www. youtube. com/watch? v=Mvx-q-dA8n0&t=26s)](https://www.youtube.com/watch?v=Mvx-q-dA8n0)
+[Wie installiere ich OeSENC Karten in OpenCPN (Ubuntu)](https://www.youtube.com/watch?v=Mvx-q-dA8n0)
 
 ### Online-Android
 
