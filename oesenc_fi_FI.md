@@ -1,139 +1,181 @@
 ---
 layout: default_fi_FI
 ---
-# oeSENC karttojen edellytykset
+# oeSENC-karttojen edellytykset
 
-- oeSENC karttoja voi käyttää vain OpenCPN:ssä.
+- oeSENC-karttoja voi käyttää vain OpenCPN:ssä.
 
-- Sinulla on oikeus käyttää jokaista karttaa, jonka ostat 2 *järjestelmässä* samanaikaisesti tai voi tallentaa varmuuskopion käytettäväksi, jos käyttö *-järjestelmäsi* hajoaa.
+- Sinulla on oikeus käyttää kutakin ostamaasi karttasarjaa kahdessa *järjestelmässä* samanaikaisesti tai voit varata toisen oikeuden käytettäväksi varmuuskopiona siltä varalta että *järjestelmäsi* hajoaa.
 
-- *järjestelmä* on laite ja OS yhdistelmä. Jos jokin näistä osista muuttuu, järjestelmä katsotaan uudeksi, menetät lisenssin ja sinun täytyy käyttää varmuuskopiota.
+- *Järjestelmä* on laitteen ja käyttöjärjestelmän yhdistelmä. Jos jokin näistä muuttuu, järjestelmä tulkitaan uudeksi, menetät käyttöoikeuden ja sinun täytyy käyttää varmuuskopiota.
 
-- Jos olet jo käyttänyt 2 mahdollisuuttasi ja haluat käyttää karttoihin 2 lisää eri järjestelmiin, joudut ostamaaan kartat uudelleen.
+- Jos olet jo käyttänyt 2 oikeuttasi ja haluat käyttää karttasarjojasi useammissa eri järjestelmissä, joudut ostamaan niitä varten uudet karttasarjat.
 
-- Käyttöoikeuden pitäisi pysyä OS, OpenCPN tai plugin päivityksessä, mutta jos asennat käyttöjärjestelmän menetät lisenssin.
+- USB-avain tulkitaan yhdeksi järjestelmäksi. USB-avain sallii oeSENC-karttojen asentamisen niin moneen järjestelmään kuin haluat. Kartat toimivat kuitenkin vain siinä järjestelmässä, mihin USB-avain on liitetty.
 
-- Kun olet tilannut kartat yhteen järjestelmään niitä ei voi palauttaa enää. Jos olet luonut ja liitänyt järjestelmän kartoillesi, mutta et ole pyytänyt karttojasi vielä, voimme silti hyvittää.
+- Käyttöoikeuden pitäisi säilyä käyttöjärjestelmä-, OpenCPN- tai lisäosien päivityksen jälkeenkin. Jos asennat käyttöjärjestelmäsi uudelleen, menetät käyttöoikeutesi.
 
-- Kun olet pyytänyt karttasi yhteen järjestelmään me ei voida peruuttaa tai siirtää kaavioita eri laite/OS-yhdistelmään.
+- Kun olet tehnyt karttasarjallesi latauspyynnön (request) jollekin järjestelmälle, emme voi enää palauttaa rahojasi. Jos olet luonut järjestelmän ja liittänyt karttasarjasi siihen, mutta et ole tehnyt karttasarjallesi yhtään latauspyyntöä, voimme vielä palauttaa rahasi.
 
-- Voit päivittää kartojasi vuoden ajan ostopäivästä lukien. Kartoilla on erilaisia päivitys jaksotuksia:
+- Kun olet liittänyt karttasarjasi johonkin järjestelmään, emme voi peruuttaa liitosta tai siirtää sitä toiseen järjestelmään.
+
+- Voit päivittää karttasarjasi vuoden ostopäivästä. Karttasarjoilla on vaihtelevat päivitysvälit:
     
-    - Viikoittain: DE, FR, SE, NO, FI, PL, Karibian.
-    - Kahden viikon: AU.
-    - Neljännesvuosittain: UK, ES, olla, NL, HR, on.
-    - Vuosittain: DK, GL, s.
+    - Viikoittain: DE, FR, SE, NO, FI, PL, Karibia.
+    - Kahden viikon välein: AU.
+    - Neljännesvuosittain: UK, ES, BE, NL, HR, IS.
+    - Vuosittain: DK, GL, FO.
 
-- Karttapäivitys päättyy vuoden kuluttua ostopäivästä lukien. Päivitysten loppumisen jälkeen, kartat pysyvät systeemisi käyutösä, mutta päivityksiä ei enää tule.
+- Karttasarjasi päivitysoikeus päättyy vuoden kuluttua ostopäivästä. Päivitysoikeuden päättymisen jälkeen karttasarjasi toimivat edelleen järjestelmässäsi, mutta et voi enää päivittää niitä.
 
-- Yhden vuoden aikana kausi voit lisätä rinnakkais- tai varmuuskopioida järjestelmän. Kun käyttö oikeuden aika on ohi, tämä ei ole enää mahdollista.
+- Voit liittää karttasarjasi vuoden päivitysoikeuden aikana rinnakkaiseen tai varmuuskopiojärjestelmään. Vuoden päivitysoikeuden päätyttyä et voi enää liittää karttasarjaasi toiseen järjestelmään.
 
 # Karttojen asennus
 
-Jos järjestelmä, johon haluat asentaa kartat **on kytketty nettiin** seuraa vaiheita **Hae kartat verkosta**.
+Jos järjestelmä, johon haluat asentaa kartat, **on kytketty verkkoon**, seuraa vaiheita **Hae kartat verkosta**.
 
-Jos järjestelmä, johon haluat asentaa kartat **ei ole kytketty nettiin** seuraa vaiheita **Hae kartat ilman verkkoa**.
+Jos järjestelmä, johon haluat asentaa kartat, **ei ole kytketty verkkoon**, seuraa vaiheita **Asenna kartat ilman verkkoa**.
 
-Karttojen asennus **Androidiin** seuraa ohjeita **Hae kartat verkosta**.
+Asentaaksesi kartat **Androidiin** seuraa ohjeita **Hae kartat verkosta**.
 
 ## Hae kartat verkosta
 
-### Verkosta Windows/Mac/Linux
+### Verkossa: USB-avain
 
-1. Lataa ja asenna [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (Versio OpenCPN 4.6 ja uudemmat). Jos sinulla on jo oeSENC plugin asennettuna, Päivitä uusimpaan versioon.
+1. Lataa ja asenna [oeSENC-lisäosa](https://opencpn.org/OpenCPN/plugins/oesenc.html) (OpenCPN 5.0 tai uudemmat versiot). Jos sinulla on jo oeSENC-lisäosa asennettuna, päivitä se uusimpaan versioon.
 
-2. Siirry OpenCPN, *valinnat → Plugins → oeSENC* ja käytä sitä.
+2. OpenCPN:ssä valitse: Asetukset → Lisäosat → oeSENC ja ota se käyttöön valitsemalla "Käytä".
 
-3. Siirry [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) ja lisenssoi se karttasarja josta olet kiinnostunut. Pane muistiin kirjautumistietosi o-kartta kauppaan (sähköpostiosoite ja salasana), tarvitset niitä myöhemmin. Ohita tämä vaihe, jos olet jo ostanut karttasi.
+3. Siirry [o-charts -kauppaan](https://o-charts.org/shop/index.php?id_category=8&controller=category) ja osta lisenssi sille karttasarjalle, jota haluat käyttää. Tallenna kirjautumistietosi o-charts -kauppaan (sähköpostiosoite ja salasana), tarvitset niitä myöhemmin. Ohita tämä vaihe, jos olet jo ostanut karttasarjasi.
 
-4. Siirry OpenCPN, *Optiot→ kartat → oeSENC* kartat välilehti ja paina *Päivitä karttaluettelo*. Näytä piilotetut välilehdet nuolilla.
+4. Kytke USB-avain järjestelmäsi USB-porttiin.
 
-5. Kirjaudu o-karttakauppaan kirjautumistiedoilla.
+5. OpenCPN:ssä valitse: Asetukset → Kartat → oeSENC-kartat ja paina "Päivitä luettelo". Käytä nuolinäppäimiä nähdäksesi piilotetut välilehdet.
 
-6. Sinulta kysytään *järjestelmänimi* järjestelmänsi tunnistamiseksi. Jos asennat oeSENC karttoja tässä järjestelmässä ensimmäistä kertaa, valitse *New System* ja kirjoita nimi vähintään 3 merkkiä ja enintään 15 vain pieniä kirjaimia ja numeroita, ei erikoismerkkejä tai välejä. Jos olet jo asentanut muita oeSENC kartoja tässä järjestelmässä, on valittava *järjestelmänimi*, joka vastaa tätä järjestelmää. Jos valitset väärän *järjestelmänimen*, voi ladata karttoja, mutta ne eivät toimi. Jos asennat kartan toissijaiseen järjestelmään tai olet asentanut käyttöjärjestelmän uudelleen, sinun täytyy valita *uuteen järjestelmään*. Jos olet asentanut kartan 2:een eri järjestelmään, kartta ei ole käytettävissä.
+6. Kirjaudu käyttämällä o-charts -kaupan kirjautumistietoja.
 
-7. Seuraa ruutuun tulevia ohjeita saada, ladata ja asentaa järjestelmääsi ne karttasarjat, jotka lisensoit o-kartta kaupassa.
+7. Seuraa ruudulle tulevia ohjeita ladataksesi ja asentaaksesi o-charts -kaupasta ostamasi karttasarjat.
 
-8. Kun kartta on rakennettu tietokonettasi varten, saat sähköpostitse linkin kartan latausta varten. Voit ohittaa tämän sähköpostin.
+8. Kun karttasarjasi on valmisteltu USB-avaintasi varten, saat sähköpostilla kartasarjan latauslinkin. Voit ohittaa tämän sähköpostin.
 
-**Voit myös seurata näitä video ohjeistuksia. Tarkista, onko sinun tekstityskieli käytettävissä *asetukset*:**
+### Verkossa: Windows/Mac/Linux
 
-[Miten asentaa oeSENC karttoja OpenCPN:ään (Windows)](https://www.youtube.com/watch?v=fGIBCEWEC3s)
+1. Lataa ja asenna [oeSENC-lisäosa](https://opencpn.org/OpenCPN/plugins/oesenc.html) (OpenCPN 5.0 tai uudemmat versiot). Jos sinulla on jo oeSENC-lisäosa asennettuna, päivitä se uusimpaan versioon.
 
-[Miten asentaa oeSENC karttoja OpenCPN:ään (Ubuntu)](https://www.youtube.com/watch?v=Mvx-q-dA8n0)
+2. OpenCPN:ssä valitse: Asetukset → Lisäosat → oeSENC ja ota se käyttöön valitsemalla "Käytä".
 
-### Online Android
+3. Siirry [o-charts -kauppaan](https://o-charts.org/shop/index.php?id_category=8&controller=category) ja osta lisenssi sille karttasarjalle, jota haluat käyttää. Tallenna kirjautumistietosi o-charts -kauppaan (sähköpostiosoite ja salasana), tarvitset niitä myöhemmin. Ohita tämä vaihe, jos olet jo ostanut karttasarjasi.
 
-1. Install [OpenCPN 1.0.13](https://play.google.com/store/apps/details?id=org.opencpn.opencpn) (or above) for Android 4.4 (or above) from the Play Store. Be sure you are using the official OpenCPN app.
+4. OpenCPN:ssä valitse: Asetukset → Kartat → oeSENC-kartat ja paina "Päivitä luettelo". Käytä nuolinäppäimiä nähdäksesi piilotetut välilehdet.
 
-2. Install [oeSENC plugin](https://play.google.com/store/apps/details?id=org.opencpn.oesencplugin) for OpenCPN from the Play Store to be sure your device is compatible.
+5. Kirjaudu käyttämällä o-charts -kaupan kirjautumistietoja.
 
-3. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) and license the chart sets you are interested in. Remember your access data to o-charts shop (email and password), you will need them later. Ignore this step if you have already bought your charts.
+6. Sinulta kysytään *järjestelmänimeä* yksilöimään järjestelmäsi. Jos olet asentamassa oeSENC-karttoja ensimmäistä kertaa tähän järjestelmään, valitse *Kirjoita uusi järjestelmänimi* ja anna järjestelmänimi, joka on vähintään 3 merkkiä ja enintään 15 merkkiä pitkä. Symbolit ja välilyönnit eivät ole sallittuja. Jos olet jo asentanut jonkin oeSENC-karttasarjan tähän järjestelmään, valitse tälle järjestelmälle aiemmin määrittämäsi *järjestelmänimi*. Jos valitset väärän *järjestelmänimen*, voit ladata kartasarjasi, mutta ne eivät toimi. Jos asennat karttasarjaasi toiseen järjestelmään tai ole asentanut käyttöjärjestelmäsi uudelleen, sinun täytyy valita *Kirjoita uusi järjestelmänimi*. Kun olet asentanut karttasarjan kahteen eri järjestelmään, karttasarja ei ole enää käytettävissä uusiin järjestelmiin.
 
-4. Back to OpenCPN, *Options → Charts → oeSENC charts* tab and press *Add/update oeSENC chart sets* to login with your o-charts access data. Use the blue arrows to show the hidden tabs.
+7. Seuraa ruudulle tulevia ohjeita ladataksesi ja asentaaksesi o-charts -kaupasta ostamasi karttasarjat.
 
-5. Follow on screen instructions to assign, download and install to your device the charts sets you licensed on the o-charts shop. If the chart is not available it means that you have already installed your chart in 2 systems.
+8. Kun karttasarjasi on valmisteltu järjestelmääsi varten, saat sähköpostilla kartasarjan latauslinkin. Voit ohittaa tämän sähköpostin.
 
-6. Once the chart has been built for your device you will get an email with a link to download your chart. You can ignore this email.
+**Voit myös seurata näitä ohjevideoita. Tarkista *Asetuksista*, onko videossa tekstitys omalla kielelläsi:**
 
-### Online updates
+[oeSENC-karttojen asentaminen OpenCPN:ään (Windows)](https://www.youtube.com/watch?v=fGIBCEWEC3s)
 
-You should visit *Options → Charts → oeSENC charts* from time to time to see if a new update is available. An update set is self contained, do not worry about intermediate updates you might have missed to install.
+[oeSENC-karttojen asentaminen OpenCPN:ään (Ubuntu)](https://www.youtube.com/watch?v=Mvx-q-dA8n0)
 
-## Get charts offline
+### Verkossa: Android
 
-### Offline Windows/Mac/Linux
+1. Asenna [OpenCPN 1.0.13](https://play.google.com/store/apps/details?id=org.opencpn.opencpn) (tai uudempi) Androidille 4.4 (tai uudemmalle) Play Kaupasta. Varmista että käytät virallista OpenCPN appia.
 
-For target systems without connection to Internet you will create a system identifier file for it, take it to a site with Internet access and request and download the chart set. Copy the received file onto some portable device and copy it onto the target system.
+2. Asenna [oeSENC plugin for OpenCPN](https://play.google.com/store/apps/details?id=org.opencpn.oesencplugin) Play Kaupasta varmistaaksesi että laitteesi on yhteensopiva.
 
-1. In the target system download and install the [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (only for OpenCPN 4.6 version and above). If you have already the oeSENC plugin installed, update to the latest version.
+3. Siirry [o-charts -kauppaan](https://o-charts.org/shop/index.php?id_category=8&controller=category) ja osta lisenssi sille karttasarjalle, jota haluat käyttää. Tallenna kirjautumistietosi o-charts -kauppaan (sähköpostiosoite ja salasana), tarvitset niitä myöhemmin. Ohita tämä vaihe, jos olet jo ostanut karttasarjasi.
 
-2. Go to OpenCPN, *Options → Plugins → oeSENC* and enable it. Create your system identifier file (*Fingerprint*) from *Preferences*. The plugin will report the path to the file. For Windows and macOS systems a copy is created directly on the desktop. For Linux systems the file is created on *~/.opencpn* folder.
+4. OpenCPN:ssä valitse: Asetukset → Kartat → oeSENC-kartat ja paina *Lisää/päivitä oeSENC-karttasarjat* ja kirjaudu käyttämällä o-charts -kaupan kirjautumistietoja. Käytä sinisiä nuolia nähdäksesi piilotetut välilehdet.
 
-3. Copy the *Fingerprint* onto some portable device and look for a computer with an internet connection.
+5. Seuraa ruudulle tulevia ohjeita liittäksesi, ladataksesi ja asentaaksesi o-charts -kaupasta ostamasi karttasarjat. Jos karttasarja ei ole enää käytettävissä, olet asentanut sen jo kahteen järjestelmään.
 
-4. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) and license the chart sets you are interested in. Ignore this step if you have already bought your charts.
+6. Kun karttasarjasi on valmisteltu järjestelmääsi varten, saat sähköpostilla kartasarjan latauslinkin. Voit ohittaa tämän sähköpostin.
 
-5. Go to [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) page and create a *System identifier* there uploading the *Fingerprint* file and give it a *System name*.
+### Päivitykset verkossa
 
-6. Select a *System name* for each chart set you have licensed. Once assigned, it can not be changed. If your computer gets damaged, you are allowed to select a second *System name* for each chart set as a backup. In that case, create a new *System identifier* for the new computer.
+Tarkista OpenCPN:ssä silloin tällöin onko karttasarjoille saatavana päivityksiä valitsemalla: Asetukset → Kartat → oeSENC-kartat *. Päivitykset ovat täydellisiä eikä sinun tarvitse huolehtia välipäivityksistä, jotka ovat jääneet huomaamatta.</p> 
 
-7. Make a Request clicking the button that will appear on the column *Last requested* and the chart set will be processed. Processing time depends on the chart set size, the queue on the server and the network charge at that moment but will be never more than 2 hours. Actually we are talking about minutes.
+## Asenna kartat ilman verkkoa
 
-8. You will get an email with a link to download your chart set. You can download it from [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) page too. If you have not downloaded your chart set in a week, you will have to make a new *Request*. Download your chart, copy it onto some portable device and go back to the boat.
+### Ilman verkkoa: USB-avain
 
-9. On your target system, unzip the charts into a directory of your choice and install your charts as always and you are done!
+Lataa ensin [oeSENC-lisäosa](https://opencpn.org/OpenCPN/plugins/oesenc.html) (OpenCPN 5.0 tai uudemmat versiot) koneella, jossa on internetyhteys ja kopioi se siirrettävälle medialle (esim. USB-tikulle). Asenna se sitten tikulta koneellesi. Jos koneellasi on jo oeSENC-lisäosa asennettuna, varmista että se on uusin versio.
 
-### Offline updates
+1. Kytke USB-avain koneesi USB-porttiin.
 
-To update your chart sets go to [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) page. Column *Last requested* will show the last edition you requested. Column *Last update* will show the current available edition for that chart set. If *Last requested* is older than *Last update* you might consider to request the most actual edition. An update set is self contained, do not worry about intermediate updates you might have missed to install. Remove the old chart set from OpenCPN or keep it in different directory and download and install the new one as usual.
+2. OpenCPN:ssä valitse: Asetukset → Lisäosat → oeSENC ja ota se käyttöön valitsemalla "Käytä". Valitse "Ominaisuudet" ja sitten "Luo USB-avaimen järjestelmän tunnistetiedosto..." (sormenjälkitiedosto). Lisäosa ilmoittaa hakemiston, jonne tiedosto talletettiin. Windows- ja Mac-järjestelmissä tiedostosta luodaan kopio myös työpöydälle. Linux-järjestelmissä tiedosto luodaan hakemistoon ~/.opencpn.
 
-# *Refresh* products
+3. Kopioi sormenjälkitiedosto siirrettävälle medialle (esim. USB-tikulle) ja mene koneelle, jossa on internetyhteys.
 
-There are some chart sets with a discounted refresh option which just extends the license period for one year more after expiration. Go to [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) on o-charts shop to check if your expired chart allows extending the license and follow the instrucctions. You can assign the refresh product to your expired chart during the year following the chart expiration date.
+4. Siirry [o-charts -kauppaan](https://o-charts.org/shop/index.php?id_category=8&controller=category) ja osta lisenssi sille karttasarjalle, jota haluat käyttää. Ohita tämä vaihe, jos olet jo ostanut karttasarjasi.
 
-# Frequently Asked Questions
+5. Siirry sivulle [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) ja luo järjestelmäntunniste lataamalla sormenjälkitiedosto kohdassa *Fingerprint file*. Jätä järjestelmänimi (System name) tyhjäksi, sillä se luodaan automaattisesti.
 
-> **What OS is oeSENC plugin ready for?**
+6. Valitse luotu *System identifier* ja paina *Assign* (Liitä) kullekin kartasarjalle, jotka haluat liittää USB-avaimeesi. Kun karttasarja on liitetty USB-avaimeen, sitä ei voi muuttaa.
+
+7. Tee latauspyyntö painamalla "Request"-painiketta, joka ilmestyy *Last requested* -sarakkeeseen. Karttasarjan valmistelu käynnistyy. Valmisteluaika riippuu karttasarjan koosta, palvelimen ja verkon kuormasta, mutta on aina alle 2 tuntia. Normaalisti valmistelu kestää muutaman minuutin.
+
+8. Kun valmistelu on suoritettu, saat sähköpostilla karttasarjasi latauslinkin. Voit myös ladata sen [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) sivulta. Jollet ole ladannut karttasarjaasi viikkoon, sinun täytyy tehdä uusi latauspyyntö. Lataa karttasarjasi, kopioi se siirrettävälle medialle (esim. USB-tikulle) ja siirrä se koneeseesi.
+
+9. Pura karttasarjatiedosto (.zip) koneellesi haluamaasi hakemistoon (esim. C:\Kartat). Karttasarja tallenetaan valitussa hakemistossa alihakemistoon, jonka nimi muodostuu systeeminimestä ja karttasarjan tunnisteesta. Asenna kartat valitsemalla OpenCPN:ssä Asetukset-Kartat-Karttatiedostot-"Lisää hakemisto..." ja valitse edellä luotu hakemisto. Kytke USB-avain koneesi USB-porttiin ellei se jo ole kytkettynä.
+
+### Ilman verkkoa: Windows/Mac/Linux
+
+Järjestelmissä, joissa ei ole internetyhteyttä, sinun täytyy luoda sille sormenjälkitiedosto ja ottaa se mukaan siirrettävällä medialla (esim. USB-tikulla) koneelle, jossa on internetyhteys. Internetyhteydellä voit tehdä karttasarjallesi latauspyynnön ja ladata ne. Kun olet ladannut karttasarjasi, siirrät sen vastaavasti medialla koneellesi.
+
+1. Lataa ensin [oeSENC-lisäosa](https://opencpn.org/OpenCPN/plugins/oesenc.html) (OpenCPN 5.0 tai uudemmat versiot) koneella, jossa on internetyhteys ja kopioi se siirrettävälle medialle (esim. USB-tikulle). Asenna se sitten tikulta koneellesi. Jos koneellasi on jo oeSENC-lisäosa asennettuna, varmista että se on uusin versio.
+
+2. OpenCPN:ssä valitse: Asetukset → Lisäosat → oeSENC ja ota se käyttöön valitsemalla "Käytä". Valitse "Ominaisuudet" ja sitten "Luo järjestelmän tunnistetiedosto..." (sormenjälkitiedosto). Lisäosa ilmoittaa hakemiston, jonne tiedosto talletettiin. Windows- ja Mac-järjestelmissä tiedostosta luodaan kopio myös työpöydälle. Linux-järjestelmissä tiedosto luodaan hakemistoon ~/.opencpn.
+
+3. Kopioi sormenjälkitiedosto siirrettävälle medialle (esim. USB-tikulle) ja mene koneelle, jossa on internetyhteys.
+
+4. Siirry [o-charts -kauppaan](https://o-charts.org/shop/index.php?id_category=8&controller=category) ja osta lisenssi sille karttasarjalle, jota haluat käyttää. Ohita tämä vaihe, jos olet jo ostanut karttasarjasi.
+
+5. Siirry sivulle [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) ja luo järjestelmän tunniste *System identifier* antamalla ensin systeemillesi nimi kohtaan *System name* ja sitten lataamalla edellä luomasi sormenjälkitiedosto kohdassa *Fingerprint file*.
+
+6. Valitse luotu *System identifier* ja paina *Assign* (Liitä) kullekin kartasarjalle, jotka haluat liittää USB-avaimeesi. Kun karttasarja on liitetty USB-avaimeen, sitä ei voi muuttaa. Jos koneesi vahingoittuu, voit varmuuskopiona valita toisen järjestelmänimen kullekin karttasarjallesi. Luo tällöin uusi järjestelmänimi uudelle koneellesi.
+
+7. Tee latauspyyntö painamalla "Request"-painiketta, joka ilmestyy *Last requested* -sarakkeeseen. Karttasarjan valmistelu käynnistyy. Valmisteluaika riippuu karttasarjan koosta, palvelimen ja verkon kuormasta, mutta on aina alle 2 tuntia. Normaalisti valmistelu kestää muutaman minuutin.
+
+8. Kun valmistelu on suoritettu, saat sähköpostilla karttasarjasi latauslinkin. Voit myös ladata sen [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) sivulta. Jollet ole ladannut karttasarjaasi viikkoon, sinun täytyy tehdä uusi latauspyyntö. Lataa karttasarjasi, kopioi se siirrettävälle medialle (esim. USB-tikulle) ja siirrä se koneeseesi.
+
+9. Pura karttasarjatiedosto (.zip) koneellesi haluamaasi hakemistoon (esim. C:\Kartat). Karttasarja tallenetaan valitussa hakemistossa alihakemistoon, jonka nimi muodostuu systeeminimestä ja karttasarjan tunnisteesta. Asenna kartat valitsemalla OpenCPN:ssä Asetukset-Kartat-Karttatiedostot-"Lisää hakemisto..." ja valitse edellä luotu hakemisto!
+
+### Päivitykset ilman verkkoa
+
+Voit päivittää karttasarjasi ilman verkkoa siirtymällä sivulle [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts). Sarake *Last requested* näyttää viimeisimmän lataamasi version. Sarake *Last update* näyttää karttasarjasi tuoreimman saatavilla olevan version. Jos *Last requested* on vanhempi kuin *Last update*, voit tehdä latauspyynnön tuoreimpaan versioon. Päivitykset ovat täydellisiä eikä sinun tarvitse huolehtia välipäivityksistä, jotka ovat jääneet huomaamatta. Poista vanha karttasarja OpenCPN:stä tai talleta se eri hakemistoon ja lataa ja asenna uusi kuten ilman verkkoa tehtävissä ohjeissa edellä opastettiin.
+
+# Karttasarjonen *päivitysoikeuden* jatkaminen
+
+Joidenkin karttasarjojen päivitysoikeutta voidaan jatkaa vuodeksi eteenpäin alennetulla hinnalla vuoden päivitysoikeuden päätyttyä. Siirry sivulle [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) o-charts -karttakaupassa ja tarkista voitko jatkaa lisenssiä. Seuraa tarvittaessa ohjeita. Voit liittää jatketun käyttöoikeuden vanhentuneeseen karttasarjaan vuoden ajan vanhenemispäivästä.
+
+# Usein kysyttyjä kysymyksiä
+
+> **Mihin käyttöjärjestelmiin oeSENC-lisäosa on saatavana?**
 > 
-> oeSENC charts will work on Windows, Mac, Android and Linux systems (included ARM boards).
+> oeSENC-lisäosa ja -kartat toimivat Windows-, Mac- Android- ja Linux-järjestelmissä (myös ARM-korteilla)
 > 
-> **And if I install the software in a Virtual Machine?**
+> **Entä jos asennan ohjelman virtuaalikoneeseen?**
 > 
-> It will not run there. We have to prevent the system from being cloned.
+> Se ei toimi. Olemme estäneet järjestelmän kloonaamiselta.
 > 
-> **Can I use oeSENC charts on iOS?**
+> **Voinko käyttää oeSENC karttoja iOS-laitteissa?**
 > 
-> Ei. There is no version of OpenCPN for iOS.
+> Et. OpenCPN:ää ei ole saatavana iOS-laitteille.
 > 
-> **As how many systems counts a dual boot system?**
+> **Kuinka moneksi järjestelmäksi "dual boot"-järjestelmä lasketaan?**
 > 
-> Each HW/SW combination is an individual one.
+> Kukin hw/sw-yhdistelmä on yksi järjestelmä.
 > 
-> **Why do I have to pay for oeSENC charts?**
+> **Miksi minun täytyy maksaa oeSENC-kartoista?**
 > 
-> We have to run this operation and respond to the charts licensors fees and conditions. The structure and costs are kept to a minimum. In case we have a great success economical speaking, funds will go back to OpenCPN.
+> Joudumme ylläpitämään järjestelmää ja vastaamaan karttojen lisensoijille maksuista ja ehdoista. Kulut pyritään pitämään mahdollisimman alhaisina. Siinä tapauksessa että saavutamme menestystä ekonomisessa mielessä, suorituksia palautetaan OpenCPN:lle.
 > 
-> **OpenCPN is open source. Where is the code for the plug-in?**
+> **OpenCPN on avoimen lähdekoodin sovellus. Missä on lisäosan lähdekoodit?**
 > 
-> To work with oeSENC charts we have to ensure that no copies of the unencrypted cells are accessible during the execution of the software. Therefore, the plug-in has an open-source part and a binary. Similar to the commercial BSB4 or nv-chart plug-ins.
+> oeSENC-karttoja käytettäessä joudumme varmistamaan että salaamattomista karttasoluista ei ole kopioita ohjelman suorituksen aikana. Tämän vuoksi lisäosa koostuu avoimesta lähdekoodista ja binääriosasta. Vastaavia ovat kaupalliset BSB4- tai nv-chart -lisäosat.
