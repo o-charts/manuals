@@ -12,6 +12,8 @@ layout: default_en_US
 
 - If you have consumed your 2 shots and you want to use your charts in 2 extra systems, you will have to buy the charts again.
 
+- A USB Key Dongle is considered as a system. The USB Key Dongle allows to install the oeSENC charts in as many devices as you want. However, only in the device where the USB Key Dongle is plugged in, the license is active and will display the charts.
+
 - Your license should survive to any OS, OpenCPN or plugin update but if you reinstall your OS you will lose your license.
 
 - Once you have requested your charts for one system we can not refund you. If you have created and assigned a system to your chart but you have not requested your charts yet, we can still refund you.
@@ -39,9 +41,28 @@ To install charts on **Android** follow the steps in **Get charts online**.
 
 ## Get charts online
 
+### Online USB Key Dongle
+
+1. Download and install the [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (only for OpenCPN 5.0 version and above). If you have already the oeSENC plugin installed, update to the latest version.
+
+2. Go to OpenCPN, Options → Plugins → oeSENC and enable it.
+
+3. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) and license the chart sets you are interested in. Remember your access data to o-charts shop (email and password), you will need them later. Ignore this step if you have already bought your charts.
+
+4. Plug the USB Key Dongle into a USB port of your device.
+
+5. Go to OpenCPN, Options → Charts → oeSENC charts tab and press Refresh Chart List. Use the arrows to show the hidden tabs.
+
+6. Login with your o-charts shop access data.
+
+7. Follow on screen instructions to  download and install to your system the charts sets you licensed on the o-charts shop.
+
+8. Once the chart has been built for your USB Key Dongle you will get an email with a link to download your chart. You can ignore this email.
+
+
 ### Online Windows/Mac/Linux
 
-1. Download and install the [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (only for OpenCPN 4.6 version and above). If you have already the oeSENC plugin installed, update to the latest version.
+1. Download and install the [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (only for OpenCPN 5.0 version and above). If you have already the oeSENC plugin installed, update to the latest version.
 
 2. Go to OpenCPN, *Options → Plugins → oeSENC* and enable it.
 
@@ -51,7 +72,7 @@ To install charts on **Android** follow the steps in **Get charts online**.
 
 5. Login with your o-charts shop access data.
 
-6. You will be asked for a *System Name* to identify your system. If this is the first time you install oeSENC charts on this system, select *New System* and provide a name 3 characters minimum and 15 maximum, only lowercase letters and numbers, no symbols or spaces. If you have already installed other oeSENC charts on this system, you have to select the *System Name* that corresponds to this system. If you select the wrong *System Name*, you will be able to download your charts but they will not work. If you are installing your chart in a secondary system or you have reinstalled your OS you have to choose *New System*. Once you have installed your chart on 2 different systems, the chart will not be available. 
+6. You will be asked for a *System Name* to identify your system. If this is the first time you install oeSENC charts on this system, select *New System* and provide a name 3 characters minimum and 15 maximum, no symbols or spaces. If you have already installed other oeSENC charts on this system, you have to select the *System Name* that corresponds to this system. If you select the wrong *System Name*, you will be able to download your charts but they will not work. If you are installing your chart in a secondary system or you have reinstalled your OS you have to choose *New System*. Once you have installed your chart on 2 different systems, the chart will not be available. 
 
 7. Follow on screen instructions to assign, download and install to your system the charts sets you licensed on the o-charts shop.
 
@@ -83,11 +104,34 @@ You should visit *Options → Charts → oeSENC charts* from time to time to see
 
 ## Get charts offline
 
+### Offline USB Key Dongle
+
+In the target system download and install the [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (only for OpenCPN 5.0 version and above). If you have already the oeSENC plugin installed, update to the latest version.
+
+1. Plug the USB Key Dongle into a USB port.
+    
+2. Go to OpenCPN, Options → Plugins → oeSENC and enable it. Create a **USB key System ID file** (Fingerprint) from Preferences. The plugin will report the path to the file. For Windows and macOS systems a copy is created directly on the desktop. For Linux systems the file is created on ~/.opencpn folder.
+
+3. Copy the Fingerprint onto some portable device and look for a computer with an internet connection.
+
+4. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) and license the chart sets you are interested in. Ignore this step if you have already bought your charts.
+    
+5. Go to My [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) page and create a System identifier there uploading the Fingerprint. Leave System name blank, it will be assigned automatically.
+
+6. Select the new *System identifier* for each chart set you want to assign to your dongle. Once assigned, it can not be changed.
+
+7. Make a Request clicking the button that will appear on the column *Last requested* and the chart set will be processed. Processing time depends on the chart set size, the queue on the server and the network charge at that moment but will be never more than 2 hours. Actually we are talking about minutes.
+
+8. You will get an email with a link to download your chart set. You can download it from [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) page too. If you have not downloaded your chart set in a week, you will have to make a new Request. Download your chart, copy it onto some portable device and go back to the boat.
+
+9. On your target system unzip the file into a directory of your choice and install your charts as always and you are done.  Plug in the USB Key Dongle to see the charts.
+
+
 ### Offline Windows/Mac/Linux
 
 For target systems without connection to Internet you will create a system identifier file for it, take it to a site with Internet access and request and download the chart set. Copy the received file onto some portable device and copy it onto the target system.
 
-1. In the target system download and install the [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (only for OpenCPN 4.6 version and above). If you have already the oeSENC plugin installed, update to the latest version.
+1. In the target system download and install the [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (only for OpenCPN 5.0 version and above). If you have already the oeSENC plugin installed, update to the latest version.
 
 2. Go to OpenCPN, *Options → Plugins → oeSENC* and enable it. Create your system identifier file (*Fingerprint*) from *Preferences*. The plugin will report the path to the file. For Windows and macOS systems a copy is created directly on the desktop. For Linux systems the file is created on *~/.opencpn* folder.
 
