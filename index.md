@@ -163,7 +163,7 @@ Yes
 </div>
 <div class="questions">
 <div class="questionok question">
-Please help us to contact the authorities of your country to study the possibilities of adding your nautical charts to OpenCPN.
+Please, help us to contact the authorities in your country to consider adding your nautical charts to OpenCPN.
 </div>
 </div>
 <br><br>
