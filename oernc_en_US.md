@@ -2,23 +2,25 @@
 layout: default_en_US
 ---
 
-# oeSENC Charts Conditions
+# oeRNC Charts Conditions
 
-- oeSENC charts can only be used in OpenCPN.
+- oeRNC charts can only be used in OpenCPN.
 
-- You are allowed to use every chart you buy in 2 *systems* simultaneously or you can save a backup to be used in case your main *system* dies.
+- Normally you can install every chart you buy in 2 *systems* or more (see chart details). We name *assigments* to these allowed systems. 
 
-- *System* is the combination of device and OS. If any of these items changes, your system will be presented as a new one, you will lose your license and you will have to use your backup.
+- You can use either simultaneously all your assigments or you can save one to be used in case your main *system* dies or you have to make changes which may kill your license.
 
-- If you have consumed your 2 shots and you want to use your charts in 2 extra systems, you will have to buy the charts again.
+- *System* is the combination of hardware and OS. If any of these items changes, your system will be presented as a new one, you will lose your license and you will have to use a free assigment.
 
-- A USB Key Dongle is considered as a system. The USB Key Dongle allows to install the oeSENC charts in as many devices as you want. However, only in the device where the USB Key Dongle is plugged in, the license is active and will display the charts.
+- Your license should survive to any OS, OpenCPN or plugin update but if you reinstall your OS, even with the same OS, you will lose your license.
 
-- Your license should survive to any OS, OpenCPN or plugin update but if you reinstall your OS you will lose your license.
+- If you have consumed all your assigments and you want to install your chart in a new system, you will have to buy the charts again.
+
+- A *USB Key Dongle* is considered as a system. The USB Key Dongle allows to install the charts in as many devices as you want. However, only in the device where the USB Key Dongle is plugged in, the license is active and will display the charts.
 
 - Once you have requested your charts for one system we can not refund you. If you have created and assigned a system to your chart but you have not requested your charts yet, we can still refund you.
 
-- Once you have requested your charts for one system we can not cancel or move your system to a different device/OS combination.
+- Once you have requested your charts for one system we can not cancel or move your system to a different hardware/OS combination.
 
 - You will be able to update your charts during a year from the purchase date. Charts have different update periodicity:
 
@@ -29,11 +31,11 @@ layout: default_en_US
 
 - Your charts expire after a year from the purchase date. After expiration, charts will keep working on your system but you can not request updates for them any longer.
 
-- During the one years period you can add your parallel or backup system. Once the licensing period is over, this will not be possible any longer.
+- During the one years period you can assign your charts to any system. Once the licensing period is over, this will not be possible any longer.
 
 # Installing Charts
 
-If the system where you want to install your charts **is connected to Internet** follow the steps in **Get charts online**.
+If the system where you want to install your charts **is connected to Internet** follow the steps in **Get charts online**. This is the easiest and recommended method.
 
 If the system where you want to install your charts is **NOT connected to Internet** follow the steps in **Get charts offline**.
 
