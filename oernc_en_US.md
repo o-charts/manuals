@@ -41,13 +41,13 @@ To install charts on **Android** follow the steps in **Get charts online**.
 
 ## Get charts online
 
-### Online USB Key Dongle
-
 1. Download and install the [oeRNC plugin](https://opencpn.org/OpenCPN/plugins/oernc.html) (only for OpenCPN 5.0 version and above). If you have already the oeRNC plugin installed, update to the latest version.
 
 2. Go to OpenCPN, *Options → Plugins → oeRNC* and enable it.
 
 3. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=14&controller=category) and license the chart sets you are interested in. Remember your access data to o-charts shop (email and password), you will need them later. Ignore this step if you have already bought your charts.
+
+### Online USB Key Dongle**
 
 4. Plug the USB Key Dongle into a USB port of your device.
 
@@ -59,17 +59,11 @@ To install charts on **Android** follow the steps in **Get charts online**.
 
 ### Online Windows/Mac/Linux
 
-1. Download and install the [oeRNC plugin](https://opencpn.org/OpenCPN/plugins/oernc.html) (only for OpenCPN 5.0 version and above). If you have already the oeRNC plugin installed, update to the latest version.
-
-2. Go to OpenCPN, *Options → Plugins → oeRNC* and enable it.
-
-3. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=14&controller=category) and license the chart sets you are interested in. Remember your access data to o-charts shop (email and password), you will need them later. Ignore this step if you have already bought your charts.
-
 4. Go to OpenCPN, *Options → Charts → oeRNC* charts tab and press *Refresh Chart List*. Use the arrows to show the hidden tabs.
 
 5. Login with your o-charts shop access data.
 
-6. You will be asked for a *System Name* to identify your system. If this is the first time you install oeSENC or oeRNC charts on this system, select *New* and provide a name 3 characters minimum and 15 maximum, no symbols or spaces. If you have already installed other oeSENC or oeRNC charts on this system, you have to select the *System Name* that corresponds to this system. If you select the wrong *System Name*, you could be able to download your charts but they will not work. If you are installing your chart in a secondary system or you have reinstalled your OS you have to choose *New* to use a new assigment. Once you have consumed all your allowed assigments, the chart will not be available. 
+6. You will be asked for a *System Name* to identify your system. If this is the first time you install oeRNC charts on this system, select *New* and provide a name 3 characters minimum and 15 maximum, no symbols or spaces. If you have already installed other oeRNC charts on this system, the *System Name* should be already assigned. If not, you have to select the *System Name* that corresponds to this system from the list. If you select the wrong *System Name*, you could be able to download your charts but they will not work. If you are installing your chart in a secondary system or you have reinstalled your OS you have to choose *New* to use a new assigment. Once you have consumed all your allowed assigments, the chart will not be available. 
 
 7. Follow on screen instructions to assign, download and install to your system the charts sets you licensed on the o-charts shop.
 
