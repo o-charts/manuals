@@ -93,26 +93,26 @@ To update your chart sets go to [My oeRNC Charts](http://o-charts.org/shop/index
 
 # Frequently Asked Questions
 
-> **What OS is oeSENC plugin ready for?**
+> **What OS are oeSENC/oeRNC plugins ready for?**
 >
-> oeSENC charts will work on Windows, Mac, Android and Linux systems (included ARM boards).
+> oeSENC/oeRNC charts will work on Windows, Mac, Android and Linux systems (included ARM boards).
 
 > **And if I install the software in a Virtual Machine?**
 >
 > It will not run there. We have to prevent the system from being cloned.
 
-> **Can I use oeSENC charts on iOS?**
+> **Can I use oeSENC/oeRNC charts on iOS?**
 >
 > No. There is no version of OpenCPN for iOS.
 
 > **As how many systems counts a dual boot system?**
 > 
-> Each HW/SW combination is an individual one.
+> Each hardware/OS combination is an individual one.
 
-> **Why do I have to pay for oeSENC charts?**
+> **Why do I have to pay for oeSENC/oeRNC charts?**
 >
 > We have to run this operation and respond to the charts licensors fees and conditions. The structure and costs are kept to a minimum. In case we have a great success economical speaking, funds will go back to OpenCPN.
 
-> **OpenCPN is open source. Where is the code for the plug-in?**
+> **OpenCPN is open-source. Where is the code for the plugins?**
 >
-> To work with oeSENC charts we have to ensure that no copies of the unencrypted cells are accessible during the execution of the software. Therefore, the plug-in has an open-source part and a binary. Similar to the commercial BSB4 or nv-chart plug-ins.
+> To work with oeSENC/oeRNC charts we have to ensure that no copies of the unencrypted cells are accessible during the execution of the software. Therefore, the plugins have an open-source part and a binary. Similar to the commercial BSB4 or nv-chart plugins.
