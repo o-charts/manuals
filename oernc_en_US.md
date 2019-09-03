@@ -53,9 +53,9 @@ To install charts on **Android** follow the steps in **Get charts for Android**.
 
 6. Login with your o-charts shop access data.
 
-7. If you are using a USB Dongle ignore this step. If not, you will be asked for a *System Name* to identify your system. If this is the first time you install oeRNC charts on this system, select *New* and provide a name 3 characters minimum and 15 maximum, no symbols or spaces.  If not, you have to select the *System Name* that corresponds to this system from the list. If you select a wrong *System Name*, you could be able to download your charts but they will not work. If you are installing your chart in a secondary system or you have reinstalled your OS you have to choose *New* to use a new assigment. Once you have consumed all your allowed assigments, the chart will not be available. 
+7. If you are using a USB Dongle ignore this step. If not, you have to identify your system with a *System Name*. If this is the first time you install oeRNC charts on this system, select *New* in the window that will appear and provide a name (3 characters minimum and 15 maximum, no symbols or spaces).  If not, you have to select the *System Name* that corresponds to this system from the list. If you select a wrong *System Name*, you could be able to install the charts but they will not work. If you are installing your chart in a secondary system or you have reinstalled your OS you have to choose *New* to use a new assigment.
 
-8. Follow on screen instructions to assign, download and install to your system or dongle the charts sets you licensed on the o-charts shop.
+8. Follow on screen instructions to assign, download and install to your system or dongle the charts sets you licensed on the o-charts shop. Once you have consumed all your allowed assigments, the chart will not be available. 
 
 ### Updates - online
 
