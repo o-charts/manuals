@@ -37,7 +37,7 @@ If the system where you want to install your charts **is connected to Internet**
 
 If the system where you want to install your charts is **NOT connected to Internet** follow the steps in **Get charts offline**.
 
-To install charts on **Android** follow the steps in **Get charts online**.
+To install charts on **Android** follow the steps in **Get charts for Android**.
 
 ## Get charts online
 
@@ -47,7 +47,7 @@ To install charts on **Android** follow the steps in **Get charts online**.
 
 3. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=14&controller=category) and license the chart sets you are interested in. Remember your access data to o-charts shop (email and password), you will need them later. Ignore this step if you have already bought your charts.
 
-### Online USB Key Dongle**
+### USB Key Dongle - online
 
 4. Plug the USB Key Dongle into a USB port of your device.
 
@@ -57,7 +57,7 @@ To install charts on **Android** follow the steps in **Get charts online**.
 
 7. Follow on screen instructions to assign to your dongle, download and install the charts sets you licensed on the o-charts shop.
 
-### Online Windows/Mac/Linux
+### Windows/Mac/Linux - online
 
 4. Go to OpenCPN, *Options → Charts → oeRNC* charts tab and press *Refresh Chart List*. Use the arrows to show the hidden tabs.
 
@@ -67,64 +67,39 @@ To install charts on **Android** follow the steps in **Get charts online**.
 
 7. Follow on screen instructions to assign, download and install to your system the charts sets you licensed on the o-charts shop.
 
-### Online Android
-
-Coming soon
-
-### Online updates
+### Updates - online
 
 You should visit *Options → Charts → oeRNC charts* from time to time to see if a new update is available. oeRNC updates are incremental but do not worry, oeRNC plugin will do all the job and will download all the intermediate updates you might have missed to install.
 
+## Get charts for Android
+
+Coming soon
+
 ## Get charts offline
 
-### Offline USB Key Dongle
+For systems without connection to Internet you will create a system identifier file to take it to a site with Internet access and request and download the chart set for it. We assume that you have installed the latest versions of OpenCPN and oeRNC plugin in the target system.
 
-In the target system download and install the [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (only for OpenCPN 5.0 version and above). If you have already the oeSENC plugin installed, update to the latest version.
-
-1. Plug the USB Key Dongle into a USB port.
+1. If you want to assign your charts to a USB Key Dongle, plug it into a USB port now. Ignore this step if you do not have a dongle.
     
-2. Go to OpenCPN, Options → Plugins → oeSENC and enable it. Create a **USB key System ID file** (Fingerprint) from Preferences. The plugin will report the path to the file. For Windows and macOS systems a copy is created directly on the desktop. For Linux systems the file is created on ~/.opencpn folder.
+2. Go to OpenCPN, *Options → Plugins → oeRNC Charts* and enable it. 
 
-3. Copy the Fingerprint onto some portable device and look for a computer with an internet connection.
+3. Enter into *Preferences* and click either on *Create USB Key Dongle System ID file...* if you have a dongle or on *Create System Identifier file...* if you do not have a dongle. The plugin will report the path to a *Fingerprint* file. For Windows and macOS systems a copy is created directly on the desktop. For Linux systems the file is created on ~/.opencpn folder.
 
-4. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) and license the chart sets you are interested in. Ignore this step if you have already bought your charts.
+4. Copy the *Fingerprint* file onto some portable device and look for a computer with an internet connection.
+
+5. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=14&controller=category) and license the oeRNC chart sets you are interested in. Ignore this step if you have already bought your charts.
     
-5. Go to My [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) page and create a System identifier there uploading the Fingerprint. Leave System name blank, it will be assigned automatically.
+6. Go to [My oeRNC Charts](http://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occhartsOernc) page and create a *System identifier* uploading the *Fingerprint*. Leave *System name* blank if you are using a dongle.
 
-6. Select the new *System identifier* for each chart set you want to assign to your dongle. Once assigned, it can not be changed.
+7. Select the new *System identifier* for each chart set you want to assign to your system. Once assigned, it can not be changed.
 
-7. Make a Request clicking the button that will appear on the column *Last requested* and the chart set will be processed. Processing time depends on the chart set size, the queue on the server and the network charge at that moment but will be never more than 2 hours. Actually we are talking about minutes.
+8. Make a Request clicking the button *Request*. After few seconds you will get 2 downloads links, one for the charts and another one for the file containing the keys to decrypt them. Copy both files onto the portable device and go back to the boat.
 
-8. You will get an email with a link to download your chart set. You can download it from [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) page too. If you have not downloaded your chart set in a week, you will have to make a new Request. Download your chart, copy it onto some portable device and go back to the boat.
+9. On your target system unzip the charts file into a directory of your choice and copy the file with the keys inside this directory. Install your charts as always and you are done. If you have assigned your charts to a dongle, plug it in to see the charts.
 
-9. On your target system unzip the file into a directory of your choice and install your charts as always and you are done.  Plug in the USB Key Dongle to see the charts.
+### Updates - offline
 
-
-### Offline Windows/Mac/Linux
-
-For target systems without connection to Internet you will create a system identifier file for it, take it to a site with Internet access and request and download the chart set. Copy the received file onto some portable device and copy it onto the target system.
-
-1. In the target system download and install the [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (only for OpenCPN 5.0 version and above). If you have already the oeSENC plugin installed, update to the latest version.
-
-2. Go to OpenCPN, *Options → Plugins → oeSENC* and enable it. Create your system identifier file (*Fingerprint*) from *Preferences*. The plugin will report the path to the file. For Windows and macOS systems a copy is created directly on the desktop. For Linux systems the file is created on *~/.opencpn* folder.
-
-3. Copy the *Fingerprint* onto some portable device and look for a computer with an internet connection.
-
-4. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) and license the chart sets you are interested in. Ignore this step if you have already bought your charts.
-
-5. Go to [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) page and create a *System identifier* there uploading the *Fingerprint* file and give it a *System name*.
-
-6. Select a *System name* for each chart set you have licensed. Once assigned, it can not be changed. If your computer gets damaged, you are allowed to select a second *System name* for each chart set as a backup. In that case, create a new *System identifier* for the new computer.
-
-7. Make a Request clicking the button that will appear on the column *Last requested* and the chart set will be processed. Processing time depends on the chart set size, the queue on the server and the network charge at that moment but will be never more than 2 hours. Actually we are talking about minutes.
-
-8. You will get an email with a link to download your chart set. You can download it from [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) page too. If you have not downloaded your chart set in a week, you will have to make a new *Request*. Download your chart, copy it onto some portable device and go back to the boat.
-
-9. On your target system, unzip the charts into a directory of your choice and install your charts as always and you are done!
-
-### Offline updates
-
-To update your chart sets go to [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) page. Column *Last requested* will show the last edition you requested. Column *Last update* will show the current available edition for that chart set. If *Last requested* is older than *Last update* you might consider to request the most actual edition. An update set is self contained, do not worry about intermediate updates you might have missed to install. Remove the old chart set from OpenCPN or keep it in different directory and download and install the new one as usual.
+To update your chart sets go to [My oeRNC Charts](http://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occhartsOernc) page. Column *Edition* will show the last edition you requested. Column *Current edition* will show the current available edition for that chart set. If they do not match, a *Request* button will appear. Offline updates are self contained, do not worry about intermediate updates you might have missed to install. Remove the old chart set from OpenCPN or keep it in different directory and install the new one as usual.
 
 # Frequently Asked Questions
 
