@@ -67,7 +67,7 @@ Coming soon
 
 ## Get charts offline
 
-For systems without connection to Internet you will create a system identifier file to take it to a site with Internet access and request and download the chart set for it. We assume that you have installed the latest versions of OpenCPN and oeRNC plugin in the target system.
+For systems without Internet connection you will create a system identifier file to take it to another computer with Internet access and request and download the chart set for the target system. We assume that you have installed the latest versions of OpenCPN and oeRNC plugin in the target system.
 
 1. If you want to assign your charts to a USB Key Dongle, plug it into a USB port now. Ignore this step if you do not have a dongle.
     
