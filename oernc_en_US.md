@@ -8,11 +8,11 @@ layout: default_en_US
 
 - Normally you can install every chart you buy in 2 *systems* or more (see chart details). We name *assigments* to these allowed systems. 
 
-- You can use either simultaneously all your assigments or you can save one to be used in case your main *system* dies or you have to make changes which may kill your license.
+- You can use either simultaneously all your assigments or you can save one to be used in case your main *system* dies or you have to make changes on it which may kill your license.
 
 - *System* is the combination of hardware and OS. If any of these items changes, your system will be presented as a new one, you will lose your license and you will have to use a free assigment.
 
-- Your license should survive to any OS, OpenCPN or plugin update but if you reinstall your OS, even with the same OS, you will lose your license.
+- Your license should survive to any OS, OpenCPN or plugin update but if you reinstall your OS, even with the same OS in the same hardware, you will lose your license.
 
 - If you have consumed all your assigments and you want to install your chart in a new system, you will have to buy the charts again.
 
@@ -24,10 +24,8 @@ layout: default_en_US
 
 - You will be able to update your charts during a year from the purchase date. Charts have different update periodicity:
 
-    - Weekly: DE, FR, SE, NO, FI, PL, Caribbean.
-    - Fortnightly: AU.
-    - Quarterly: UK, ES, BE, NL, HR, IS.
-    - Annually: DK, GL, FO.
+    - Quarterly: Imray Charts Eastern Caribbean, Imray Charts Greece & Turkey.
+    - Undetermined: Explorer Charts (Bahamas).
 
 - Your charts expire after a year from the purchase date. After expiration, charts will keep working on your system but you can not request updates for them any longer.
 
@@ -45,64 +43,43 @@ To install charts on **Android** follow the steps in **Get charts online**.
 
 ### Online USB Key Dongle
 
-1. Download and install the [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (only for OpenCPN 5.0 version and above). If you have already the oeSENC plugin installed, update to the latest version.
+1. Download and install the [oeRNC plugin](https://opencpn.org/OpenCPN/plugins/oernc.html) (only for OpenCPN 5.0 version and above). If you have already the oeRNC plugin installed, update to the latest version.
 
-2. Go to OpenCPN, Options → Plugins → oeSENC and enable it.
+2. Go to OpenCPN, *Options → Plugins → oeRNC* and enable it.
 
-3. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) and license the chart sets you are interested in. Remember your access data to o-charts shop (email and password), you will need them later. Ignore this step if you have already bought your charts.
+3. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=14&controller=category) and license the chart sets you are interested in. Remember your access data to o-charts shop (email and password), you will need them later. Ignore this step if you have already bought your charts.
 
 4. Plug the USB Key Dongle into a USB port of your device.
 
-5. Go to OpenCPN, Options → Charts → oeSENC charts tab and press Refresh Chart List. Use the arrows to show the hidden tabs.
+5. Go to OpenCPN, *Options → Charts → oeRNC charts* tab and press *Refresh Chart List*. Use the arrows to show the hidden tabs.
 
 6. Login with your o-charts shop access data.
 
-7. Follow on screen instructions to  download and install to your system the charts sets you licensed on the o-charts shop.
-
-8. Once the chart has been built for your USB Key Dongle you will get an email with a link to download your chart. You can ignore this email.
-
+7. Follow on screen instructions to assign to your dongle, download and install the charts sets you licensed on the o-charts shop.
 
 ### Online Windows/Mac/Linux
 
-1. Download and install the [oeSENC plugin](https://opencpn.org/OpenCPN/plugins/oesenc.html) (only for OpenCPN 5.0 version and above). If you have already the oeSENC plugin installed, update to the latest version.
+1. Download and install the [oeRNC plugin](https://opencpn.org/OpenCPN/plugins/oernc.html) (only for OpenCPN 5.0 version and above). If you have already the oeRNC plugin installed, update to the latest version.
 
-2. Go to OpenCPN, *Options → Plugins → oeSENC* and enable it.
+2. Go to OpenCPN, *Options → Plugins → oeRNC* and enable it.
 
-3. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) and license the chart sets you are interested in. Remember your access data to o-charts shop (email and password), you will need them later. Ignore this step if you have already bought your charts.
+3. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=14&controller=category) and license the chart sets you are interested in. Remember your access data to o-charts shop (email and password), you will need them later. Ignore this step if you have already bought your charts.
 
-4. Go to OpenCPN, *Options → Charts → oeSENC* charts tab and press *Refresh Chart List*. Use the arrows to show the hidden tabs.
+4. Go to OpenCPN, *Options → Charts → oeRNC* charts tab and press *Refresh Chart List*. Use the arrows to show the hidden tabs.
 
 5. Login with your o-charts shop access data.
 
-6. You will be asked for a *System Name* to identify your system. If this is the first time you install oeSENC charts on this system, select *New System* and provide a name 3 characters minimum and 15 maximum, no symbols or spaces. If you have already installed other oeSENC charts on this system, you have to select the *System Name* that corresponds to this system. If you select the wrong *System Name*, you will be able to download your charts but they will not work. If you are installing your chart in a secondary system or you have reinstalled your OS you have to choose *New System*. Once you have installed your chart on 2 different systems, the chart will not be available. 
+6. You will be asked for a *System Name* to identify your system. If this is the first time you install oeSENC or oeRNC charts on this system, select *New* and provide a name 3 characters minimum and 15 maximum, no symbols or spaces. If you have already installed other oeSENC or oeRNC charts on this system, you have to select the *System Name* that corresponds to this system. If you select the wrong *System Name*, you could be able to download your charts but they will not work. If you are installing your chart in a secondary system or you have reinstalled your OS you have to choose *New* to use a new assigment. Once you have consumed all your allowed assigments, the chart will not be available. 
 
 7. Follow on screen instructions to assign, download and install to your system the charts sets you licensed on the o-charts shop.
 
-8. Once the chart has been built for your computer you will get an email with a link to download your chart. You can ignore this email. 
-
-**You can also follow these video tutorials. Check if subtitles for your language are available in *Settings*:**
-
-[How to install oeSENC charts for OpenCPN (Windows)](https://www.youtube.com/watch?v=fGIBCEWEC3s)
-
-[How to install oeSENC charts for OpenCPN (Ubuntu)](https://www.youtube.com/watch?v=Mvx-q-dA8n0)
-
 ### Online Android
 
-1. Install [OpenCPN 1.0.13](https://play.google.com/store/apps/details?id=org.opencpn.opencpn) (or above) for Android 4.4 (or above) from the Play Store. Be sure you are using the official OpenCPN app.
-
-2. Install [oeSENC plugin](https://play.google.com/store/apps/details?id=org.opencpn.oesencplugin) for OpenCPN from the Play Store to be sure your device is compatible.
-
-3. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=8&controller=category) and license the chart sets you are interested in. Remember your access data to o-charts shop (email and password), you will need them later. Ignore this step if you have already bought your charts.
-
-4. Back to OpenCPN, *Options → Charts → oeSENC charts* tab and press *Add/update oeSENC chart sets* to login with your o-charts access data. Use the blue arrows to show the hidden tabs.
-
-5. Follow on screen instructions to assign, download and install to your device the charts sets you licensed on the o-charts shop. If the chart is not available it means that you have already installed your chart in 2 systems.
-
-6. Once the chart has been built for your device you will get an email with a link to download your chart. You can ignore this email. 
+Coming soon
 
 ### Online updates
 
-You should visit *Options → Charts → oeSENC charts* from time to time to see if a new update is available. An update set is self contained, do not worry about intermediate updates you might have missed to install.
+You should visit *Options → Charts → oeRNC charts* from time to time to see if a new update is available. oeRNC updates are incremental but do not worry, oeRNC plugin will do all the job and will download all the intermediate updates you might have missed to install.
 
 ## Get charts offline
 
@@ -154,10 +131,6 @@ For target systems without connection to Internet you will create a system ident
 ### Offline updates
 
 To update your chart sets go to [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) page. Column *Last requested* will show the last edition you requested. Column *Last update* will show the current available edition for that chart set. If *Last requested* is older than *Last update* you might consider to request the most actual edition. An update set is self contained, do not worry about intermediate updates you might have missed to install. Remove the old chart set from OpenCPN or keep it in different directory and download and install the new one as usual.
-
-# *Refresh* products
-
-There are some chart sets with a discounted refresh option which just extends the license period for one year more after expiration. Go to [My oeSENC Charts](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts) on o-charts shop to check if your expired chart allows extending the license and follow the instrucctions. You can assign the refresh product to your expired chart during the year following the chart expiration date.
 
 # Frequently Asked Questions
 
