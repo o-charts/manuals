@@ -53,7 +53,8 @@ To install charts on **Android** follow the steps in **Get charts for Android**.
 
 6. Login with your o-charts shop access data.
 
-7. If you are using a USB Dongle ignore this step. If not, you have to identify your system with a *System Name*. If this is the first time you install oeRNC charts on this system, select *New* in the window that will appear and provide a name (3 characters minimum and 15 maximum, no symbols or spaces).  If not, you have to select the *System Name* that corresponds to this system from the list. If you select a wrong *System Name*, you could be able to install the charts but they will not work. If you are installing your chart in a secondary system or you have reinstalled your OS you have to choose *New* to use a new assigment.
+7. If you are using a USB Dongle ignore this step. First you will need to identify your system with a *System Name*. If you
+install oeRNC charts the first time on this system, select *New* in the window, that will pop-up and provide a name (3 characters minimum and 15 maximum, no symbols or spaces). If the system has been used already, select the *System Name* that corresponds to it from the list. In case you select a wrong *System Name*, the install of the charts may proceed but they will reject to work. If you are installing your chart in a second system or you have reinstalled your OS then select *New* to create a new assignment.
 
 8. Follow on screen instructions to assign, download and install to your system or dongle the charts sets you licensed on the o-charts shop. Once you have consumed all your allowed assigments, the chart will not be available. 
 
@@ -73,19 +74,19 @@ For systems without Internet connection you will create a system identifier file
     
 2. Go to OpenCPN, *Options → Plugins → oeRNC Charts* and enable it. 
 
-3. Enter into *Preferences* and click either on *Create USB Key Dongle System ID file...* if you have a dongle or on *Create System Identifier file...* if you do not have a dongle. The plugin will report the path to a *Fingerprint* file. For Windows and macOS systems a copy is created directly on the desktop. For Linux systems the file is created on ~/.opencpn folder.
+3. Enter into *Preferences* and click either on *Create USB Key Dongle System ID file...* if you have a dongle or on *Create System Identifier file...* if you do not have a dongle. The plugin will report the path to a *Fingerprint* file. For Windows and macOS systems a copy is created directly on the desktop. For Linux systems the file is created in ~/.opencpn folder.
 
 4. Copy the *Fingerprint* file onto some portable device and look for a computer with an internet connection.
 
-5. Go to [o-charts shop](https://o-charts.org/shop/index.php?id_category=14&controller=category) and license the oeRNC chart sets you are interested in. Ignore this step if you have already bought your charts.
+5. Go to the [o-charts shop](https://o-charts.org/shop/index.php?id_category=14&controller=category) and license the oeRNC chart sets you are interested in. Ignore this step if you have already bought your charts.
     
-6. Go to [My oeRNC Charts](http://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occhartsOernc) page and create a *System identifier* uploading the *Fingerprint*. Leave *System name* blank if you are using a dongle.
+6. Go to the [My oeRNC Charts](http://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occhartsOernc) page and create a *System identifier* uploading the *Fingerprint*. Leave *System name* blank if you are using a dongle.
 
 7. Select the new *System identifier* for each chart set you want to assign to your system. Once assigned, it can not be changed.
 
 8. Make a Request clicking the button *Request*. After few seconds you will get 2 downloads links, one for the charts and another one for the file containing the keys to decrypt them. Copy both files onto the portable device and go back to the boat.
 
-9. On your target system unzip the charts file into a directory of your choice and copy the file with the keys inside this directory. Install your charts as always and you are done. If you have assigned your charts to a dongle, plug it in to see the charts.
+9. On your target system unzip the charts file into a directory of your choice and copy the file with the keys inside this directory. Install your charts as always and you are done. If you have assigned your charts to a dongle, plug it in before to see the charts.
 
 ### Updates - offline
 
