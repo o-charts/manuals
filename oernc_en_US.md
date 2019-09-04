@@ -6,15 +6,15 @@ layout: default_en_US
 
 - oeRNC charts can only be used in OpenCPN.
 
-- Normally you can install every chart you buy in 2 *systems* or more (see chart details). We name *assigments* to these allowed systems. 
+- In general you can install every chart you license in 2 systems or more (see chart details). We call these enabled systems "assignments".
 
-- You can use either simultaneously all your assigments or you can save one to be used in case your main *system* dies or you have to make changes on it which may kill your license.
+- You can use either all your assigments simultaneously or you can retain one to be used in case your main system dies or you have to make thorough changes on it which may kill your license.
 
-- *System* is the combination of hardware and OS. If any of these items changes, your system will be presented as a new one, you will lose your license and you will have to use a free assigment.
+- *System* is the combination of hardware and OS. If any of these factors changes, your system will be presented as a new one, invalidating the license and you will need to use a free assignment.
 
-- Your license should survive to any OS, OpenCPN or plugin update but if you reinstall your OS, even with the same OS in the same hardware, you will lose your license.
+- Your license should survive any OS, OpenCPN or plugin update but if you reinstall your OS, even with the same OS in the same hardware, count that this will require a new assignment.
 
-- If you have consumed all your assigments and you want to install your chart in a new system, you will have to buy the charts again.
+- When you have consumed all your assigments and you want to install your chart in a further systems, you will need to license the charts again.
 
 - A *USB Key Dongle* is considered as a system. The USB Key Dongle allows to install the charts in as many devices as you want. However, only in the device where the USB Key Dongle is plugged in, the license is active and will display the charts.
 
@@ -29,7 +29,7 @@ layout: default_en_US
 
 - Your charts expire after a year from the purchase date. After expiration, charts will keep working on your system but you can not request updates for them any longer.
 
-- During the one years period you can assign your charts to any system. Once the licensing period is over, this will not be possible any longer.
+- During the one years period you can assign your charts to any system. Once the licensing period is over, no new system can be assigned any longer.
 
 # Installing Charts
 
