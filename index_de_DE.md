@@ -2,14 +2,11 @@
 layout: default_de_DE_home
 ---
 <div class="questions">
-  
 <div class="questionok question">
-Gibt es <a href="https://opencpn.org/OpenCPN/info/chartsource.html"><strong>kostenlose Vektorkarten </strong></a>für Ihr Segelrevier?
+Are there any <a href="https://opencpn.org/OpenCPN/info/chartsource.html"><strong>free charts</strong></a> for your sailing area?
 </div>
 </div>
-
 <div class="arrows">
-  
 <div class="answer col1 inline">
 <i class="down"></i>
 </div>
@@ -17,53 +14,39 @@ Gibt es <a href="https://opencpn.org/OpenCPN/info/chartsource.html"><strong>kost
 <i class="down"></i>
 </div>
 </div>
-
 <div class="separator"></div>
-
 <div class="answers">
-  <div class="answer col1 inline">
-    
+<div class="answer col1 inline">
 <div class="yesno no">
-Nein
+No
 </div>
-  </div>
-  
-  <div class="answer col2 inline">
-    
+</div>
+<div class="answer col2 inline">
 <div class="yesno yes">
-Ja
+Yes
 </div>
-  </div>
+</div>
 <div class="answer col3 inline">
 <i class="right"></i>
 </div>
-  
-  <div class="answer col4 inline">
-    
+<div class="answer col4 inline">
 <div class="questionok ok">
-Herzlichen Glückwunsch! Sie haben Glück. Downloaden und <a href="https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:getting_started:chart_installation"><strong>installieren</strong></a> Sie Ihre Karten.
+Congratulations! you are lucky. Download and <a href="https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:getting_started:chart_installation"><strong>install</strong></a> your charts.
 </div>
-  </div>
 </div>
-
+</div>
 <div class="separator"></div>
-
 <div class="arrows">
-  
 <div class="answer col1 inline">
 <i class="down"></i>
 </div>
 </div>
-
 <div class="questions">
-  
 <div class="questionok question">
-Gibt es keine <a href="https://o-charts.org/shop/index.php?id_category=8&controller=category"><strong>OeSENC-Karten</strong></a> für Ihr Segelrevier?
+Are there any <a href="https://o-charts.org/shop/index.php?id_category=8&controller=category"><strong>oeSENC vector charts</strong></a> for your sailing area?
 </div>
 </div>
-
 <div class="arrows">
-  
 <div class="answer col1 inline">
 <i class="down"></i>
 </div>
@@ -71,53 +54,39 @@ Gibt es keine <a href="https://o-charts.org/shop/index.php?id_category=8&control
 <i class="down"></i>
 </div>
 </div>
-
 <div class="separator"></div>
-
 <div class="answers">
-  <div class="answer col1 inline">
-    
+<div class="answer col1 inline">
 <div class="yesno no">
-Nein
+No
 </div>
-  </div>
-  
-  <div class="answer col2 inline">
-    
+</div>
+<div class="answer col2 inline">
 <div class="yesno yes">
-Ja
+Yes
 </div>
-  </div>
+</div>
 <div class="answer col3 inline">
 <i class="right"></i>
 </div>
-  
-  <div class="answer col4 inline">
-    
+<div class="answer col4 inline">
 <div class="questionok ok">
-<a href="./oesenc_de_DE.html"><strong>Kaufen und installieren Sie ihre oeSENC-Karten</strong></a>und vergessen Sie nicht, sie zu aktualisieren.
+<a href="./oesenc_en_US.html"><strong>Buy and install oeSENC vector charts</strong></a> and do not forget to update them.
 </div>
-  </div>
 </div>
-
+</div>
 <div class="separator"></div>
-
 <div class="arrows">
-  
 <div class="answer col1 inline">
 <i class="down"></i>
 </div>
 </div>
-
 <div class="questions">
-  
 <div class="questionok question">
-Gibt es <a href="https://www.chartworld.com/shop/off_enc"><strong>S-63 Karten</strong></a> für Ihr Segelrevier?
+Are there any <a href="https://o-charts.org/shop/index.php?id_category=14&controller=category"><strong>oeRNC raster charts</strong></a> for your sailing area?
 </div>
 </div>
-
 <div class="arrows">
-  
 <div class="answer col1 inline">
 <i class="down"></i>
 </div>
@@ -125,50 +94,77 @@ Gibt es <a href="https://www.chartworld.com/shop/off_enc"><strong>S-63 Karten</s
 <i class="down"></i>
 </div>
 </div>
-
 <div class="separator"></div>
-
 <div class="answers">
-  <div class="answer col1 inline">
-    
+<div class="answer col1 inline">
 <div class="yesno no">
-Nein
+No
 </div>
-  </div>
-  
-  <div class="answer col2 inline">
-    
+</div>
+<div class="answer col2 inline">
 <div class="yesno yes">
-Ja
+Yes
 </div>
-  </div>
+</div>
 <div class="answer col3 inline">
 <i class="right"></i>
 </div>
-  
-  <div class="answer col4 inline">
-    
+<div class="answer col4 inline">
 <div class="questionok ok">
-<a href="https://o-charts.org/shop/index.php?id_category=6&controller=category"><strong>Kaufen Sie einen UserPermit</strong></a>. Kaufen Sie danach <a href="https://www.chartworld.com/shop/off_enc"><strong> S-63 Karten</strong></a> und <a href="./s63_de_DE.html"><strong>installieren sie</strong></a>.
+<a href="./oernc_en_US.html"><strong>Buy and install oeRNC raster charts</strong></a> and do not forget to update them.
 </div>
-  </div>
 </div>
-
+</div>
 <div class="separator"></div>
-
 <div class="arrows">
-  
 <div class="answer col1 inline">
 <i class="down"></i>
 </div>
 </div>
-
 <div class="questions">
-  
 <div class="questionok question">
-Vielleicht möchten Sie es mit <a href="https://opencpn.org/OpenCPN/info/chartsource.html"><strong>Raster oder anderen Karten</strong></a> versuchen.
+Are there any <a href="https://www.chartworld.com/shop/off_enc"><strong>S-63 vector charts</strong></a> for your sailing area?
 </div>
 </div>
-
-<br />  
-![oeSENC Karten](./assets/images/oesenc_chart.png)
+<div class="arrows">
+<div class="answer col1 inline">
+<i class="down"></i>
+</div>
+<div class="answer col2 inline">
+<i class="down"></i>
+</div>
+</div>
+<div class="separator"></div>
+<div class="answers">
+<div class="answer col1 inline">
+<div class="yesno no">
+No
+</div>
+</div>
+<div class="answer col2 inline">
+<div class="yesno yes">
+Yes
+</div>
+</div>
+<div class="answer col3 inline">
+<i class="right"></i>
+</div>
+<div class="answer col4 inline">
+<div class="questionok ok">
+<a href="https://o-charts.org/shop/index.php?id_category=6&controller=category"><strong>Buy an UserPermit</strong></a>. Then <a href="https://www.chartworld.com/shop/off_enc"><strong>buy S-63 vector charts</strong></a> and finally <a href="./s63_en_US.html"><strong>install them</strong></a>.
+</div>
+</div>
+</div>
+<div class="separator"></div>
+<div class="arrows">
+<div class="answer col1 inline">
+<i class="down"></i>
+</div>
+</div>
+<div class="questions">
+<div class="questionok question">
+Please, help us to contact the authorities in your country to consider adding your nautical charts to OpenCPN.
+</div>
+</div>
+<br><br>
+![oesenc chart](./assets/images/oesenc_chart.png)
