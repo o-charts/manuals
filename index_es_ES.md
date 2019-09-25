@@ -3,7 +3,7 @@ layout: default_es_ES_home
 ---
 <div class="questions">
 <div class="questionok question">
-¿Existe alguna <a href="https://opencpn.org/OpenCPN/info/chartsource.html"><strong>carta vectorial gratis</strong></a> para tu zona de navegación?
+Are there any <a href="https://opencpn.org/OpenCPN/info/chartsource.html"><strong>free charts</strong></a> for your sailing area?
 </div>
 </div>
 <div class="arrows">
@@ -23,7 +23,7 @@ No
 </div>
 <div class="answer col2 inline">
 <div class="yesno yes">
-Si
+Yes
 </div>
 </div>
 <div class="answer col3 inline">
@@ -31,7 +31,7 @@ Si
 </div>
 <div class="answer col4 inline">
 <div class="questionok ok">
-¡Felicidades! has tenido suerte. Descarga e <a href="https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:getting_started:chart_installation"><strong>instala</strong></a> tus cartas.
+Congratulations! you are lucky. Download and <a href="https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:getting_started:chart_installation"><strong>install</strong></a> your charts.
 </div>
 </div>
 </div>
@@ -43,7 +43,7 @@ Si
 </div>
 <div class="questions">
 <div class="questionok question">
-¿Existe alguna <a href="https://o-charts.org/shop/index.php?id_category=8&controller=category"><strong> carta oeSENC</strong></a> para tu zona de navegación?
+Are there any <a href="https://o-charts.org/shop/index.php?id_category=8&controller=category"><strong>oeSENC vector charts</strong></a> for your sailing area?
 </div>
 </div>
 <div class="arrows">
@@ -63,7 +63,7 @@ No
 </div>
 <div class="answer col2 inline">
 <div class="yesno yes">
-Si
+Yes
 </div>
 </div>
 <div class="answer col3 inline">
@@ -71,7 +71,7 @@ Si
 </div>
 <div class="answer col4 inline">
 <div class="questionok ok">
-<a href="./oesenc_es_ES.html"><strong>Compra e instala tus cartas oeSENC</strong></a> y no olvides actualizarlas.
+<a href="./oesenc_en_US.html"><strong>Buy and install oeSENC vector charts</strong></a> and do not forget to update them.
 </div>
 </div>
 </div>
@@ -83,7 +83,7 @@ Si
 </div>
 <div class="questions">
 <div class="questionok question">
-¿Existe alguna <a href="https://www.chartworld.com/shop/off_enc"><strong>carta S-63</strong></a> para tu zona de navegación?
+Are there any <a href="https://o-charts.org/shop/index.php?id_category=14&controller=category"><strong>oeRNC raster charts</strong></a> for your sailing area?
 </div>
 </div>
 <div class="arrows">
@@ -103,7 +103,7 @@ No
 </div>
 <div class="answer col2 inline">
 <div class="yesno yes">
-Si
+Yes
 </div>
 </div>
 <div class="answer col3 inline">
@@ -111,7 +111,7 @@ Si
 </div>
 <div class="answer col4 inline">
 <div class="questionok ok">
-<a href="https://o-charts.org/shop/index.php?id_category=6&controller=category"><strong>Compra un UserPermit</strong></a>. Después compra <a href="https://www.chartworld.com/shop/off_enc"><strong>cartas S-63</strong></a> y finalmente <a href="./s63_es_ES.html"><strong>instálalas</strong></a>.
+<a href="./oernc_en_US.html"><strong>Buy and install oeRNC raster charts</strong></a> and do not forget to update them.
 </div>
 </div>
 </div>
@@ -123,7 +123,47 @@ Si
 </div>
 <div class="questions">
 <div class="questionok question">
-Puede que puedas encontrar <a href="https://opencpn.org/OpenCPN/info/chartsource.html"><strong>cartas raster o de otro tipo</strong></a>.
+Are there any <a href="https://www.chartworld.com/shop/off_enc"><strong>S-63 vector charts</strong></a> for your sailing area?
+</div>
+</div>
+<div class="arrows">
+<div class="answer col1 inline">
+<i class="down"></i>
+</div>
+<div class="answer col2 inline">
+<i class="down"></i>
+</div>
+</div>
+<div class="separator"></div>
+<div class="answers">
+<div class="answer col1 inline">
+<div class="yesno no">
+No
+</div>
+</div>
+<div class="answer col2 inline">
+<div class="yesno yes">
+Yes
+</div>
+</div>
+<div class="answer col3 inline">
+<i class="right"></i>
+</div>
+<div class="answer col4 inline">
+<div class="questionok ok">
+<a href="https://o-charts.org/shop/index.php?id_category=6&controller=category"><strong>Buy an UserPermit</strong></a>. Then <a href="https://www.chartworld.com/shop/off_enc"><strong>buy S-63 vector charts</strong></a> and finally <a href="./s63_en_US.html"><strong>install them</strong></a>.
+</div>
+</div>
+</div>
+<div class="separator"></div>
+<div class="arrows">
+<div class="answer col1 inline">
+<i class="down"></i>
+</div>
+</div>
+<div class="questions">
+<div class="questionok question">
+Please, help us to contact the authorities in your country to consider adding your nautical charts to OpenCPN.
 </div>
 </div>
 <br><br>
