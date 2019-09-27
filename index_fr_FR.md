@@ -111,12 +111,8 @@ Existe-t-il des <a href="https://o-charts.org/shop/index.php?id_category=14&cont
 <i class="down"></i>
 </div>
 </div>
-
 <div class="separator"></div>
-
-    
-    <div class="answers">
-      
+<div class="answers">  
 <div class="answer col1 inline">
 <div class="yesno no">
 Non
@@ -161,10 +157,7 @@ Existe-t-il <a href="https://www.chartworld.com/shop/off_enc"><strong>des cartes
 </div>
 
 <div class="separator"></div>
-
-      
-      <div class="answers">
-        
+<div class="answers"> 
 <div class="answer col1 inline">
 <div class="yesno no">
 Non
