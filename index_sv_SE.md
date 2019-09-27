@@ -1,11 +1,13 @@
 ---
 layout: default_sv_SE_home
 ---
+
 <div class="questions">
 <div class="questionok question">
-Are there any <a href="https://opencpn.org/OpenCPN/info/chartsource.html"><strong>free charts</strong></a> for your sailing area?
+Finns det några <a href="https://opencpn.org/OpenCPN/info/chartsource.html"><strong>gratis kort</strong></a> där du tänker segla?
 </div>
 </div>
+
 <div class="arrows">
 <div class="answer col1 inline">
 <i class="down"></i>
@@ -14,16 +16,19 @@ Are there any <a href="https://opencpn.org/OpenCPN/info/chartsource.html"><stron
 <i class="down"></i>
 </div>
 </div>
+
 <div class="separator"></div>
+
 <div class="answers">
+  
 <div class="answer col1 inline">
 <div class="yesno no">
-No
+Nej
 </div>
 </div>
 <div class="answer col2 inline">
 <div class="yesno yes">
-Yes
+Ja
 </div>
 </div>
 <div class="answer col3 inline">
@@ -31,21 +36,25 @@ Yes
 </div>
 <div class="answer col4 inline">
 <div class="questionok ok">
-Congratulations! you are lucky. Download and <a href="https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:getting_started:chart_installation"><strong>install</strong></a> your charts.
+Grattis! du har tur. Ladda ner och <a href="https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:getting_started:chart_installation"><strong>installera</strong></a> dina sjökort.
 </div>
 </div>
 </div>
+
 <div class="separator"></div>
+
 <div class="arrows">
 <div class="answer col1 inline">
 <i class="down"></i>
 </div>
 </div>
+
 <div class="questions">
 <div class="questionok question">
-Are there any <a href="https://o-charts.org/shop/index.php?id_category=8&controller=category"><strong>oeSENC vector charts</strong></a> for your sailing area?
+Finns det några <a href="https://o-charts.org/shop/index.php?id_category=8&controller=category"><strong>oeSENC vektorkort</strong></a> där du tänker segla?
 </div>
 </div>
+
 <div class="arrows">
 <div class="answer col1 inline">
 <i class="down"></i>
@@ -54,16 +63,20 @@ Are there any <a href="https://o-charts.org/shop/index.php?id_category=8&control
 <i class="down"></i>
 </div>
 </div>
+
 <div class="separator"></div>
+
+  
 <div class="answers">
+    
 <div class="answer col1 inline">
 <div class="yesno no">
-No
+Nej
 </div>
 </div>
 <div class="answer col2 inline">
 <div class="yesno yes">
-Yes
+Ja
 </div>
 </div>
 <div class="answer col3 inline">
@@ -71,21 +84,25 @@ Yes
 </div>
 <div class="answer col4 inline">
 <div class="questionok ok">
-<a href="./oesenc_en_US.html"><strong>Buy and install oeSENC vector charts</strong></a> and do not forget to update them.
+<a href="./oesenc_sv_SE.html"><strong>Köp och installera oeSENC vektorkort</strong></a> och tänk på att uppdatera dem ibland.
 </div>
 </div>
 </div>
+
 <div class="separator"></div>
+
 <div class="arrows">
 <div class="answer col1 inline">
 <i class="down"></i>
 </div>
 </div>
+
 <div class="questions">
 <div class="questionok question">
-Are there any <a href="https://o-charts.org/shop/index.php?id_category=14&controller=category"><strong>oeRNC raster charts</strong></a> for your sailing area?
+Finns det några <a href="https://o-charts.org/shop/index.php?id_category=14&controller=category"><strong>oeRNC rasterkort</strong></a> där du tänker segla?
 </div>
 </div>
+
 <div class="arrows">
 <div class="answer col1 inline">
 <i class="down"></i>
@@ -94,16 +111,20 @@ Are there any <a href="https://o-charts.org/shop/index.php?id_category=14&contro
 <i class="down"></i>
 </div>
 </div>
+
 <div class="separator"></div>
+
+    
 <div class="answers">
+      
 <div class="answer col1 inline">
 <div class="yesno no">
-No
+Nej
 </div>
 </div>
 <div class="answer col2 inline">
 <div class="yesno yes">
-Yes
+Ja
 </div>
 </div>
 <div class="answer col3 inline">
@@ -111,21 +132,25 @@ Yes
 </div>
 <div class="answer col4 inline">
 <div class="questionok ok">
-<a href="./oernc_en_US.html"><strong>Buy and install oeRNC raster charts</strong></a> and do not forget to update them.
+<a href="./oernc_sv_SE.html"><strong>Köp och installera oeRNC rasterkort</strong></a> och tänkt på att uppdatera dem ibland.
 </div>
 </div>
 </div>
+
 <div class="separator"></div>
+
 <div class="arrows">
 <div class="answer col1 inline">
 <i class="down"></i>
 </div>
 </div>
+
 <div class="questions">
 <div class="questionok question">
-Are there any <a href="https://www.chartworld.com/shop/off_enc"><strong>S-63 vector charts</strong></a> for your sailing area?
+Finns det några <a href="https://www.chartworld.com/shop/off_enc"><strong>S-63 vektorkort</strong></a> där du tänker segla?
 </div>
 </div>
+
 <div class="arrows">
 <div class="answer col1 inline">
 <i class="down"></i>
@@ -134,16 +159,20 @@ Are there any <a href="https://www.chartworld.com/shop/off_enc"><strong>S-63 vec
 <i class="down"></i>
 </div>
 </div>
+
 <div class="separator"></div>
+
+      
 <div class="answers">
+        
 <div class="answer col1 inline">
 <div class="yesno no">
-No
+Nej
 </div>
 </div>
 <div class="answer col2 inline">
 <div class="yesno yes">
-Yes
+Ja
 </div>
 </div>
 <div class="answer col3 inline">
@@ -151,20 +180,25 @@ Yes
 </div>
 <div class="answer col4 inline">
 <div class="questionok ok">
-<a href="https://o-charts.org/shop/index.php?id_category=6&controller=category"><strong>Buy an UserPermit</strong></a>. Then <a href="https://www.chartworld.com/shop/off_enc"><strong>buy S-63 vector charts</strong></a> and finally <a href="./s63_en_US.html"><strong>install them</strong></a>.
+<a href="https://o-charts.org/shop/index.php?id_category=6&controller=category"><strong>Köp först en användarlicens (UserPermit)</strong></a>. Sedan <a href="https://www.chartworld.com/shop/off_enc"><strong>köper du S-63 vektorkort</strong></a> och slutligen <a href="./s63_sv_SE.html"><strong>installerar dem </strong></a>.
 </div>
 </div>
 </div>
+
 <div class="separator"></div>
+
 <div class="arrows">
 <div class="answer col1 inline">
 <i class="down"></i>
 </div>
 </div>
+
 <div class="questions">
 <div class="questionok question">
-Please, help us to contact the authorities in your country to consider adding your nautical charts to OpenCPN.
+Vi skulle vid behov uppskatta hjälp med myndighetskontakt i ditt land för att överväga om era sjökort skulle kunna användas i OpenCPN.
 </div>
 </div>
-<br><br>
-![oesenc chart](./assets/images/oesenc_chart.png)
+     
+<p>
+<br /><br /> <img src="./assets/images/oesenc_chart.png" alt="oesenc sjökort" />
+</p>
