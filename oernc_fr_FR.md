@@ -48,7 +48,7 @@ Pour installer des jeux de cartes sous **Android** suivez les étapes dans **Obt
 
 4. Si vous voulez assigner vos cartes à un Dongle-USB [Dongle](https://o-charts.org/shop/hardware/38-usb-key-dongle.html), branchez-le dans un port USB maintenant. Ignorer cette étape si vous n'avez pas de dongle.
 
-5. Allez dans OpenCPN, dans l'onglet *Options → Cartes → oeRNC * et appuyez sur *Actualiser la liste des jeux de cartes*. Utilisez les flèches pour afficher les onglets cachés.
+5. Allez dans OpenCPN, dans l'onglet *Options → Cartes → oeRNC* et appuyez sur *Actualiser la liste des jeux de cartes*. Utilisez les flèches pour afficher les onglets cachés.
 
 6. Connectez-vous avec vos données d’accès à la boutique o-charts.
 
