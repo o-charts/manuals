@@ -64,7 +64,17 @@ You should visit *Options → Charts → oeRNC charts* from time to time to see 
 
 ## Get charts for Android
 
-Coming soon
+1. Install latest version of [OpenCPN app for Android 4.4 (or above)](https://play.google.com/store/apps/details?id=org.opencpn.opencpn) from the Play Store. Be sure you are using the official OpenCPN app.
+
+2. Install [oeRNC plugin for OpenCPN app](https://play.google.com/store/apps/details?id=org.opencpn.oerncplugin) from the Play Store. Open oeRNC plugin app and click on "Install Plugin oeRNC".
+
+3. Go to [o-charts shop](https://o-charts.org/shop/14-oernc) and license the chart sets you are interested in. Ignore this step if you have already bought your charts. Remember your access data to o-charts shop (email and password), you will need them later.
+
+4. Go to OpenCPN, *Options → Charts → oeSENC charts* tab and press *Refresh Chart List*. Use the arrows to show the hidden tabs.
+
+5. Login with your o-charts shop access data email and password.
+
+6. Follow on screen instructions to assign, download and install to your device the charts sets you licensed on the o-charts shop. You should come back here from time to time to see if a new update is available
 
 ## Get charts offline
 
