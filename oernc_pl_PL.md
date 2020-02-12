@@ -2,118 +2,126 @@
 layout: default_pl_PL
 ---
 
-# oeRNC Charts Conditions
+# Warunki używania map oeRNC
 
-- oeRNC charts can only be used in OpenCPN.
+- Mapy oeRNC mogą być używane tylko w OpenCPN.
 
-- In general you can install every chart you license in 2 systems or more (see chart details). We call these enabled systems "assignments".
+- Jeśli szczegółowe warunki używania konkretnej mapy nie pozwalają na więcej, możesz używać mapy na 2 systemach. Powiązanie systemu z licencją mapy nazywamy "przypisaniem".
 
-- You can use either all your assigments simultaneously or you can retain one to be used in case your main system dies or you have to make thorough changes on it which may kill your license.
+- Możesz używać wszystkich przypisań jednocześnie, albo zachować jedno z nich - do użycia w przypadku utraty głównego systemu lub wprowadzenia w nim zmian powodujących utratę jednego z przypisań licencji.
 
-- *System* is the combination of hardware and OS. If any of these factors changes, your system will be presented as a new one, invalidating the license and you will need to use a free assignment.
+- *System* jest kombinacją urządzenia (device) i systemu operacyjnego (OS). Jeśli którykolwiek z tych elementów ulegnie zmianie, system będzie rozpoznany jako nowy, co spowoduje unieważnienie licencji i konieczne będzie skorzystanie z wolnego przypisnia.
 
-- Your license should survive any OS, OpenCPN or plugin update but if you reinstall your OS, even with the same OS in the same hardware, count that this will require a new assignment.
+- Twoja licencja powinna przetrwać aktualizację: systemu operacyjnego, programu OpenCPN oraz wtyczki do niego, jednak stracisz ją przy ponownej instalacji systemu operacyjnego (na tym samym sprzęcie!), konieczne będzie dokonanie kolejnego przypisania map.
 
-- When you have consumed all your assigments and you want to install your chart in a further systems, you will need to license the charts again.
+- Jeśli dokonałeś już wszystkich dozwolonych przypisań systemów do twoich map i chcesz używać map w następnym systemie - musisz kupić kolejną licencję map.
 
-- A *USB Key Dongle* is considered as a system. The USB Key Dongle allows to install the charts in as many devices as you want. However, only in the device where the USB Key Dongle is plugged in, the license is active and will display the charts.
+- *Klucz sprzętowy USB* traktowany jest jak jeden "system". Klucz sprzętowy USB umożliwia zainstalowanie map oeSENC w dowolnej liczbie urządzeń. Jednak tylko w urządzeniu, do którego podłączony jest klucz sprzętowy USB, licencja staje się aktywna i mapy działają.
 
-- Once you have requested your charts for one system we can not refund you. If you have created and assigned a system to your chart but you have not requested your charts yet, we can still refund you.
+- Po pobraniu map do pierwszego systemu, opłata nie może być zwrócona. Jeśli masz utworzony system i przypisane do niego mapy, ale ich jeszcze nie pobierałeś, nadal możesz otrzymać zwrot opłaty.
 
-- Once you have requested your charts for one system we can not cancel or move your system to a different hardware/OS combination.
+- Po pobraniu map dla jednego systemu nie ma możliwości anulowania tej operacji ani przeniesienia map do innego zestawu urządzenie — system operacyjny.
 
-- You will be able to update your charts during a year from the purchase date. Charts have different update periodicity:
-
-    - Quarterly: Imray Charts Eastern Caribbean, Imray Adriatic and Ionian, Imray Aegean and Mediterranean East.
-    - Undetermined: Explorer Charts (Bahamas).
-
-- Your charts expire after a year from the purchase date. After expiration, charts will keep working on your system but you can not request updates for them any longer.
-
-- During the one years period you can assign your charts to any system. Once the licensing period is over, no new system can be assigned any longer.
-
-# Installing Charts
-
-If the system where you want to install your charts **is connected to Internet** follow the steps in **Get charts online**. This is the easiest and recommended method.
-
-If the system where you want to install your charts is **NOT connected to Internet** follow the steps in **Get charts offline**.
-
-To install charts on **Android** follow the steps in **Get charts for Android**.
-
-## Get charts online
-
-1. Download and install the [oeRNC plugin](https://opencpn.org/OpenCPN/plugins/oernc.html) (only for OpenCPN 5.0 version and above). If you have already the oeRNC plugin installed, update to the latest version.
-
-2. Go to OpenCPN, *Options → Plugins → oeRNC* and enable it.
-
-3. Go to [o-charts shop](https://o-charts.org/shop/14-oernc) and license the chart sets you are interested in. Remember your access data to o-charts shop (email and password), you will need them later. Ignore this step if you have already bought your charts.
-
-4. If you want to assign your charts to a [USB Key Dongle](https://o-charts.org/shop/hardware/38-usb-key-dongle.html), plug it into a USB port now. Ignore this step if you do not have a dongle.
-
-5. Go to OpenCPN, *Options → Charts → oeRNC charts* tab and press *Refresh Chart List*. Use the arrows to show the hidden tabs.
-
-6. Login with your o-charts shop access data.
-
-7. If you are using a USB Dongle ignore this step. First you will need to identify your system with a *System Name*. If you
-install oeRNC charts the first time on this system, select *New* in the window that will pop-up and provide a name (3 characters minimum and 15 maximum, no symbols or spaces). If the system has been used already, select the *System Name* that corresponds to it from the list. In case you select a wrong *System Name*, the install of the charts may proceed but they will reject to work. If you are installing your chart in a second system or you have reinstalled your OS then select *New* to create a new assignment.
-
-8. Follow on screen instructions to assign, download and install to your system or dongle the charts sets you licensed on the o-charts shop. Once you have consumed all your allowed assigments, the chart will not be available. 
-
-### Updates - online
-
-You should visit *Options → Charts → oeRNC charts* from time to time to see if a new update is available. Online updates are incremental but do not worry, oeRNC plugin will do all the job and will download all the intermediate updates you might have missed to install.
-
-## Get charts for Android
-
-Coming soon
-
-## Get charts offline
-
-For systems without Internet connection you will create a system identifier file to take it to another computer with Internet access and request and download the chart set for the target system. We assume that you have installed the latest versions of OpenCPN and oeRNC plugin in the target system.
-
-1. If you want to assign your charts to a [USB Key Dongle](https://o-charts.org/shop/hardware/38-usb-key-dongle.html), plug it into a USB port now. Ignore this step if you do not have a dongle.
+- Będziesz miał możliwość aktualizowania swoich map przez rok od daty zakupu. Mapy aktualizowane są z różną częstotliwością:
     
-2. Go to OpenCPN, *Options → Plugins → oeRNC Charts* and enable it. 
+    - Kwartalnie: Imray - Karaiby wschodnie, Imray - Adriatyk i Morze Jońskie, Imray - Morze Egejskie i wschodnia część Morza Śródziemnego.
+    - Nieokreślony: Mapy Explorer (Bahamy).
+- Licencja wygasa po roku od daty zakupu. Po wygaśnięciu licencji pobrane wcześniej mapy będą nadal działały w systemie, ale ich aktualizacja nie będzie już możliwa.
 
-3. Enter into *Preferences* and click either on *Create USB Key Dongle System ID file...* if you have a dongle or on *Create System Identifier file...* if you do not have a dongle. The plugin will report the path to a *Fingerprint* file. For Windows and macOS systems a copy is created directly on the desktop. For Linux systems the file is created in ~/.opencpn folder.
+- Przez okres 1 roku możesz przypisać swoje mapy do systemu. Po upływie okresu licencyjnego przypisanie nowego systemu nie będzie możliwe.
 
-4. Copy the *Fingerprint* file onto some portable device and look for a computer with an internet connection.
+# Instalacja map
 
-5. Go to the [o-charts shop](https://o-charts.org/shop/14-oernc) and license the oeRNC chart sets you are interested in. Ignore this step if you have already bought your charts.
+Jeśli system, w którym chcesz zainstalować mapy **jest podłączony do Internetu**, wykonaj kroki opisane w punkcie **pozyskiwanie map online**. To prostszy i zalecany sposób.
+
+Jeśli system, w którym chcesz zainstalować mapy **NIE jest podłączony do Internetu** postępuj zgodnie z instrukcjami podanymi w punkcie **Pozyskiwanie map offline**.
+
+W celu zainstalowania map na **Androidzie** postępuj jak przy **pozyskiwaniu map online**.
+
+## Pozyskiwanie map online
+
+1. Pobierz i zainstaluj [wtyczkę oeRNC](https://opencpn.org/OpenCPN/plugins/oernc.html) (tylko dla OpenCPN w wersji 5.0 lub wyższej). Jeśli wtyczka oeRNC jest już zainstalowana, zaktualizuj ją do najnowszej wersji.
+
+2. Przejdź do OpenCPN, *Opcje → Wtyczki → oeRNC* i włącz wtyczkę.
+
+3. Przejdź do [sklepu o-charts](https://o-charts.org/shop/14-oernc) i kup licencje na zestawy map, którymi jesteś zainteresowany. Zapamiętaj dane dostępu do sklepu o-charts (e-mail i hasło), będziesz ich potrzebować później. Pomiń ten krok, jeśli już kupiłeś mapy.
+
+4. Jeśli chcesz przypisać swoje mapy do [ klucza USB ](https://o-charts.org/shop/hardware/38-usb-key-dongle.html), podłącz go do teraz port USB. Pomiń ten krok jeśli nie posiadasz klucza sprzętowego USB.
+
+5. Przejdź do OpenCPN, *Opcje → Mapy→ Mapy oeRNC*. Na karcie "Moje mapy" naciśnij *Odśwież listę map*. Użyj strzałek, aby wyświetlić ukryte zakładki.
+
+6. Zaloguj się danymi dostępu do sklepu o-charts.
+
+7. Jeśli używasz klucza USB, zignoruj ten krok. Po pierwsze - musisz zidentyfikować swój system za pomocą *nazwy systemu*. Jeśli instalujesz mapy oeRNC po raz pierwszy w tym systemie, wybierz *nowy system* i podaj nazwę składającą się z 3-15 znaków (tylko litery i cyfry bez spacji czy znaków specjalnych). Jeśli system był już używany, wybierz z listy odpowiadającą mu *nazwę systemu*. Jeśli wybierzesz złą *nazwę systemu* instalacja map może się odbyć, ale nie będą one działać. Jeśli instalujesz mapy w drugim systemie lub przeinstalowałeś system operacyjny, wybierz *Nowy*, aby utworzyć nowe przypisanie.
+
+8. Postępuj zgodnie z instrukcjami na ekranie aby przypisać, pobrać i zainstalować dla systemu (lub klucza USB) zestawy map, których licencje kupiłeś w sklepie o-charts. Po wykorzystaniu wszystkich dostępnych przypisań mapy nie będą dostępne dla kolejnych. 
+
+### Uaktualnienia - online
+
+Powinieneś sprawdzać *Opcje → Mapy → Mapy oeSENC * od czasu do czasu, aby dowiadywać się czy dostępna jest aktualizacja. Aktualizacje online są przyrostowe, ale nie martw się, wtyczka oeRNC zadba o to, aby pobrane zostały wszystkie niezbędne aktualizacje pośrednie, które mogłeś przegapić.
+
+## Pozyskiwanie map do Androida
+
+1. Zainstaluj najnowszą wersję [OpenCPN dla Androida 4.4 (lub wyższego)](https://play.google.com/store/apps/details?id=org.opencpn.opencpn) ze Sklepu Play. Upewnij się, że używasz oficjalnej aplikacji OpenCPN.
+
+2. Zainstaluj wtyczkę [oeRNC dla aplikacji OpenCPN](https://play.google.com/store/apps/details?id=org.opencpn.oerncplugin) ze Sklepu Play. Otwórz aplikację i kliknij na "Instaluj wtyczkę oeRNC".
+
+3. Przejdź do [sklepu o-charts](https://o-charts.org/shop/14-oernc) i kup licencje na zestawy map, którymi jesteś zainteresowany. Pomiń ten krok, jeśli już kupiłeś mapy. Zapamiętaj dane dostępu do sklepu o-charts (e-mail i hasło), będziesz ich potrzebować później.
+
+4. Przejdź do OpenCPN, *Opcje → Mapy→ Mapy oeRNC*. Na karcie "Moje mapy" naciśnij *Odśwież listę map*. Użyj strzałek, aby wyświetlić ukryte zakładki.
+
+5. Zaloguj się do sklepu o-charts za pomocą swojego e-mail i hasła.
+
+6. Postępuj zgodnie z instrukcjami na ekranie aby przypisać, pobrać i zainstalować w systemie zestawy map, których licencje kupiłeś w sklepie o-charts. Nie zapomnij sprawdzać od czasu do czasu, czy nowa aktualizacja jest dostępna.
+
+## Pozyskiwanie map offline
+
+W przypadku systemów bez połączenia z Internetem musisz utworzyć plik identyfikatora tego systemu, aby - po przeniesieniu go na komputer z dostępem do Internetu - zażądać wygenerowania i pobrać zestaw map dla sytemu docelowego. Zakładamy, że najnowsze wersje OpenCPN i wtyczki oeRNC są zainstalowane w systemie docelowym.
+
+1. Jeśli chcesz przypisać swoje mapy do [ klucza USB ](https://o-charts.org/shop/hardware/38-usb-key-dongle.html), podłącz go do teraz port USB. Pomiń ten krok jeśli nie posiadasz klucza sprzętowego USB.
+
+2. Przejdź do OpenCPN, *Opcje → Wtyczki → oeRNC* i włącz wtyczkę.
+
+3. Wejdź w *Ustawienia* i kliknij *Utwórz plik ID dla klucza USB...*- jeśli masz klucz USB, lub *Utwórz plik identyfikatora systemu...</ em> jeśli nie masz klucza sprzętowego. Wtyczka poda ścieżkę dostępu do pliku *Fingerprint*. W przypadku Windows i macOS kopia jest tworzona bezpośrednio na pulpicie. W przypadku Linuxa plik jest tworzony w katalogu ~/.opencpn.</p></li> 
     
-6. Go to the [My oeRNC Charts](https://o-charts.org/shop/module/occharts/occhartsOernc) page and create a *System identifier* uploading the *Fingerprint*. Leave *System name* blank if you are using a dongle.
-
-7. Select the new *System identifier* for each chart set you want to assign to your system. Once assigned, it can not be changed.
-
-8. Make a Request clicking the button *Request*. After few seconds you will get 2 download links, one for the charts and another one for the file containing the keys to decrypt them. Copy both files onto the portable device and go back to the boat.
-
-9. On your target system unzip the charts file into a directory of your choice and copy the keys file into the same folder where the unzipped charts are (.oernc). Install your charts as always and you are done. If you have assigned your charts to a dongle, plug it in before to see the charts.
-
-### Updates - offline
-
-To update your chart sets go to [My oeRNC Charts](https://o-charts.org/shop/module/occharts/occhartsOernc) page. Column *Edition* will show the last edition you requested. Column *Current edition* will show the current available edition for that chart set. If they do not match, a *Request* button will appear. Offline updates are self contained, do not worry about intermediate updates you might have missed to install. Remove the old chart set from OpenCPN or keep it in different directory and install the new one as usual.
-
-# Frequently Asked Questions
-
-> **What OS are oeSENC/oeRNC plugins ready for?**
->
-> oeSENC/oeRNC charts will work on Windows, Mac, Android and Linux systems (included ARM boards).
-
-> **And if I install the software in a Virtual Machine?**
->
-> It will not run there. We have to prevent the system from being cloned.
-
-> **Can I use oeSENC/oeRNC charts on iOS?**
->
-> No. There is no version of OpenCPN for iOS.
-
-> **As how many systems counts a dual boot system?**
-> 
-> Each hardware/OS combination is an individual one.
-
-> **Why do I have to pay for oeSENC/oeRNC charts?**
->
-> We have to run this operation and respond to the charts licensors fees and conditions. The structure and costs are kept to a minimum. In case we have a great success economical speaking, funds will go back to OpenCPN.
-
-> **OpenCPN is open-source. Where is the code for the plugins?**
->
-> To work with oeSENC/oeRNC charts we have to ensure that no copies of the unencrypted cells are accessible during the execution of the software. Therefore, the plugins have an open-source part and a binary. Similar to the commercial BSB4 or nv-chart plugins.
+    - Skopiuj plik *Fingerprint* na przenośny nośnik i znajdź jakiś komputer z dostępem do Internetu.
+    
+    - Przejdź do [sklepu o-charts](https://o-charts.org/shop/14-oernc) i kup licencje na zestawy map oeRNC, którymi jesteś zainteresowany. Pomiń ten krok, jeśli już kupiłeś mapy.
+    
+    - Przejdź do strony [Moje mapy oeRNC](https://o-charts.org/shop/module/occharts/occhartsOernc) i utwórz tam *identyfikator systemu*, przesyłając plik *Fingerprint*. Pozostaw *nazwę systemu* pustą jeśli używasz klucza USB.
+    
+    - Wybierz ów nowy *identyfikator systemu* dla każdego zestawu map, który chcesz przypisać do tego systemu. Raz dokonane przypisanie, nie może być zmienione.
+    
+    - Zażądaj przygotowania map, klikając przycisk, *Przygotuj*. Po kilku chwilach otrzymasz 2 linki: jeden do map, drugi do pliku z kluczami do ich odszyfrowania. Skopiuj oba pliki na jakiś nośnik przenośny i przenieś je na system docelowy.
+    
+    - W systemie docelowym rozpakuj plik map do wybranego katalogu i skopiuj pliki kluczy do tego samego folderu, w którym znajdują się rozpakowane mapy (.oernc). Zainstaluj mapy jak zwykle. Jeśli przypisałeś swoje mapy do klucza USB, musisz go podłączyć, aby móc korzystać z map.</ol> 
+    
+    ### Uaktualnienia - online
+    
+    Aby zaktualizować zestaw map, przejdź do strony [Moje mapy oeRNC](https://o-charts.org/shop/module/occharts/occhartsOernc). W kolumnie *aktualizacje* pokazana będzie ostatnia aktualizacja, którą pobrałeś. W kolumnie *Ostatnia aktualizacja* znaleźć można informację o aktualnym wydaniu dostępnym dla danego zestawu map. Jeśli te daty są różne, pojawi się przycisk *Zażądaj*. Aktualizacje offline są niezależne i kompletne, nie martw się o aktualizacje pośrednie, które mogłeś pominąć wcześniej. Usuń stary zestaw map z OpenCPN, lub zachowaj go w innym katalogu. Pobierz i zainstaluj nowy zestaw.
+    
+    # Najczęściej zadawane pytania
+    
+    > **Dla jakich systemów operacyjnych istnieją wtyczki oeSENC i oeRNC?**
+    > 
+    > Mapy oeSENC i oeRNC działają w Windows, Mac, Android i Linux (w tym także ARM).
+    > 
+    > **A czy mogę zainstalować oprogramowania na maszynie wirtualnej?**
+    > 
+    > To nie zadziała. Musimy zapobiegać klonowaniu systemów.
+    > 
+    > **Czy można używać map oeSENC i oeRNC na iOS?**
+    > 
+    > Nie. Nie istnieje wersja OpenCPN dla iOS.
+    > 
+    > **Jak liczony jest "system" w przypadku komputera z wyborem systemu podczas uruchamiania?**
+    > 
+    > Każda kombinacja sprzęt + system operacyjny liczona jest oddzielnie.
+    > 
+    > **Dlaczego trzeba płacić za mapy oeSENC i oeRNC?**
+    > 
+    > Musimy dostosować się do wymogów instytucji posiadających prawa do map. Instytucje te określają opłaty i warunki licencyjne. Administracja i koszty są ograniczone do minimum. W przypadku, gdy odniesiemy wielki sukces ekonomiczny, fundusze zostaną przeznaczone na rozwój OpenCPN.
+    > 
+    > **OpenCPN jest oprogramowaniem open source. Gdzie znajdę kod wtyczki?**
+    > 
+    > Aby wykorzystywać mapy oeSENC i oeRNC musimy mieć pewność, że nie będą dostępne żadne kopie niezaszyfrowanych komórek map. Dlatego wtyczka ma część open-source i część binarną. Podobnie, jak wtyczki komercyjnych map BSB4 albo NV-charts.
