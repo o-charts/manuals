@@ -96,7 +96,7 @@ Kyllä
   <div class="answer col4 inline">
     
 <div class="questionok ok">
-<a href="./oesenc_en_US.html"><strong>Osta ja asenna tarvitsemasi oeSENC-vektorikartat</strong></a> ja muista päivittää ne.
+<a href="./oesenc_fi_FI.html"><strong>Osta ja asenna tarvitsemasi oeSENC-vektorikartat</strong></a> ja muista päivittää ne.
 </div>
   </div>
 </div>
@@ -150,7 +150,7 @@ Kyllä
   <div class="answer col4 inline">
     
 <div class="questionok ok">
-<a href="./oernc_en_US.html"><strong>Osta ja asenna tarvitsemasi oeRNC-rasterikartat</strong></a> ja muista päivittää ne.
+<a href="./oernc_fi_FI.html"><strong>Osta ja asenna tarvitsemasi oeRNC-rasterikartat</strong></a> ja muista päivittää ne.
 </div>
   </div>
 </div>
@@ -204,7 +204,7 @@ Kyllä
   <div class="answer col4 inline">
     
 <div class="questionok ok">
-<a href="https://o-charts.org/shop/index.php?id_category=6&controller=category"><strong>Osta ensin käyttäjälupa (UserPermit)</strong></a>. Sitten <a href="https://www.chartworld.com/shop/off_enc"><strong>osta tarvitsemasi S-63 -vektorikartat</strong></a> ja <a href="./s63_en_US.html"><strong>asenna ne</strong></a>.
+<a href="https://o-charts.org/shop/index.php?id_category=6&controller=category"><strong>Osta ensin käyttäjälupa (UserPermit)</strong></a>. Sitten <a href="https://www.chartworld.com/shop/off_enc"><strong>osta tarvitsemasi S-63 -vektorikartat</strong></a> ja <a href="./s63_fi_FI.html"><strong>asenna ne</strong></a>.
 </div>
   </div>
 </div>
