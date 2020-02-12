@@ -2,44 +2,43 @@
 layout: default_nb_NO
 ---
 
-# oeRNC Charts Conditions
+# oeRNC Kartvilkår
 
-- oeRNC charts can only be used in OpenCPN.
+- oeRNC karter kan kun benyttes i OpenCPN.
 
-- In general you can install every chart you license in 2 systems or more (see chart details). We call these enabled systems "assignments".
+- Generelt sett så kan du installere hvert kart i din lisens på 2 systemer eller mer (se kartdetaljer). Vi kaller disse aktiverte systemene "tildeling".
 
-- You can use either all your assigments simultaneously or you can retain one to be used in case your main system dies or you have to make thorough changes on it which may kill your license.
+- Du kan bruke enten alle dine tildelinger samtidig eller du kan ha en i bakhånd om ditt hovedsystem skulle svikte eller du må gjøre endringer i systemet som gjør at lisensen din blir ugyldig.
 
-- *System* is the combination of hardware and OS. If any of these factors changes, your system will be presented as a new one, invalidating the license and you will need to use a free assignment.
+- *System* er kombinasjonen av maskinvare og operativsystem. Hvis en av disse faktorene skulle bli endret, da vil ditt system bli presentert som et nytt og du vil miste din lisens og vil måtte benytte din gratis tildeling.
 
-- Your license should survive any OS, OpenCPN or plugin update but if you reinstall your OS, even with the same OS in the same hardware, count that this will require a new assignment.
+- Din lisens skal overleve alle OS, OpenCPN eller utvidelses oppdatering, men om du re-installerer ditt OS, selv med samme OS i samme maskinvare, så vil det kreve en ny tildeling.
 
-- When you have consumed all your assigments and you want to install your chart in a further systems, you will need to license the charts again.
+- Hvis du har benyttet dine 2 tildelinger og du ønsker å bruke dine kart i flere systemer, da vil du måtte kjøpe flere kartlisenser.
 
-- A *USB Key Dongle* is considered as a system. The USB Key Dongle allows to install the charts in as many devices as you want. However, only in the device where the USB Key Dongle is plugged in, the license is active and will display the charts.
+- En *USB-nøkkel / USB-dungle* er sett på som et system. USB-nøkkelen tillater deg i å installere kartene på så mange enheter du måtte ønske. Men, kun i den enheten som USB-nøkkelen er plugget inn i vil lisensen være aktiv og kartene vil vises.
 
-- Once you have requested your charts for one system we can not refund you. If you have created and assigned a system to your chart but you have not requested your charts yet, we can still refund you.
+- Når du har bedt om karter til et system, så kan vi ikke refundere kjøpet. Hvis du har opprettet og tildelt et system til dine karter, men har ikke bedt om kartene enda, da kan vi fremdeles refundere kjøpet.
 
-- Once you have requested your charts for one system we can not cancel or move your system to a different hardware/OS combination.
+- Når du har etterspurt dine kart for et system så kan vi ikke avbryte eller flytte dine kart til en annen maskinvare/OS kombinasjon.
 
-- You will be able to update your charts during a year from the purchase date. Charts have different update periodicity:
+- Du vil kunne oppdatere dine kart i et år fra kjøps dato. Kartene har forskjellige oppdaterings tidspunkter:
+    
+    - Kvartalsvis: Imray karter for Øst-Karibien, Imray karter for Adriater og Joniske øyer, Imray karter for Egeerhavet og Middelhavet øst.
+    - Ubestemt: Explorer karter (Bahamas).
+- Dine karter utløper ett år fra kjøpsdatoen. Kartene vil fungere på systemet ditt etter utløpsdatoen, men du kan ikke be om flere oppdateringer til dem.
 
-    - Quarterly: Imray Charts Eastern Caribbean, Imray Adriatic and Ionian, Imray Aegean and Mediterranean East.
-    - Undetermined: Explorer Charts (Bahamas).
+- I ett års perioden kan du tildele dine karter til hvilket som helst system. Etter at lisensierings perioden er over, så kan ingen nye system legges til.
 
-- Your charts expire after a year from the purchase date. After expiration, charts will keep working on your system but you can not request updates for them any longer.
+# Installere karter
 
-- During the one years period you can assign your charts to any system. Once the licensing period is over, no new system can be assigned any longer.
+Hvis systemet du ønsker å installere kartene dine på **er tilkoblet Internett**, følg trinnene i **Hent kartene på nett**. Dette er den enkleste og anbefalte metoden.
 
-# Installing Charts
+Hvis systemet du ønsker å installere kartene dine på **IKKE er tilkoblet Internett** følg trinnene i **Hent kartene uten nett**.
 
-If the system where you want to install your charts **is connected to Internet** follow the steps in **Get charts online**. This is the easiest and recommended method.
+For å installere karter på **Android** følg stegene i **Skaff karter for Android**.
 
-If the system where you want to install your charts is **NOT connected to Internet** follow the steps in **Get charts offline**.
-
-To install charts on **Android** follow the steps in **Get charts for Android**.
-
-## Get charts online
+## Hent kartene på nett
 
 1. Download and install the [oeRNC plugin](https://opencpn.org/OpenCPN/plugins/oernc.html) (only for OpenCPN 5.0 version and above). If you have already the oeRNC plugin installed, update to the latest version.
 
@@ -53,33 +52,43 @@ To install charts on **Android** follow the steps in **Get charts for Android**.
 
 6. Login with your o-charts shop access data.
 
-7. If you are using a USB Dongle ignore this step. First you will need to identify your system with a *System Name*. If you
-install oeRNC charts the first time on this system, select *New* in the window that will pop-up and provide a name (3 characters minimum and 15 maximum, no symbols or spaces). If the system has been used already, select the *System Name* that corresponds to it from the list. In case you select a wrong *System Name*, the install of the charts may proceed but they will reject to work. If you are installing your chart in a second system or you have reinstalled your OS then select *New* to create a new assignment.
+7. If you are using a USB Dongle ignore this step. First you will need to identify your system with a *System Name*. If you install oeRNC charts the first time on this system, select *New* in the window that will pop-up and provide a name (3 characters minimum and 15 maximum, no symbols or spaces). If the system has been used already, select the *System Name* that corresponds to it from the list. In case you select a wrong *System Name*, the install of the charts may proceed but they will reject to work. If you are installing your chart in a second system or you have reinstalled your OS then select *New* to create a new assignment.
 
-8. Follow on screen instructions to assign, download and install to your system or dongle the charts sets you licensed on the o-charts shop. Once you have consumed all your allowed assigments, the chart will not be available. 
+8. Follow on screen instructions to assign, download and install to your system or dongle the charts sets you licensed on the o-charts shop. Once you have consumed all your allowed assigments, the chart will not be available.
 
-### Updates - online
+### Oppdateringer - på nett
 
 You should visit *Options → Charts → oeRNC charts* from time to time to see if a new update is available. Online updates are incremental but do not worry, oeRNC plugin will do all the job and will download all the intermediate updates you might have missed to install.
 
-## Get charts for Android
+## Skaff karter for Android
 
-Coming soon
+1. Install latest version of [OpenCPN app for Android 4.4 (or above)](https://play.google.com/store/apps/details?id=org.opencpn.opencpn) from the Play Store. Be sure you are using the official OpenCPN app.
 
-## Get charts offline
+2. Install [oeRNC plugin for OpenCPN app](https://play.google.com/store/apps/details?id=org.opencpn.oerncplugin) from the Play Store. Open oeRNC plugin app and click on "Install Plugin oeRNC".
+
+3. Go to [o-charts shop](https://o-charts.org/shop/14-oernc) and license the chart sets you are interested in. Ignore this step if you have already bought your charts. Remember your access data to o-charts shop (email and password), you will need them later.
+
+4. Go to OpenCPN, *Options → Charts → oeRNC charts* tab and press *Refresh Chart List*. Use the arrows to show the hidden tabs.
+
+5. Login with your o-charts shop access data email and password.
+
+6. Follow on screen instructions to assign, download and install to your device the charts sets you licensed on the o-charts shop. You should come back here from time to time to see if a new update is available
+
+
+## Hent karter uten nett
 
 For systems without Internet connection you will create a system identifier file to take it to another computer with Internet access and request and download the chart set for the target system. We assume that you have installed the latest versions of OpenCPN and oeRNC plugin in the target system.
 
 1. If you want to assign your charts to a [USB Key Dongle](https://o-charts.org/shop/hardware/38-usb-key-dongle.html), plug it into a USB port now. Ignore this step if you do not have a dongle.
-    
-2. Go to OpenCPN, *Options → Plugins → oeRNC Charts* and enable it. 
+
+2. Go to OpenCPN, *Options → Plugins → oeRNC Charts* and enable it.
 
 3. Enter into *Preferences* and click either on *Create USB Key Dongle System ID file...* if you have a dongle or on *Create System Identifier file...* if you do not have a dongle. The plugin will report the path to a *Fingerprint* file. For Windows and macOS systems a copy is created directly on the desktop. For Linux systems the file is created in ~/.opencpn folder.
 
 4. Copy the *Fingerprint* file onto some portable device and look for a computer with an internet connection.
 
 5. Go to the [o-charts shop](https://o-charts.org/shop/14-oernc) and license the oeRNC chart sets you are interested in. Ignore this step if you have already bought your charts.
-    
+
 6. Go to the [My oeRNC Charts](https://o-charts.org/shop/module/occharts/occhartsOernc) page and create a *System identifier* uploading the *Fingerprint*. Leave *System name* blank if you are using a dongle.
 
 7. Select the new *System identifier* for each chart set you want to assign to your system. Once assigned, it can not be changed.
@@ -88,32 +97,32 @@ For systems without Internet connection you will create a system identifier file
 
 9. On your target system unzip the charts file into a directory of your choice and copy the keys file into the same folder where the unzipped charts are (.oernc). Install your charts as always and you are done. If you have assigned your charts to a dongle, plug it in before to see the charts.
 
-### Updates - offline
+### Oppdateringer - uten nett
 
 To update your chart sets go to [My oeRNC Charts](https://o-charts.org/shop/module/occharts/occhartsOernc) page. Column *Edition* will show the last edition you requested. Column *Current edition* will show the current available edition for that chart set. If they do not match, a *Request* button will appear. Offline updates are self contained, do not worry about intermediate updates you might have missed to install. Remove the old chart set from OpenCPN or keep it in different directory and install the new one as usual.
 
-# Frequently Asked Questions
+# Ofte stilte spørsmål
 
-> **What OS are oeSENC/oeRNC plugins ready for?**
->
-> oeSENC/oeRNC charts will work on Windows, Mac, Android and Linux systems (included ARM boards).
-
-> **And if I install the software in a Virtual Machine?**
->
-> It will not run there. We have to prevent the system from being cloned.
-
-> **Can I use oeSENC/oeRNC charts on iOS?**
->
-> No. There is no version of OpenCPN for iOS.
-
-> **As how many systems counts a dual boot system?**
+> **Hva OS er oeSENC/oeRNC utvidelsene klar for?**
 > 
-> Each hardware/OS combination is an individual one.
-
-> **Why do I have to pay for oeSENC/oeRNC charts?**
->
-> We have to run this operation and respond to the charts licensors fees and conditions. The structure and costs are kept to a minimum. In case we have a great success economical speaking, funds will go back to OpenCPN.
-
-> **OpenCPN is open-source. Where is the code for the plugins?**
->
-> To work with oeSENC/oeRNC charts we have to ensure that no copies of the unencrypted cells are accessible during the execution of the software. Therefore, the plugins have an open-source part and a binary. Similar to the commercial BSB4 or nv-chart plugins.
+> oeSENC/oeRNC karter vil fungere med Windows, Mac, Android og Linux systemer (inkludert ARM korter).
+> 
+> **Og hvis jeg installerer programvaren på en Virtuell Maskin?**
+> 
+> Da vil den ikke fungere. Vi må forhindre at systemene blir klonet.
+> 
+> **Kan jeg bruke oeSENC/oeRNC karter på iOS?**
+> 
+> Nei. Det er ingen versjon av OpenCPN for iOS.
+> 
+> **Hvor mange systemer teller et dual boot system?**
+> 
+> Hver maskinvare/OS kombinasjon teller som et system.
+> 
+> **Hvorfor må jeg betale for oeSENC/oeRNC karter?**
+> 
+> Vi må drifte denne organisasjonen og svare for kart lisensholdernes avgifter og krav. Strukturen og kostnader holdes til et minimum. Om vi skulle få stor suksess økonomisk sett, da vil overskudd gå tilbake til OpenCPN.
+> 
+> **OpenCPN er åpen kilde. Hvor er koden for utvidelsene?**
+> 
+> For å jobbe med oeSENC/oeRNC karter så må vi påse at ingen kopier av de ukrypterte kartcellene er tilgjengelige ved kjøring av programvaren. Derfor har utvidelsen en åpen-kilde del og en binær del. Til sammenligning med kommersielle BSB4 eller nv-kart utvidelsene.
