@@ -2,118 +2,126 @@
 layout: default_fi_FI
 ---
 
-# oeRNC Charts Conditions
+# oeRNC-karttojen ehdot
 
-- oeRNC charts can only be used in OpenCPN.
+- oeRNC-karttoja voi käyttää vain OpenCPN:ssä.
 
-- In general you can install every chart you license in 2 systems or more (see chart details). We call these enabled systems "assignments".
+- Voit asentaa kunkin lisensoimasi karttasarjan kahteen tai useampaan järjestelmään (tarkista karttasarjan lisätiedot). Näitä kutsutaan järjestelmän "liitoksiksi".
 
-- You can use either all your assigments simultaneously or you can retain one to be used in case your main system dies or you have to make thorough changes on it which may kill your license.
+- Voit tehdä kaikki liittoksesi heti tai säilyttää toisen siltä varalta että järjestelmäsi tuhoutuu tai tekemäsi järjestelmämuutokset aiheuttavat lisenssisi peruuntumisen.
 
-- *System* is the combination of hardware and OS. If any of these factors changes, your system will be presented as a new one, invalidating the license and you will need to use a free assignment.
+- *Järjestelmä* on käyttöjärjestelmän ja laitteen kombinaatio. Jos jokin näistä muuttuu, järjestelmä tulkitaan uudeksi ja tarvitset siihen uuden liitoksen.
 
-- Your license should survive any OS, OpenCPN or plugin update but if you reinstall your OS, even with the same OS in the same hardware, count that this will require a new assignment.
+- Lisenssisi pitäisi pysyä voimassa käyttöjärjestelmän, OpenCPN:n tai lisäosien päivityksissä. Jos asennat käyttöjärjestelmäsi uudelleen samaan koneeseen, tarvitset uuden liitoksen.
 
-- When you have consumed all your assigments and you want to install your chart in a further systems, you will need to license the charts again.
+- Kun olet käyttänyt kaikki liitoksesi ja haluat asentaa karttasarjasi uuteen järjestelmään, joudut hankkimaan karttasarjalle uuden lisenssin.
 
-- A *USB Key Dongle* is considered as a system. The USB Key Dongle allows to install the charts in as many devices as you want. However, only in the device where the USB Key Dongle is plugged in, the license is active and will display the charts.
+- *USB-avain* tulkitaan yhdeksi järjestelmäksi. USB-avain sallii karttasarjonen asentamisen niin moneen järjestelmään kuin haluat. Kartat toimivat kuitenkin vain siinä järjestelmässä, mihin USB-avain on liitetty.
 
-- Once you have requested your charts for one system we can not refund you. If you have created and assigned a system to your chart but you have not requested your charts yet, we can still refund you.
+- Kun olet tehnyt karttasarjallesi latauspyynnön (request) jollekin järjestelmälle, emme voi enää palauttaa rahojasi. Jos olet luonut järjestelmän ja liittänyt karttasarjasi siihen, mutta et ole tehnyt karttasarjallesi yhtään latauspyyntöä, voimme vielä palauttaa rahasi.
 
-- Once you have requested your charts for one system we can not cancel or move your system to a different hardware/OS combination.
+- Kun olet liittänyt karttasarjasi johonkin järjestelmään, emme voi peruuttaa liitosta tai siirtää sitä toiseen järjestelmään.
 
-- You will be able to update your charts during a year from the purchase date. Charts have different update periodicity:
-
-    - Quarterly: Imray Charts Eastern Caribbean, Imray Adriatic and Ionian, Imray Aegean and Mediterranean East.
-    - Undetermined: Explorer Charts (Bahamas).
-
-- Your charts expire after a year from the purchase date. After expiration, charts will keep working on your system but you can not request updates for them any longer.
-
-- During the one years period you can assign your charts to any system. Once the licensing period is over, no new system can be assigned any longer.
-
-# Installing Charts
-
-If the system where you want to install your charts **is connected to Internet** follow the steps in **Get charts online**. This is the easiest and recommended method.
-
-If the system where you want to install your charts is **NOT connected to Internet** follow the steps in **Get charts offline**.
-
-To install charts on **Android** follow the steps in **Get charts for Android**.
-
-## Get charts online
-
-1. Download and install the [oeRNC plugin](https://opencpn.org/OpenCPN/plugins/oernc.html) (only for OpenCPN 5.0 version and above). If you have already the oeRNC plugin installed, update to the latest version.
-
-2. Go to OpenCPN, *Options → Plugins → oeRNC* and enable it.
-
-3. Go to [o-charts shop](https://o-charts.org/shop/14-oernc) and license the chart sets you are interested in. Remember your access data to o-charts shop (email and password), you will need them later. Ignore this step if you have already bought your charts.
-
-4. If you want to assign your charts to a [USB Key Dongle](https://o-charts.org/shop/hardware/38-usb-key-dongle.html), plug it into a USB port now. Ignore this step if you do not have a dongle.
-
-5. Go to OpenCPN, *Options → Charts → oeRNC charts* tab and press *Refresh Chart List*. Use the arrows to show the hidden tabs.
-
-6. Login with your o-charts shop access data.
-
-7. If you are using a USB Dongle ignore this step. First you will need to identify your system with a *System Name*. If you
-install oeRNC charts the first time on this system, select *New* in the window that will pop-up and provide a name (3 characters minimum and 15 maximum, no symbols or spaces). If the system has been used already, select the *System Name* that corresponds to it from the list. In case you select a wrong *System Name*, the install of the charts may proceed but they will reject to work. If you are installing your chart in a second system or you have reinstalled your OS then select *New* to create a new assignment.
-
-8. Follow on screen instructions to assign, download and install to your system or dongle the charts sets you licensed on the o-charts shop. Once you have consumed all your allowed assigments, the chart will not be available. 
-
-### Updates - online
-
-You should visit *Options → Charts → oeRNC charts* from time to time to see if a new update is available. Online updates are incremental but do not worry, oeRNC plugin will do all the job and will download all the intermediate updates you might have missed to install.
-
-## Get charts for Android
-
-Coming soon
-
-## Get charts offline
-
-For systems without Internet connection you will create a system identifier file to take it to another computer with Internet access and request and download the chart set for the target system. We assume that you have installed the latest versions of OpenCPN and oeRNC plugin in the target system.
-
-1. If you want to assign your charts to a [USB Key Dongle](https://o-charts.org/shop/hardware/38-usb-key-dongle.html), plug it into a USB port now. Ignore this step if you do not have a dongle.
+- Voit päivittää karttasarjasi vuoden ostopäivästä. Karttasarjoilla on vaihtelevat päivitysvälit:
     
-2. Go to OpenCPN, *Options → Plugins → oeRNC Charts* and enable it. 
+    - Neljännesvuosittain: Imray Charts Eastern Caribbean, Imray Adriatic and Ionian, Imray Aegean and Mediterranean East.
+    - Vaihtelevasti: Explorer Charts (Bahamas).
+- Karttasarjasi päivitysoikeus päättyy vuoden kuluttua ostopäivästä. Päivitysoikeuden päättymisen jälkeen karttasarjasi toimivat edelleen järjestelmässäsi, mutta et voi enää päivittää niitä.
 
-3. Enter into *Preferences* and click either on *Create USB Key Dongle System ID file...* if you have a dongle or on *Create System Identifier file...* if you do not have a dongle. The plugin will report the path to a *Fingerprint* file. For Windows and macOS systems a copy is created directly on the desktop. For Linux systems the file is created in ~/.opencpn folder.
+- Voit liittää karttasarjasi vuoden päivitysoikeuden aikana rinnakkaiseen tai varmuuskopiojärjestelmään. Vuoden päivitysoikeuden päätyttyä et voi enää liittää karttasarjaasi toiseen järjestelmään.
 
-4. Copy the *Fingerprint* file onto some portable device and look for a computer with an internet connection.
+# Karttojen asennus
 
-5. Go to the [o-charts shop](https://o-charts.org/shop/14-oernc) and license the oeRNC chart sets you are interested in. Ignore this step if you have already bought your charts.
-    
-6. Go to the [My oeRNC Charts](https://o-charts.org/shop/module/occharts/occhartsOernc) page and create a *System identifier* uploading the *Fingerprint*. Leave *System name* blank if you are using a dongle.
+Jos järjestelmä, johon haluat asentaa kartat, **on kytketty verkkoon**, seuraa vaiheita **Hae kartat verkosta**. Tämä on yksinkertaisin ja suositeltavin menetelmä.
 
-7. Select the new *System identifier* for each chart set you want to assign to your system. Once assigned, it can not be changed.
+Jos järjestelmä, johon haluat asentaa kartat, **ei ole kytketty verkkoon**, seuraa vaiheita **Asenna kartat ilman verkkoa**.
 
-8. Make a Request clicking the button *Request*. After few seconds you will get 2 download links, one for the charts and another one for the file containing the keys to decrypt them. Copy both files onto the portable device and go back to the boat.
+Asentaaksesi kartat **Androidiin** seuraa ohjeita **Asenna kartat Androidiin**.
 
-9. On your target system unzip the charts file into a directory of your choice and copy the keys file into the same folder where the unzipped charts are (.oernc). Install your charts as always and you are done. If you have assigned your charts to a dongle, plug it in before to see the charts.
+## Hae kartat verkosta
 
-### Updates - offline
+1. Lataa ja asenna [oeRNC-lisäosa](https://opencpn.org/OpenCPN/plugins/oernc.html) (OpenCPN 5.0 tai uudemmat versiot). Jos sinulla on jo oeRNC-lisäosa asennettuna, päivitä se uusimpaan versioon.
 
-To update your chart sets go to [My oeRNC Charts](https://o-charts.org/shop/module/occharts/occhartsOernc) page. Column *Edition* will show the last edition you requested. Column *Current edition* will show the current available edition for that chart set. If they do not match, a *Request* button will appear. Offline updates are self contained, do not worry about intermediate updates you might have missed to install. Remove the old chart set from OpenCPN or keep it in different directory and install the new one as usual.
+2. OpenCPN:ssä valitse: Asetukset → Lisäosat → oeRNC ja ota se käyttöön valitsemalla "Käytä".
 
-# Frequently Asked Questions
+3. Siirry [o-charts -kauppaan](https://o-charts.org/shop/14-oernc) ja osta lisenssi sille karttasarjalle, jota haluat käyttää. Tallenna kirjautumistietosi o-charts -kauppaan (sähköpostiosoite ja salasana), tarvitset niitä myöhemmin. Ohita tämä vaihe, jos olet jo ostanut karttasarjasi.
 
-> **What OS are oeSENC/oeRNC plugins ready for?**
->
-> oeSENC/oeRNC charts will work on Windows, Mac, Android and Linux systems (included ARM boards).
+4. Jos haluat liittää karttasarjasi [USB-avaimeen](https://o-charts.org/shop/hardware/38-usb-key-dongle.html), liitä se laitteesi USB-porttiin. Ohita tämä vaihe, jos et käytä USB-avainta.
 
-> **And if I install the software in a Virtual Machine?**
->
-> It will not run there. We have to prevent the system from being cloned.
+5. OpenCPN:ssä valitse: Asetukset → Kartat → oeRNC-kartat ja paina "Päivitä luettelo". Käytä nuolinäppäimiä nähdäksesi piilotetut välilehdet.
 
-> **Can I use oeSENC/oeRNC charts on iOS?**
->
-> No. There is no version of OpenCPN for iOS.
+6. Kirjaudu käyttämällä o-charts -kaupan kirjautumistietoja.
 
-> **As how many systems counts a dual boot system?**
+7. Ohita tämä vaihe, jos käytät USB-avainta. Aluksi sinun täytyy yksilöidä järjestelmäsi *järjestelmänimellä*. Jos asennat oeRNC-karttoja ensimmäistä kertaa valitse *Uusi* popup-ikkunasta ja anna järjestelmänimi (vähintään 3 ja enintään 15 merkkiä, ei erikoismerrkejä tai välilyöntejä). Järjestelmänimenä voit käyttää esim. aluksesi nimeä. Jos olet jo luonut järjestelmänimen tälle järjestelmälle, valitse *Järjestelmänimi* luettelosta. Jos valitset väärän *Järjestelmänimen*, asennus saattaa onnistua, mutta kartat eivät toimi. Jos asennat karttoja toiseen järjestelmään tai olet asentanut käyttöjärjestelmäsi uudelleen, valitse *Uusi* ja luo uusi järjestelmänimi.
+
+8. Seuraa ruudulle tulevia ohjeita liittäksesi, ladataksesi ja asentaaksesi o-charts -kaupasta ostamasi karttasarjat. Kun olet käyttänyt kaikki sallitut liitoksesi, karttasarja ei enää ole saatavilla.
+
+### Päivitykset verkossa
+
+Käy silloin tällöin *Asetukset → Kartat → oeRNC-kartat* ja tarkista onko karttasarjoillesi päivityksiä. oeRNC-lisäosa huolehtii kaikista mahdollisista lataamatta jääneistä välipäivityksistä automaattisesti.
+
+## Asenna kartat Androidiin
+
+1. Asenna uusin [OpenCPN app for Android 4.4 (or above)](https://play.google.com/store/apps/details?id=org.opencpn.opencpn) versio Play Store:sta. Varmista että käytät virallista OpenCPN appia.
+
+2. Asenna [oeRNC plugin for OpenCPN app](https://play.google.com/store/apps/details?id=org.opencpn.oerncplugin) Play Store:sta. Avaa oeRNC-plugin äppi ja klikkaa "Asenna oeRNC-lisäosa".
+
+3. Mene [o-charts -kauppaan](https://o-charts.org/shop/14-oernc) ja hankin lisenssit karttasarjoille, joita haluat käyttää. Ohita tämä vaihe, jos olet jo ostanut karttasarjasi. Tallenna kirjautumistietosi o-charts -kauppaan (sähköpostiosoite ja salasana), tarvitset niitä myöhemmin.
+
+4. Siirry OpenCPN, *Optiot→ kartat → oeRNC* kartat välilehti ja paina *Päivitä karttaluettelo*. Käytä nuolinäppäimiä nähdäksesi piilotetut välilehdet.
+
+5. Kirjaudu 3. kohdassa tallentamillasi o-charts kirjautumistiedoillasi.
+
+6. Seuraa ruudulle tulevia ohjeita liittäksesi, ladataksesi ja asentaaksesi o-charts -kaupasta ostamasi karttasarjat. Käy silloin tällöin tällä välilehdellä tarkistamassa onko karttasarjoillesi saatavissa päivityksiä.
+
+## Asenna kartat ilman verkkoa
+
+Järjestelmissä, joissa ei ole internetyhteyttä, sinun täytyy luoda sille sormenjälkitiedosto ja ottaa se mukaan siirrettävällä medialla (esim. USB-tikulla) koneelle, jossa on internetyhteys. Internetyhteydellä voit tehdä karttasarjallesi latauspyynnön ja ladata ne USB-tikulle, mistä siirrät ne edelleen järjestelmääsi. Tarkistathan että sinulla on uusimmat versiot OpenCPN:stä ja oeRNC-lisäosasta asennettuna.
+
+1. Jos haluat liittää karttasarjasi [USB-avaimeen](https://o-charts.org/shop/hardware/38-usb-key-dongle.html), liitä se laitteesi USB-porttiin. Ohita tämä vaihe, jos et käytä USB-avainta.
+
+2. OpenCPN:ssä valitse: Asetukset → Lisäosat → oeRNC ja ota se käyttöön valitsemalla "Käytä".
+
+3. Valitse *Ominaisuudet* ja klikkaa joko *Luo USB-avaimen järjestelmän tunnistetiedosto...*, jos käytät USB-avainta tai *Luo järjestelmän tunnistetiedosto...*, jos et käytä USB-avainta tässä järjestelmässä. Lisäosa näyttää polun *järjestelmäntunnistetiedostoon*. Windows- ja Mac-järjestelmissä tiedostosta luodaan kopio myös työpöydälle. Linux-järjestelmissä tiedosto luodaan hakemistoon ~/.opencpn.
+
+4. Kopioi järjestelmäsi *Sormenjälkitiedosto* esim. USB-tikulle ja siirry koneelle, jossa on internetyhteys.
+
+5. Siirry [o-charts -kauppaan](https://o-charts.org/shop/14-oernc) ja osta lisenssi sille karttasarjalle, jota haluat käyttää. Ohita tämä vaihe, jos olet jo ostanut karttasarjasi.
+
+6. Mene [My oeRNC Charts](https://o-charts.org/shop/module/occharts/occhartsOernc) sivulle ja luo *System identifier* lataamalla *järjestelmäntunnistetiedosto*. Jätä *System name* tyhjäksi, jos käytät USB-avainta.
+
+7. Valitse luotu *Järjestelmän tunniste* kullekin karttasarjalle, jonka haluat liittää järjestelmääsi. Kun karttasarja on liitetty, liitosta ei voi muuttaa.
+
+8. Tee latauspyyntö klikkaamalla painiketta *Request*. Saat jonkin ajan kuluttua kaksi latauslinkkiä -yhden karttasarjaa ja toisen tiedostoon, joka sisältään karttasarjan salausavaimet. Kopioi molemmat tiedostot esim. USB-tikulle ja siirrä ne varsinaiseen järjestelmääsi.
+
+9. Pura varsinaisessa järjestelmässäsi karttasarja haluamaasi hakemistoon ja kopioi salausavaimet sisältävä tiedosto samaan hakemistoon. Asenna karttasarja normaalisti. Jos olet liittänyt karttasarjasi USB-avaimeen, liitä se järjestelmääsi, jotta kartat toimivat.
+
+### Päivitykset ilman verkkoa
+
+Päivittääksesi karttasarjasi mene [My oeRNC Charts](https://o-charts.org/shop/module/occharts/occhartsOernc) sivulle. Sarake *Edition* näyttää viimeisimmän lataamasi version. Sarake *Current edition* näyttää karttasarjasi uusimman saatavissa olevan version. *Request* tulee näkyviin, jos karttasarjastasi on saatavilla uudempi kuin ladattu versio. Päivitykset ovat täydellisiä eikä sinun tarvitse huolehtia välipäivityksistä, jotka ovat jääneet huomaamatta. Poista vanha karttasarja OpenCPN:stä tai pidä se eri hakemistossa ja asenna uusi kuten edellä.
+
+# Usein kysyttyjä kysymyksiä
+
+> **Mihin käyttöjärjestelmiin oeSENC- ja oeRNC-lisäosat on saatavana?**
 > 
-> Each hardware/OS combination is an individual one.
-
-> **Why do I have to pay for oeSENC/oeRNC charts?**
->
-> We have to run this operation and respond to the charts licensors fees and conditions. The structure and costs are kept to a minimum. In case we have a great success economical speaking, funds will go back to OpenCPN.
-
-> **OpenCPN is open-source. Where is the code for the plugins?**
->
-> To work with oeSENC/oeRNC charts we have to ensure that no copies of the unencrypted cells are accessible during the execution of the software. Therefore, the plugins have an open-source part and a binary. Similar to the commercial BSB4 or nv-chart plugins.
+> oeSENC- ja oeRNC-lisäosat ja -kartat toimivat Windows-, Mac- Android- ja Linux-järjestelmissä (myös ARM-korteilla)
+> 
+> **Entä jos asennan ohjelman virtuaalikoneeseen?**
+> 
+> Se ei toimi. Olemme estäneet järjestelmän kloonaamiselta.
+> 
+> **Voinko käyttää oeSENC- tai oeRNC-karttoja iOS-laitteissa?**
+> 
+> Et. OpenCPN:ää ei ole saatavana iOS-laitteille.
+> 
+> **Kuinka moneksi järjestelmäksi "dual boot"-järjestelmä lasketaan?**
+> 
+> Kukin hw/sw-yhdistelmä on yksi järjestelmä.
+> 
+> **Miksi minun täytyy maksaa oeSENC- tai oeRNC-kartoista?**
+> 
+> Joudumme ylläpitämään järjestelmää ja vastaamaan karttojen lisensoijille maksuista ja ehdoista. Kulut pyritään pitämään mahdollisimman alhaisina. Jos alamme tuotamaan voittoa, suorituksia palautetaan OpenCPN:lle.
+> 
+> **OpenCPN on avoimen lähdekoodin sovellus. Missä on lisäosan lähdekoodit?**
+> 
+> oeSENC- tai oeRNC-karttoja käytettäessä joudumme varmistamaan että salaamattomista karttasoluista ei ole kopioita ohjelman suorituksen aikana. Tämän vuoksi lisäosa koostuu avoimesta lähdekoodista ja binääriosasta. Vastaavia ovat kaupalliset BSB4- tai nv-chart -lisäosat.
