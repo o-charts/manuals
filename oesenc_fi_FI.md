@@ -1,7 +1,8 @@
 ---
 layout: default_fi_FI
 ---
-# oeSENC-karttojen edellytykset
+
+# oeSENC-karttojen ehdot
 
 - oeSENC-karttoja voi käyttää vain OpenCPN:ssä.
 
@@ -164,7 +165,7 @@ Joidenkin karttasarjojen päivitysoikeutta voidaan jatkaa vuodeksi eteenpäin al
 > 
 > Se ei toimi. Olemme estäneet järjestelmän kloonaamiselta.
 > 
-> **Voinko käyttää oeSENC karttoja iOS-laitteissa?**
+> **Voinko käyttää oeSENC-karttoja iOS-laitteissa?**
 > 
 > Et. OpenCPN:ää ei ole saatavana iOS-laitteille.
 > 
@@ -174,7 +175,7 @@ Joidenkin karttasarjojen päivitysoikeutta voidaan jatkaa vuodeksi eteenpäin al
 > 
 > **Miksi minun täytyy maksaa oeSENC-kartoista?**
 > 
-> Joudumme ylläpitämään järjestelmää ja vastaamaan karttojen lisensoijille maksuista ja ehdoista. Kulut pyritään pitämään mahdollisimman alhaisina. Siinä tapauksessa että saavutamme menestystä ekonomisessa mielessä, suorituksia palautetaan OpenCPN:lle.
+> Joudumme ylläpitämään järjestelmää ja vastaamaan karttojen lisensoijille maksuista ja ehdoista. Kulut pyritään pitämään mahdollisimman alhaisina. Jos alamme tuotamaan voittoa, suorituksia palautetaan OpenCPN:lle.
 > 
 > **OpenCPN on avoimen lähdekoodin sovellus. Missä on lisäosan lähdekoodit?**
 > 
