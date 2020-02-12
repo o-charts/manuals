@@ -1,6 +1,7 @@
 ---
 layout: default_fr_FR
 ---
+
 # Conditions des jeux de cartes oeSENC
 
 - Les cartes oeSENC ne peuvent être utilisées qu'avec le logiciel OpenCPN.
@@ -159,23 +160,23 @@ Il y a quelques jeux de cartes ayant une option d’actualisation à prix rédui
 > **Quel système d'exploitation accepte le complément oeSENC ?**
 > 
 > Les cartes oeSENC fonctionnent sur Windows, Mac, Android et les systèmes Linux (carte ARM incluse).
-> 
+
 > **Et si j’installe le logiciel sur une Machine virtuelle ?**
 > 
 > Il ne fonctionnera pas. Ceci pour empêcher le système d’être cloné.
-> 
+
 > **Est-ce que je peux utiliser des jeux de cartes oeSENC sur iOS ?**
 > 
 > Non. Il n’y a pas de version de OpenCPN pour iOS.
-> 
+
 > **Pour combien de systèmes un ordinateur dual-boot compte t il ?**
 > 
 > Chaque installation sur un des systèmes d'exploitation d'un ordinateur dual-boot compte pour une installation.
-> 
+
 > **Pourquoi dois je payer pour les cartes oeSENC ?**
 > 
 > Il faut exécuter cette opération et satisfaire les honoraires et conditions des concédants des jeux de cartes . La structure et les coûts sont réduits au minimum. Dans le cas où nous arriverons à un grand succès économique, les fonds iront à OpenCPN.
-> 
+
 > **OpenCPN est open source. Où est le code du plug-in ?**
 > 
 > Pour travailler avec les jeux de cartes oeSENC, il faut s’assurer qu’aucune copie des cellules, non chiffrée, n’est accessible pendant l’exécution du logiciel. Par conséquent, le complément a une partie open-source et une partie close-source. Comme pour les compléments BSB4 et nv-charts.
