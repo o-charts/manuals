@@ -8,11 +8,11 @@ layout: default_fr_FR
 
 - En général, vous pouvez installer chaque jeu de cartes, que vous autorisez, sur au moins 2 systèmes (voir les détails pour chaque jeu de cartes). Nous appelons ces systèmes activés "associations".
 
-- Vous pouvez utiliser tous vos associations simultanément ou vous pouvez en conserver un pour être utilisé au cas où votre système principal meurt ou si vous devez effectuer des modifications approfondies sur ce système qui pourraient tuer votre licence.
+- Vous pouvez utiliser toutes vos associations simultanément ou vous pouvez en conserver une pour l'utiliser au cas où votre système principal meurt ou si vous devez effectuer des modifications approfondies sur ce système qui pourraient tuer votre licence.
 
 - *Système* est la combinaison du matériel et de l'OS. Si le matériel ou le système d'exploitation change, votre installation sera considérée comme nouvelle et vous perdrez votre licence ce qui entrainera que vous devrez utiliser votre second droit d'installation.
 
-- Votre licence devrait survivre à toute mise à jour d'OS, OpenCPN ou de plugin, mais si vous réinstallez votre OS, même avec le même OS dans le même matériel, sachez que cela nécessitera une nouvelle association.
+- Votre licence devrait survivre à toute mise à jour d'OS, d'OpenCPN ou de plugin, mais si vous réinstallez votre OS, même avec le même OS dans le même matériel, sachez que cela nécessitera une nouvelle association.
 
 - Si vous avez déjà utilisé vos deux droits d'installation, et si vous voulez utiliser votre jeu de cartes sur un troisième et quatrième systèmes, vous devez l'acheter à nouveau.
 
@@ -28,7 +28,7 @@ layout: default_fr_FR
     - Non déterminé : Jeu de cartes d'Explorateur (Bahamas).
 - Vos licences des jeux de cartes expirent après un an à compter de la date d’achat. Après l'expiration, votre jeu de cartes continue de s'afficher sur votre système, mais vous ne pouvez plus demander de mise à jour.
 
-- Pendant une période d'une année, vous pouvez assigner vos cartes à n'importe quel système. Une fois terminée la période de licence, cela ne sera possible.
+- Pendant une période d'une année, vous pouvez assigner vos cartes à n'importe quel système. Une fois terminée la période de licence, cela ne sera plus possible.
 
 # Cartes en cours d'installation
 
@@ -48,7 +48,7 @@ Pour installer des jeux de cartes sous **Android** suivez les étapes dans **Obt
 
 4. Si vous voulez assigner vos cartes à un Dongle-USB [Dongle](https://o-charts.org/shop/hardware/38-usb-key-dongle.html), branchez-le dans un port USB maintenant. Ignorer cette étape si vous n'avez pas de dongle.
 
-5. Allez dans OpenCPN, dans l'onglet *Options → Cartes → oeRNC* et appuyez sur *Actualiser la liste des jeux de cartes*. Utilisez les flèches pour afficher les onglets cachés.
+5. Allez dans OpenCPN, dans l'onglet *Options → Cartes → oeRNC * et appuyez sur *Actualiser la liste des jeux de cartes*. Utilisez les flèches pour afficher les onglets cachés.
 
 6. Connectez-vous avec vos données d’accès à la boutique o-charts.
 
@@ -62,7 +62,17 @@ Vous devriez visiter *Options → Cartes/données → Cartes oeRNC* de temps en 
 
 ## Obtenir des jeux de cartes sous Android
 
-Cela sera possible bientôt.
+1. Installez la dernière version de l'application OpenCPN pour Android 4.4 (ou supérieure) à partir du Play Store. Assurez-vous que vous utilisez l'application officielle OpenCPN. 
+   
+2. Installez  le complément (plug-in) oeRNC pour l’application OpenCPN à partir du Play Store. Ouvrez l'application le plug-in oeRNC et cliquez sur "Intégrer le complément oeRNC".
+  
+3. Accédez à la  boutique o-charts et achetez une licence pour les jeux de cartes qui vous intéressent. Ignorez cette étape si vous avez déjà acheté vos jeux de cartes. Souvenez vous de vos données d'accès à la boutique o-charts (email et mot de passe), vous en aurez besoin plus tard.
+  
+4. Avec OpenCPN, allez dans * Options → Cartes→ complément oeRNC et appuyez sur * "Actualiser la liste des jeux de cartes". Utilisez les flèches pour accéder aux onglets masqués.
+  
+5. Connectez-vous avec vos données d'accès (email, mot de passe ) à la boutique o-charts.
+
+6. Suivez les instructions à l'écran pour associer, télécharger et installer sur votre appareil, les jeux de cartes que vous avez achetés sous licence sur la boutique o-charts. Vous devriez revenir ici, régulièrement, pour voir si une nouvelle mise à jour est disponible.
 
 ## Obtenir un jeu de cartes hors ligne
 
@@ -95,23 +105,23 @@ Pour mettre à jour vos jeux de cartes, allez dans la page [Mes cartes oeRNC](ht
 > **Quel système d'exploitation accepte le complément oeRNC ?**
 > 
 > Les cartes oeSENC/oeRNC fonctionneront avec Windows, Mac, Android et les systèmes Linux (carte ARM incluse).
-> 
+
 > **Et si j’installe le logiciel sur une Machine virtuelle ?**
 > 
 > Cela ne fonctionnera pas. Ceci pour empêcher que le système soit cloné.
-> 
+
 > **Est-ce que je peux utiliser des jeux de cartes oeSENC/oeRNC sur iOS ?**
 > 
 > Non. Il n’y a pas de version de OpenCPN pour iOS.
-> 
+
 > **Pour combien de systèmes un ordinateur dual-boot compte t il ?**
 > 
 > Chaque installation sur un des systèmes d'exploitation d'un ordinateur dual-boot compte pour une installation.
-> 
+
 > **Pourquoi dois je payer pour les cartes oeSENC/oeRNC ?**
 > 
 > Nous devons gérer cette opération et répondre aux frais et aux conditions des concédants dejeux de cartes. La structure et les coûts sont réduits au minimum. Si nous avons un grand succès économique, les fonds reviendront à OpenCPN.
-> 
+
 > **OpenCPN est open source. Où est le code du complément ?**
 > 
 > Pour travailler avec les jeux de cartes oeSENC, il faut s’assurer qu’aucune copie des cellules, non chiffrée, n’est accessible pendant l’exécution du logiciel. Par conséquent, le complément a une partie open-source et une partie close-source. Comme pour les compléments BSB4 et nv-charts.
