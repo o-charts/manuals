@@ -30,21 +30,21 @@ layout: default_pl_PL
 
 1. *System* to komputer, na którym będziesz używać OpenCPN. Zestaw map, na który od sprzedawcy map uzyskasz licencję dla danego systemu, może być używany tylko na nim. Pobierz i zainstaluj [wtyczkę S-63](https://opencpn.org/OpenCPN/plugins/s63.html) (dla odpowiedniej wersji OpenCPN).
     
-    1. Przejdź do OpenCPN, *Opcje → Wtyczki → S63* i włącz wtyczkę. Następnie przejdź do OpenCPN, *Opcje → Mapy → Mapy S63 → Klucze/zezwolenia* i utwórz plik identyfikatora systemu (*Fingerprint*) dla swojego systemu, naciskając przycisk *Utwórz identyfikator systemu*.
+2. Przejdź do OpenCPN, *Opcje → Wtyczki → S63* i włącz wtyczkę. Następnie przejdź do OpenCPN, *Opcje → Mapy → Mapy S63 → Klucze/zezwolenia* i utwórz plik identyfikatora systemu (*Fingerprint*) dla swojego systemu, naciskając przycisk *Utwórz identyfikator systemu*.
     
-    2. Przejdź do [sklepu o-charts](https://o-charts.org/shop) i kup UserPermit.
+3. Przejdź do [sklepu o-charts](https://o-charts.org/shop) i kup UserPermit.
     
-    3. Przejdź do [Moje zezwolenia UserPermit S-63](https://o-charts.org/shop/index.php?fc=module&module=ocpermits&controller=ocpermits) i utwórz InstallPermit, przesyłając plik Fingerprint, wygenerowany przed chwilą i przypisz go do twojego S-63 UserPermit.
+4. Przejdź do [Moje zezwolenia UserPermit S-63](https://o-charts.org/shop/index.php?fc=module&module=ocpermits&controller=ocpermits) i utwórz InstallPermit, przesyłając plik Fingerprint, wygenerowany przed chwilą i przypisz go do twojego S-63 UserPermit.
     
-    4. Odwiedź sklep dostawcy map S-63 i kup mapy S-63, których potrzebujesz, wykorzystując swój UserPermit S-63 dla OpenCPN. Czasami dostawca poprosi o "HW-ID", zignoruj to pytanie.
+5. Odwiedź sklep dostawcy map S-63 i kup mapy S-63, których potrzebujesz, wykorzystując swój UserPermit S-63 dla OpenCPN. Czasami dostawca poprosi o "HW-ID", zignoruj to pytanie.
     
-    5. Ściągnij i rozpakuj swoje zestawy map S-63. Powinien tam być katalog o nazwie ROOT_ENC (zawierający komórki mapy), znajdziesz tam także plik o nazwie PERMIT.txt zawierający CellPermit.
+6. Ściągnij i rozpakuj swoje zestawy map S-63. Powinien tam być katalog o nazwie ROOT_ENC (zawierający komórki mapy), znajdziesz tam także plik o nazwie PERMIT.txt zawierający CellPermit.
     
-    6. Przejdź do OpenCPN, *Opcje → Mapy → Mapy S63 → Klucze/zezwolenia*. Wprowadź swój UserPermit i przetestuj go wciskając *Nowy UserPermit*. Wprowadź swój InstallPermit i przetestuj go wciskając *Nowy InstallPermit*.
+7. Przejdź do OpenCPN, *Opcje → Mapy → Mapy S63 → Klucze/zezwolenia*. Wprowadź swój UserPermit i przetestuj go wciskając *Nowy UserPermit*. Wprowadź swój InstallPermit i przetestuj go wciskając *Nowy InstallPermit*.
     
-    7. Przejdź do OpenCPN, *Opcje → Mapy → Mapy S63 → Komórki map*. Zainstaluj zezwolenia CellPermit poprzez wciśniecie przycisku *Importuj zezwolenia CellPermit* i wybranie pliku PERMIT.txt w zestawie map S-63. Zaimportuj zestawy map S-63, naciskając *Importuj mapy/korekty* i wskazując katalog ENC_ROOT.
+8. Przejdź do OpenCPN, *Opcje → Mapy → Mapy S63 → Komórki map*. Zainstaluj zezwolenia CellPermit poprzez wciśniecie przycisku *Importuj zezwolenia CellPermit* i wybranie pliku PERMIT.txt w zestawie map S-63. Zaimportuj zestawy map S-63, naciskając *Importuj mapy/korekty* i wskazując katalog ENC_ROOT.
     
-    8. OpenCPN utworzy niezbędne pliki eSENC. Instalacja została zakończona!
+9. OpenCPN utworzy niezbędne pliki eSENC. Instalacja została zakończona!
 
 # Najczęściej zadawane pytania
 
