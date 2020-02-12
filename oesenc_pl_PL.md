@@ -1,6 +1,7 @@
 ---
 layout: default_pl_PL
 ---
+
 # Warunki używania map oeSenc
 
 - Mapy oeSENC mogą być używane tylko w OpenCPN.
@@ -120,7 +121,7 @@ W systemie docelowym nie mającym połączenia z internetem zainstaluj [wtyczkę
 
 7. Zażądaj przygotowania map, klikając przycisk, który pojawi się w kolumnie *Ostatnie żądanie*. Zestaw map zostanie przygotowany. Czas przetwarzania zależy od rozmiaru zestawu map, obciążenia serwera i sieci w danym momencie, ale nie przekracza 2 godzin. Najczęściej to kwestia kilku minut.
 
-8. Otrzymasz e-mail z linkiem do pobrania zestawu map. Mapy można pobrać także ze strony [Moje mapy oeSENC](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts). Jeśli nie pobierzesz map w ciągu tygodnia, trzeba będzie utworzyć zażądać przygotowania map ponownie. Pobierz mapy i przenieś je na system docelowy za pomocą jakiegoś nośnika danych.
+8. Otrzymasz e-mail z linkiem do pobrania zestawu map. Mapy można pobrać także ze strony [Moje mapy oeSENC](https://o-charts.org/shop/index.php?fc=module&module=occharts&controller=occharts). Jeśli nie pobierzesz map w ciągu tygodnia, trzeba będzie utworzyć żądanie przygotowania map ponownie. Pobierz mapy i przenieś je na system docelowy za pomocą jakiegoś nośnika danych.
 
 9. Na systemie docelowym, rozpakuj (unzip) mapy do dowolnego katalogu i zainstaluj je w OpenCPN, tak jak zawsze. Gotowe. Podłącz klucz sprzętowy do gniazda USB aby móc korzystać z map.
 
