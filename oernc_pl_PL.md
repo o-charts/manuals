@@ -84,23 +84,23 @@ W przypadku systemów bez połączenia z Internetem musisz utworzyć plik identy
 
 3. Wejdź w *Ustawienia* i kliknij *Utwórz plik ID dla klucza USB...*- jeśli masz klucz USB, lub *Utwórz plik identyfikatora systemu...</ em> jeśli nie masz klucza sprzętowego. Wtyczka poda ścieżkę dostępu do pliku *Fingerprint*. W przypadku Windows i macOS kopia jest tworzona bezpośrednio na pulpicie. W przypadku Linuxa plik jest tworzony w katalogu ~/.opencpn.</p></li> 
     
-    - Skopiuj plik *Fingerprint* na przenośny nośnik i znajdź jakiś komputer z dostępem do Internetu.
+4. Skopiuj plik *Fingerprint* na przenośny nośnik i znajdź jakiś komputer z dostępem do Internetu.
     
-    - Przejdź do [sklepu o-charts](https://o-charts.org/shop/14-oernc) i kup licencje na zestawy map oeRNC, którymi jesteś zainteresowany. Pomiń ten krok, jeśli już kupiłeś mapy.
+5. Przejdź do [sklepu o-charts](https://o-charts.org/shop/14-oernc) i kup licencje na zestawy map oeRNC, którymi jesteś zainteresowany. Pomiń ten krok, jeśli już kupiłeś mapy.
     
-    - Przejdź do strony [Moje mapy oeRNC](https://o-charts.org/shop/module/occharts/occhartsOernc) i utwórz tam *identyfikator systemu*, przesyłając plik *Fingerprint*. Pozostaw *nazwę systemu* pustą jeśli używasz klucza USB.
+6. Przejdź do strony [Moje mapy oeRNC](https://o-charts.org/shop/module/occharts/occhartsOernc) i utwórz tam *identyfikator systemu*, przesyłając plik *Fingerprint*. Pozostaw *nazwę systemu* pustą jeśli używasz klucza USB.
     
-    - Wybierz ów nowy *identyfikator systemu* dla każdego zestawu map, który chcesz przypisać do tego systemu. Raz dokonane przypisanie, nie może być zmienione.
+7. Wybierz ów nowy *identyfikator systemu* dla każdego zestawu map, który chcesz przypisać do tego systemu. Raz dokonane przypisanie, nie może być zmienione.
     
-    - Zażądaj przygotowania map, klikając przycisk, *Przygotuj*. Po kilku chwilach otrzymasz 2 linki: jeden do map, drugi do pliku z kluczami do ich odszyfrowania. Skopiuj oba pliki na jakiś nośnik przenośny i przenieś je na system docelowy.
+8. Zażądaj przygotowania map, klikając przycisk, *Przygotuj*. Po kilku chwilach otrzymasz 2 linki: jeden do map, drugi do pliku z kluczami do ich odszyfrowania. Skopiuj oba pliki na jakiś nośnik przenośny i przenieś je na system docelowy.
     
-    - W systemie docelowym rozpakuj plik map do wybranego katalogu i skopiuj pliki kluczy do tego samego folderu, w którym znajdują się rozpakowane mapy (.oernc). Zainstaluj mapy jak zwykle. Jeśli przypisałeś swoje mapy do klucza USB, musisz go podłączyć, aby móc korzystać z map.</ol> 
+9. W systemie docelowym rozpakuj plik map do wybranego katalogu i skopiuj pliki kluczy do tego samego folderu, w którym znajdują się rozpakowane mapy (.oernc). Zainstaluj mapy jak zwykle. Jeśli przypisałeś swoje mapy do klucza USB, musisz go podłączyć, aby móc korzystać z map.</ol> 
     
-    ### Uaktualnienia - online
+### Uaktualnienia - online
     
-    Aby zaktualizować zestaw map, przejdź do strony [Moje mapy oeRNC](https://o-charts.org/shop/module/occharts/occhartsOernc). W kolumnie *aktualizacje* pokazana będzie ostatnia aktualizacja, którą pobrałeś. W kolumnie *Ostatnia aktualizacja* znaleźć można informację o aktualnym wydaniu dostępnym dla danego zestawu map. Jeśli te daty są różne, pojawi się przycisk *Zażądaj*. Aktualizacje offline są niezależne i kompletne, nie martw się o aktualizacje pośrednie, które mogłeś pominąć wcześniej. Usuń stary zestaw map z OpenCPN, lub zachowaj go w innym katalogu. Pobierz i zainstaluj nowy zestaw.
+Aby zaktualizować zestaw map, przejdź do strony [Moje mapy oeRNC](https://o-charts.org/shop/module/occharts/occhartsOernc). W kolumnie *aktualizacje* pokazana będzie ostatnia aktualizacja, którą pobrałeś. W kolumnie *Ostatnia aktualizacja* znaleźć można informację o aktualnym wydaniu dostępnym dla danego zestawu map. Jeśli te daty są różne, pojawi się przycisk *Zażądaj*. Aktualizacje offline są niezależne i kompletne, nie martw się o aktualizacje pośrednie, które mogłeś pominąć wcześniej. Usuń stary zestaw map z OpenCPN, lub zachowaj go w innym katalogu. Pobierz i zainstaluj nowy zestaw.
     
-    # Najczęściej zadawane pytania
+# Najczęściej zadawane pytania
     
     > **Dla jakich systemów operacyjnych istnieją wtyczki oeSENC i oeRNC?**
     > 
