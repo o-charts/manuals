@@ -102,26 +102,26 @@ Aby zaktualizować zestaw map, przejdź do strony [Moje mapy oeRNC](https://o-ch
     
 # Najczęściej zadawane pytania
     
-    > **Dla jakich systemów operacyjnych istnieją wtyczki oeSENC i oeRNC?**
-    > 
-    > Mapy oeSENC i oeRNC działają w Windows, Mac, Android i Linux (w tym także ARM).
-    > 
-    > **A czy mogę zainstalować oprogramowania na maszynie wirtualnej?**
-    > 
-    > To nie zadziała. Musimy zapobiegać klonowaniu systemów.
-    > 
-    > **Czy można używać map oeSENC i oeRNC na iOS?**
-    > 
-    > Nie. Nie istnieje wersja OpenCPN dla iOS.
-    > 
-    > **Jak liczony jest "system" w przypadku komputera z wyborem systemu podczas uruchamiania?**
-    > 
-    > Każda kombinacja sprzęt + system operacyjny liczona jest oddzielnie.
-    > 
-    > **Dlaczego trzeba płacić za mapy oeSENC i oeRNC?**
-    > 
-    > Musimy dostosować się do wymogów instytucji posiadających prawa do map. Instytucje te określają opłaty i warunki licencyjne. Administracja i koszty są ograniczone do minimum. W przypadku, gdy odniesiemy wielki sukces ekonomiczny, fundusze zostaną przeznaczone na rozwój OpenCPN.
-    > 
-    > **OpenCPN jest oprogramowaniem open source. Gdzie znajdę kod wtyczki?**
-    > 
-    > Aby wykorzystywać mapy oeSENC i oeRNC musimy mieć pewność, że nie będą dostępne żadne kopie niezaszyfrowanych komórek map. Dlatego wtyczka ma część open-source i część binarną. Podobnie, jak wtyczki komercyjnych map BSB4 albo NV-charts.
+> **Dla jakich systemów operacyjnych istnieją wtyczki oeSENC i oeRNC?**
+> 
+> Mapy oeSENC i oeRNC działają w Windows, Mac, Android i Linux (w tym także ARM).
+
+> **A czy mogę zainstalować oprogramowania na maszynie wirtualnej?**
+> 
+> To nie zadziała. Musimy zapobiegać klonowaniu systemów.
+
+> **Czy można używać map oeSENC i oeRNC na iOS?**
+> 
+> Nie. Nie istnieje wersja OpenCPN dla iOS.
+
+> **Jak liczony jest "system" w przypadku komputera z wyborem systemu podczas uruchamiania?**
+> 
+> Każda kombinacja sprzęt + system operacyjny liczona jest oddzielnie.
+
+> **Dlaczego trzeba płacić za mapy oeSENC i oeRNC?**
+> 
+> Musimy dostosować się do wymogów instytucji posiadających prawa do map. Instytucje te określają opłaty i warunki licencyjne. Administracja i koszty są ograniczone do minimum. W przypadku, gdy odniesiemy wielki sukces ekonomiczny, fundusze zostaną przeznaczone na rozwój OpenCPN.
+
+> **OpenCPN jest oprogramowaniem open source. Gdzie znajdę kod wtyczki?**
+> 
+> Aby wykorzystywać mapy oeSENC i oeRNC musimy mieć pewność, że nie będą dostępne żadne kopie niezaszyfrowanych komórek map. Dlatego wtyczka ma część open-source i część binarną. Podobnie, jak wtyczki komercyjnych map BSB4 albo NV-charts.
