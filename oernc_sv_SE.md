@@ -62,7 +62,17 @@ Du bör besöka *Användarinställningar → Sjökort → fliken oeRNC Sjökort*
 
 ## Installera sjökort på en Android
 
-Kommer snart
+1. Installera senaste version av [OpenCPN app för Android 4.4 (eller senare)](https://play.google.com/store/apps/details?id=org.opencpn.opencpn) Från Play Butik. Kontrollera att du använder den officiella OpenCPN appen. Utgiven av Dave Register.
+
+2. Installera [oeRNC plugin för OpenCPN](https://play.google.com/store/apps/details?id=org.opencpn.oerncplugin) från Play Butik. Öppna appen oeRNC plugin och välj "Installera oeRNC plugin".
+
+3. Besök [o-charts shop](https://o-charts.org/shop/14-oernc) och köp licens för de set av sjökort du är intresserad av, såvida du inte redan har gjort så. Om du inte redan har en inloggning så skapa en ny. Kom ihåg inloggningsdata, mejl och lösenord, du kommer att behöva dem igen när du laddar ned sjökorten från OpenCPN.
+
+4. Öppna OpenCPN *Användarinställningar → Sjökort → fliken oeRNC Sjökort* och klicka på *Uppdatera listan*. Använd piltangenterna om fliken inte syns.
+
+5. Är det första gången på denna enhet så ange mejl och lösenord för att logga in.
+
+6. Följ instruktionerna på skärmen för att koppla köpta licenser till din enhet, ladda ned och installera korten. Det är lämpligt att gå tillbaks hit och uppdatera listan då och då för att kontrollera om det finns uppdateringar till dina kort.
 
 ## Ladda hem sjökort utan Internetanslutning
 
@@ -95,23 +105,23 @@ För att kontrollera och uppdatera dina sjökort besök [My oeRNC Charts](https:
 > **Vilka enheter/operativsystem kan använda oeSENC/oeRNC plugin?**
 > 
 > Sjökort i oeSENC/oeRNC-format kan användas på Windows, Mac, Linux system (ARM boards som RPi) och Android.
-> 
+
 > **Och om programmet körs på virtuell enhet (Virtual Machine)?**
 > 
 > Det kommer inte att fungera. Vårt avtal med leverantörer hindrar kloning av system.
-> 
+
 > **Kan oeSENC/oeRNC-kort användas på iPAD/iOS?**
 > 
 > Nej. OpenCPN är inte tillgängligt på Apple store.
-> 
+
 > **Hur räknas en dator med sk. dual boot?**
 > 
 > Varje operativsystem är en enskild enhet, alltså två system.
-> 
+
 > **OpenCPN är ett fritt program. Varför måste jag betala för oeSENC/oeRNC sjökort?**
 > 
 > Företaget eller myndigheten som producerar sjökorten anger licensavgift och villkor. Vår hantering och dess kostnader försöker vi göra så billigt som möjligt. Om vi skulle få stor framgång ekonomiskt sett, kommer det överskottet att gå tillbaka till OpenCPN.
-> 
+
 > **OpenCPN byggs med öppen källkod. Var finns programkoden för denna plugin?**
 > 
 > För att kunna hantera licenser för oeSENC/oeRNC-kort måste vi garantera att det inte kan finnas tillgång till okrypterade celler när programmet kör. Därför är pluginen uppdelad i en del med öppen källkod och en enbart binär del. Precis som kommersiella BSB4 eller NV-Charts plugin.
