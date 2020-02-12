@@ -1,5 +1,5 @@
 ---
-layout: default_fi_Fi_home
+layout: default_fi_FI_home
 ---
 
 <div class="questions">
