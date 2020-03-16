@@ -29,7 +29,7 @@ layout: default_fr_FR
 
 1. Le *système* est l’ordinateur que vous utiliserez pour OpenCPN. Le jeu de cartes, que vous achetez chez un VAR pour un système, peut être exclusivement utilisé sur ce système. Allez sur la page [Complément oeSENC](https://opencpn.org/OpenCPN/plugins/s63.html) pour télécharger et installer le complément S-63 (uniquement pour la version 4.6 de OpenCPN ou plus récente).
     
-2. Dans OpenCPN, allez dans *Options → Compléments → S63* et activez-le. Puis, allez dans OpenCPN, dans l'onglet *Options → Cartes/données → Cartes S63 → Clés/Permis* et créer un fichier d’identification du système (*FingerPrint</em) pour votre système en appuyant sur le bouton *Créer le fichier d'identification*.</p></li> 
+2. Dans OpenCPN, allez dans *Options → Compléments → S63* et activez-le. Puis, allez dans OpenCPN, dans l'onglet *Options → Cartes/données → Cartes S63 → Clés/Permis* et créer un fichier d’identification du système (*FingerPrint*) pour votre système en appuyant sur le bouton *Créer le fichier d'identification*.
         
 3. Allez à [Boutique o-Charts](https://o-charts.org/shop) et achetez un UserPermit.
         
@@ -43,7 +43,7 @@ layout: default_fr_FR
         
 8. Aller dans les options d'OpenCPN, à l'onglet*Options → Cartes/données → cartes S63 → Cellules de carte*. Installer les permis de cellule en utilisant le bouton *Importer les permis des celleules* pour trouver le fichier PERMIT.txt à l’intérieur de vos jeux de cartes S-63. Importer vos jeux de cartes S-63 en appuyant sur *Importer cartes/mises à jour* en trouvant le dossier ENC_ROOT.
         
-9. OpenCPN créera les fichiers eSENC nécessaires et ce sera fini !</ol></li> </ol> 
+9. OpenCPN créera les fichiers eSENC nécessaires et ce sera fini!
         
 # Foire aux Questions
         
