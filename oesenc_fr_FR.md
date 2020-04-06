@@ -22,9 +22,10 @@ layout: default_fr_FR
 
 - Vous serez en mesure de mettre à jour vos cartes pendant un an à compter de la date d’achat. Les jeux de cartes ont des périodes de mise à jour variables :
     
-    - Hebdomadaire : DE, FR, SE, NO, FI, PL, Caraïbes.
-    - Tous les quinze jours : AU, DK, GL, FO.
-    - Publication trimestrielle : UK, ES, BE, NL, HR, IS.
+    - Hebdomadaire: DE, FR, SE, NO, FI, PL, Caraïbes, IT, EE.
+    - Tous les quinze jours: AU, DK, GL, FO.
+    - Mensuel: CA.
+    - Publication trimestrielle: UK, ES, BE, NL, HR, IS.
 
 - Vos cartes expirent après un an à compter de la date d’achat. Après l'expiration, votre jeu de cartes continue de fonctionner sur votre système, mais vous ne pouvez plus demander de mise à jour.
 
