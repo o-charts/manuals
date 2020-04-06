@@ -22,8 +22,9 @@ layout: default_en_US
 
 - You will be able to update your charts during a year from the purchase date. Charts have different update periodicity:
 
-    - Weekly: DE, FR, SE, NO, FI, PL, Caribbean.
+    - Weekly: DE, FR, SE, NO, FI, PL, Caribbean, IT, EE.
     - Fortnightly: AU, DK, GL, FO.
+    - Monthly: CA.
     - Quarterly: UK, ES, BE, NL, HR, IS.
 
 - Your charts expire after a year from the purchase date. After expiration, charts will keep working on your system but you can not request updates for them any longer.
