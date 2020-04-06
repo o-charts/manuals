@@ -23,9 +23,8 @@ layout: default_fi_FI
 - Voit päivittää karttasarjasi vuoden ostopäivästä. Karttasarjoilla on vaihtelevat päivitysvälit:
     
     - Viikoittain: DE, FR, SE, NO, FI, PL, Karibia.
-    - Kahden viikon välein: AU.
+    - Kahden viikon välein: AU, DK, GL, FO.
     - Neljännesvuosittain: UK, ES, BE, NL, HR, IS.
-    - Vuosittain: DK, GL, FO.
 
 - Karttasarjasi päivitysoikeus päättyy vuoden kuluttua ostopäivästä. Päivitysoikeuden päättymisen jälkeen karttasarjasi toimivat edelleen järjestelmässäsi, mutta et voi enää päivittää niitä.
 
