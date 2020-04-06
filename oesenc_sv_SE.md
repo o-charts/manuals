@@ -21,8 +21,9 @@ layout: default_sv_SE
 
 - Du kommer att kunna uppdatera dina sjökort under ett år från inköpsdatum. Sjökortsleverantörerna har olika uppdateringsperiodicitet:
     
-    - Veckovis: DE, FR, SE, NO, FI, PL, Västindien.
+    - Veckovis: DE, FR, SE, NO, FI, PL, Västindien, IT, EE.
     - Var fjortonde dag: AU, DK, GL, FO.
+    - Månadsvis: CA.
     - Kvartalsvis: UK, ES, BE, NL, HR, IS.
 
 - Dina kortlicenser upphör efter ett år från inköpsdatum. Efter förfallodatum, kommer sjökorten fortfarande att fungera på datorn men du kan inte längre ladda hem uppdateringar.
