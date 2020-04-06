@@ -21,8 +21,9 @@ layout: default_nl_NL
 
 - Je kunt je kaarten gedurende een jaar vanaf de aankoopdatum updaten. Kaarten hebben verschillende update-periodes:
     
-    - Wekelijks: DE, FR, SE, NO, FI, PL, Caribbean.
+    - Wekelijks: DE, FR, SE, NO, FI, PL, Caribbean, IT, EE.
     - Tweewekelijks: AU, DK, GL, FO.
+    - Maandelijks: CA.
     - Eén maal per kwartaal: UK, ES, BE, NL, HR, IS.
 
 - Je kaart verloopt 1 jaar na aankoopdatum. Na het verlopen blijven kaarten nog wel op je systeem werken maar je kunt geen updates meer opvragen.
