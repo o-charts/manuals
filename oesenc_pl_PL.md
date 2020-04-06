@@ -23,9 +23,8 @@ layout: default_pl_PL
 - Będziesz miał możliwość aktualizowania swoich map przez rok od daty zakupu. Mapy różnych biur hydrograficznych aktualizowane są z różną częstotliwością:
     
     - Co tydzień: DE, FR, SE, NO, FI, PL, Karaiby.
-    - Co dwa tygodnie: AU.
+    - Co dwa tygodnie: AU, DK, GL, FO.
     - Co kwartał: UK, ES, BE, NL, HR, IS.
-    - Raz w roku: DK, GL, FO.
 
 - Licencja wygasa po roku od daty zakupu. Po wygaśnięciu licencji pobrane wcześniej mapy będą nadal działały w systemie, ale ich aktualizacja nie będzie już możliwa.
 
