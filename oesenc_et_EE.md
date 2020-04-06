@@ -21,8 +21,9 @@ layout: default_et_EE
 
 - Sa saad oma kaarte aasta jooksul alates kaartide ostukuupäevast uuendada. Kaartidel on erinev uuenduste perioodsus:
     
-    - iga nädal: DE, FR, SE, NO, FI, PL, Kariibid.
+    - iga nädal: DE, FR, SE, NO, FI, PL, Kariibid, IT, EE.
     - iga 2 nädala tagant: AU, DK, GL, FO.
+    - igakuine: CA.
     - kord kvartalis: UK, ES, BE, NL, HR, IS.
 
 - Su kaardid aeguvad aasta pärast, alates ostukuupäevast. Peale aegumist on kaardid su süsteemis kasutuskõlblikud, kuid sa ei saa neile enam uuendusi taotleda.
