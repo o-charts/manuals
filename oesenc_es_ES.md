@@ -22,9 +22,8 @@ layout: default_es_ES
 - Podrá actualizar sus cartas durante un año a partir de la fecha de compra. Las cartas tienen una periodicidad de actualización diferente:
     
     - Semanal: DE, FR, SE, NO, FI, PL, Caribe.
-    - Quincenal: AU.
-    - Trimestral: Reino Unido, ES, BE, NL, HR, IS.
-    - Anualmente: DK, GL, FO.
+    - Quincenal: AU, DK, GL, FO.
+    - Trimestral: UK, ES, BE, NL, HR, IS.
 
 - Sus cartas caducan después de un año a partir de la fecha de compra. Después de la expiración, las cartas seguirán funcionando en su sistema pero ya no puede solicitar actualizaciones para las mismas.
 
