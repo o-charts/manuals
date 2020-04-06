@@ -21,8 +21,9 @@ layout: default_de_DE
 
 - Sie können Ihre Karten während eines Jahres ab dem Kaufdatum aktualisieren. Karten haben verschiedene Aktualisierungintervalle:
     
-    - Wöchentlich: DE, FR, SE, NO, FI, PL, Karibik.
+    - Wöchentlich: DE, FR, SE, NO, FI, PL, Karibik, IT, EE.
     - Vierzehntägig: AU, DK, GL, FO.
+    - Monatlich: CA.
     - Vierteljährlich: UK, ES, BE, NL, HR.
 
 - Ihre Karten laufen ein Jahr nach dem Kaufdatum ab. Nach Ablauf sind die Karten auf Ihrem System nach wie vor sichtbar, Sie können jedoch keine Aktualisierungen mehr für sie anfordern.
