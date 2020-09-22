@@ -70,7 +70,7 @@ You should visit *Options → Charts → oeRNC charts* from time to time to see 
 
 3. Go to [o-charts shop](https://o-charts.org/shop/14-oernc) and license the chart sets you are interested in. Ignore this step if you have already bought your charts. Remember your access data to o-charts shop (email and password), you will need them later.
 
-4. Go to OpenCPN, *Options → Charts → oeSENC charts* tab and press *Refresh Chart List*. Use the arrows to show the hidden tabs.
+4. Go to OpenCPN, *Options → Charts → oeRNC charts* tab and press *Refresh Chart List*. Use the arrows to show the hidden tabs.
 
 5. Login with your o-charts shop access data email and password.
 
