@@ -71,10 +71,6 @@ layout: default_de_DE
 > 
 > Ja, aber dies "kostet" Sie einen InstallPermit für Ihr neues System.
 > 
-> **Kann ich meinen InstallPermit und die Karten mittels eines USB-Sticks auf andere Systemen übertragen?**
-> 
-> Dies würde eine Hardware Dongle-Lösung erfordern. Unseres Erachtens nach macht es keinen Sinn, USB-Sticks oder DVDs in die ganze Welt zu verschicken. Deshalb haben wir uns für einen Software-Dongle entschieden. Also ist die Antwort zu diesem Zetpunkt: Nein.
-> 
 > **Wieviel kosten S-63 Karten (und warum sind sie manchmal so teuer)?**
 > 
 > Der Verkaufspreis wird durch die einzelnen HOs fixiert. Ihre Kunden kommen aus der Schifffahrt-Industrie oder offiziellen Institutionen wie Regierungen, nicht vom Freizeitmarkt. Dies ist ein bekanntes Problem und der Grund, warum nur wenige aus dieser Gruppe S-63 Charts nutzen. Wir benötigen eine Menge von Lobbyarbeit, um bessere Lösungen und bessere Preise durchzusetzen. Daher würden wir Hilfe oder Unterstützung von menschen, die über die richtigen Kontakte verfügen sehr schätzen.
