@@ -71,10 +71,6 @@ layout: default_fr_FR
 > 
 > Oui et ceci vous "coûtera" un InstallPermit pour votre nouvelle machine.
 > 
-> **Puis-je avoir mon InstallPermit et les cartes sur une clé USB et les transporter d'un système à l'autre ?**
-> 
-> Ce serait une solution de dongle hardware. Nous pensons qu’il n’est pas viable pour nous d'envoyer des clés USB ou des DVD dans le monde entier. C’est pourquoi nous avons opté pour un dongle logiciel. Ainsi, la réponse aujourd'hui est "Non".
-> 
 > **Quel est le coût de cartes S-63 (et pourquoi sont-elles parfois si chère) ?**
 > 
 > Le prix de vente est fixé par chacun des offices hydrographiques (SHOM, UHKO, ...). Les clients proviennent de l’industrie du transport maritime et/ou des organismes officiels comme les gouvernements, pas le marché des loisirs. C’est un problème reconnu et c'est la raison pour laquelle il y a très peu d’utilisateurs de cartes S-63, pour l’instant. Nous aurons besoin de beaucoup de lobbying pour obtenir les meilleures solutions et les meilleurs prix. Aide ou soutien de ceux qui ont les bons interlocuteurs serait apprécié.
