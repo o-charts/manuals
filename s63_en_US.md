@@ -72,10 +72,6 @@ layout: default_en_US
 >
 > Yes, and this case will “cost” you an InstallPermit for your new machine as well.
 
-> **Can I have my InstallPermit and the charts on a USB stick and carry them between different systems?**
->
-> This would be a hardware dongle solution. We feel that it is not viable for us to send USB sticks or DVDs all over the world. That's why we opted for a soft dongle. So, the answer today is - no.
-
 > **What does S-63 charts cost (and why are they sometimes so expensive)?**
 >
 > The retail price is fixed by the individual HOs. Their customers are from the shipping industry or official bodies like governments, not the leisure market. This is a recognized issue and the reason why there are very few users of S-63 charts from this group, for now. We will need a lot of lobbying to get better solutions and better prices. Help or support from those who have the right contacts would be appreciated.
