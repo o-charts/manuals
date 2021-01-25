@@ -71,10 +71,6 @@ layout: default_et_EE
 > 
 > Ja, see juhtum laheb sulle "maksma" samuti ühe paigaldusloa oma uue arvuti jaoks.
 > 
-> **Kas ma saan oma paigaldusluba ja kaarte hoida USB-pulgal ja kanda neid erinevate süsteemide vahel?**
-> 
-> See oleks riistvaralise dongli olukord. Meil on tunne, et meil ei ole mõistlik saata USB-pulki või DVD'id üle kogu maailma. Seetõttu me valisime tarkvaralise dongli. Nii et täna on vastus - ei.
-> 
 > **Kui palju S-63 kaardid maksavad (ning miks nad mõnikord nii kallid on)?**
 > 
 > Jaehinna kinnitab iga HO eraldi. Nende kliendid on laevandustööstus või ametiasutused nagu valitsused, mitte vabaajaturg. See on teada-tuntud probleem ja ka põhjus, miks praegu on väga vähe S-63 kaartide kasutajaid selles rühmas. Me vajame palju lobitööd paremate lahenduste ja soodsamate hindade saamiseks. Abi või tugi nende poolt, kellel on õiged kontaktid, oleks teretulnud.
