@@ -71,10 +71,6 @@ layout: default_nl_NL
 > 
 > Ja, dit geval "kost" het je één InstallPermit voor je nieuwe computer.
 > 
-> **Kan ik mijn InstallPermit en de kaarten op een USB stick zetten en ze gebruiken op verschillende systemen?**
-> 
-> Dit zou een hardware "dongel" oplossing zijn. Het is niet doenlijk voor ons om USB sticks of DVD's over de hele wereld te verzenden. Daarom hebben wij gekozen voor deze "soft dongel" oplossing. Het antwoord is dus NEE.
-> 
 > **Wat kosten S-63 kaarten en waarom zijn ze soms zo duur?**
 > 
 > De verkoopprijs is vastgesteld door de afzonderlijke HO's. Hun klanten zijn de (grote) scheepvaart en officiële instanties zoals de overheid, niet de pleziervaart. Dat is de reden waarom er zo weinig S-63 kaart gebruikers in de pleziervaart zijn. Er moet nog flink onderhandeld worden voor betere oplossingen en betere prijzen. Hulp door mensen met de juiste contacten wordt op prijs gesteld.
