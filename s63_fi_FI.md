@@ -72,10 +72,6 @@ layout: default_fi_FI
 > 
 > Kyllä, ja tässä tapauksessa se "maksaa" sinulle asennusluvan uuteen koneeseesi.
 > 
-> **Voinko saada asennusluvan ja asentaa kartat USB-tikulle ja siirtää niitä eri järjestelmien välillä?**
-> 
-> Tämä vaatisi laitteistotikkuratkaisun. Meille ei ole järkevää lähetellä USB-tikkuja tai DVD:tä ympäri maailmaa. Tämän vuoksi tuemme vain ohjelmallista USB-tikkua. Joten vastaus tällä hetkellä on - et voi.
-> 
 > **Mitä S-63 -kartat maksavat (ja miksi ne ovat joskus todella kalliita)?**
 > 
 > Paikalliset HO:t ovat määritelleet karttojen vähittäismyyntihinnan. Heidän asiakkaitaan ovat kuljetusteollisuus ja viralliset tahot kuten hallinto - ei vapaa-ajan markkinat. Em. syistä harvat huviveneilijät käyttävät S-63 -karttoja. Meidän täytyy tehdä paljon lobbausta saadaksemme paremmat ratkaisut ja halvemmat hinnat. Apu henkilöiltä, joilla on sopivat kontaktit, on tervetullutta.
