@@ -72,10 +72,6 @@ layout: default_pl_PL
 > 
 > Tak, także w tym przypadku będzie to "kosztowało" jeden InstallPermit dla nowego komputera.
 
-> **Czy mogę zainstalować InstallPermit oraz mapy na nośniku USB i przenosić je między różnymi systemami?**
-> 
-> To byłoby rozwiązanie z kluczem sprzętowym. Sądzimy, że rozsyłanie USB lub DVD na cały świat, nie byłoby dla nas wykonalne. Dlatego zdecydowaliśmy się na klucz programowy. Więc odpowiedź na dziś brzmi: nie.
-
 > **Ile kosztują mapy S-63 (i czemu czasami są tak drogie)?**
 > 
 > Cena detaliczna map jest ustalona przez poszczególne Biura Hydrograficzne (HO). Ich użytkownikami jest przemysł żeglugowy albo oficjalne agendy rządowe, nie żeglarze rekreacyjni. To jest znany problem i powód, dla którego mapy S-63 są obecnie bardzo rzadko używane w rekreacji. Potrzebny będzie silny lobbing, aby uzyskać lepsze rozwiązania i niższe ceny. Pomoc lub wsparcie osób, która mają odpowiednie kontakty, będą mile widziane.
