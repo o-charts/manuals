@@ -71,10 +71,6 @@ layout: default_sv_SE
 > 
 > Ja, och detta fall kommer att "kosta” du en InstallPermit för din nya maskin också.
 > 
-> **Kan jag ha min InstallPermit och sjökorten på en USB sticka och växla dem mellan olika system?**
-> 
-> Detta skulle vara en hårdvaru-dongle lösning. Vi tycker inte det skulle vara en praktisk lösning att skicka USB-stickor över hela världen. Därför valde vi an mjuvarulicens-lösning istället. Så, svaret är - Nej.
-> 
 > **Vad kostar S-63 kort. (Och varför är dom så dyra ibland)?**
 > 
 > Försäljningspriset styres av respektive leverantör, HO. Deras normala kunder är sjöfarten eller officiella enheter som regeringar, och inte fritidsmarknaden. Det är ett känt faktum och också anledningen till låg försäljning till den gruppen. Det behövs mycket påtryckning för få bättre villkor och priser. Hjälp och stöd från de av er som rätt kontakter skulle alla ha nytta av.
