@@ -71,10 +71,6 @@ layout: default_es_ES
 > 
 > Sí, pero le "costará" un InstallPermit para su nueva máquina.
 > 
-> **¿Puedo tener mi InstallPermit y las cartas en una memoria USB y utilizarlos en distintos sistemas?**
-> 
-> Esto sería una solución de un hardware dongle. Creemos que no es viable para nosotros enviar memorias USB o DVDs por todo el mundo. Por eso optamos por un software dongle. Así pues, por el momento la respuesta es: no.
-> 
 > **¿Cuánto cuestan las cartas S-63 (y por que son muy caras a veces)?**
 > 
 > El precio de venta es fijado por los respectivos HOs. Sus clientes pertenecen a la navegación comercial o a organismos oficiales como los gobiernos, no al mercado del ocio. Este es un tema reconocido y la razón por qué, por ahora, hay muy pocos usuarios de cartas S-63 de este grupo. Se necesita mucha presión para conseguir mejores soluciones y mejores precios. Se agradeceria la ayuda o apoyo de quienes tienen los contactos adecuados.
